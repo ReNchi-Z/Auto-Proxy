@@ -33,8 +33,18 @@ def collect_proxies():
     print(f"Total proxies collected: {len(all_proxies)}")
     return all_proxies
 
+def parse_proxy(proxy):
+    """Mengambil hanya IP dan Port dari format IP,Port,Country,ISP jika diperlukan."""
+    parts = proxy.split(",")  # Jika data terpisah dengan koma
+    if len(parts) >= 2:  # Pastikan ada setidaknya IP dan Port
+        ip = parts[0].strip()
+        port = parts[1].strip()
+        return f"{ip}:{port}"
+    return proxy  # Jika sudah dalam format IP:Port, langsung dikembalikan
+
 def check_proxy(proxy):
     """Cek apakah proxy aktif atau tidak."""
+    proxy = parse_proxy(proxy)  # Pastikan formatnya IP:Port
     try:
         ip, port = proxy.split(":")
     except ValueError:
