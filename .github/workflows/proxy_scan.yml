@@ -2,7 +2,7 @@ name: Proxy Checker
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Jalankan setiap jam
+    - cron: "0 */6 * * *"  # Jalankan setiap 6 jam
   workflow_dispatch:
 
 jobs:
