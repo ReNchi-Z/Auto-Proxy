@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Ambil variabel dari Secret
 PROXY_SOURCES = os.getenv("PROXY_SOURCES", "").split(",")
-API_URL = os.getenv('API_URL', 'https://api.renchi.workers.dev/api?ip={ip}')
+API_URL = os.getenv("API_URL", "https://api.renchi.workers.dev/api?ip={ip}")
 
 # File output
 ALIVE_FILE = "alive.txt"
@@ -26,15 +26,23 @@ def collect_proxies():
     all_proxies = set()
     for url in PROXY_SOURCES:
         all_proxies.update(fetch_proxies(url))
-    print(f"Total proxies collected: {len(all_proxies)}")
-    return all_proxies
+
+    # Hapus duplikat berdasarkan kombinasi IP:Port
+    unique_proxies = set()
+    for proxy in all_proxies:
+        parts = proxy.split(":")
+        if len(parts) == 2:  # Pastikan format benar
+            unique_proxies.add(proxy)
+
+    print(f"Total proxies collected: {len(unique_proxies)}")
+    return unique_proxies
 
 def check_proxy(proxy):
     """Cek apakah proxy aktif atau tidak."""
-    ip, port = proxy.split(":")
-    api_url = API_URL.format(ip=f"{ip}:{port}")
-
     try:
+        ip, port = proxy.split(":")
+        api_url = API_URL.format(ip=f"{ip}:{port}")
+
         response = requests.get(api_url, timeout=10)
         response.raise_for_status()
         data = response.json()
@@ -50,9 +58,9 @@ def check_proxy(proxy):
             print(f"{ip}:{port} is DEAD")
             return (ip, port, country_code, isp, False)
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error checking {ip}:{port}: {e}")
-        return (ip, port, "Unknown", "Unknown", False)
+    except (requests.exceptions.RequestException, ValueError) as e:
+        print(f"Error checking {proxy}: {e}")
+        return (proxy, "Unknown", "Unknown", "Unknown", False)
 
 def main():
     """Jalankan pengumpulan dan pengecekan proxy."""
