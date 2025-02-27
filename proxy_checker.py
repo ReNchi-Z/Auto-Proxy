@@ -1,15 +1,19 @@
 import requests
 import os
 
+print("Skrip mulai...")  # Tambahkan log di awal untuk memastikan eksekusi dimulai
+
 API_URL = os.getenv("API_URL")
 
 if not API_URL:
+    print("API_URL tidak ditemukan!")  # Log jika API_URL tidak ditemukan
     raise ValueError("API_URL tidak ditemukan di secret! Pastikan sudah diatur.")
 
 def parse_proxy(proxy):
     return proxy.replace(",", ":")
 
 def check_proxy(proxy):
+    print(f"Memeriksa proxy: {proxy}")  # Log untuk memeriksa setiap proxy yang diuji
     proxy = parse_proxy(proxy)
     try:
         ip, port = proxy.split(":")
@@ -24,7 +28,7 @@ def check_proxy(proxy):
         response.raise_for_status()
         data = response.json()
 
-       # print(f"🔍 API Response for {proxy}: {data}")
+        # print(f"🔍 API Response for {proxy}: {data}")
 
         status = data.get("proxyStatus", "").lower()
         status = status.replace("✅", "").strip()
@@ -44,7 +48,7 @@ def check_proxy(proxy):
 
 def check_proxies():
     if not os.path.exists("proxies.txt"):
-        print("File proxies.txt tidak ditemukan! Pastikan sudah mengumpulkan proxy.")
+        print("File proxies.txt tidak ditemukan!")  # Log jika file tidak ditemukan
         return
 
     with open("proxies.txt", "r") as f:
