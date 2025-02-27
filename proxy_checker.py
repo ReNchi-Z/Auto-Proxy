@@ -42,6 +42,8 @@ def check_proxy(proxy):
         return (ip, port, "Unknown", "Unknown", False)
 
 def check_proxies():
+    print("📝 Script started. Mulai memproses proxy...")  # Menambahkan log script start
+    
     if not os.path.exists("proxies.txt"):
         print("File proxies.txt tidak ditemukan!")  # Log jika file tidak ditemukan
         return
