@@ -24,7 +24,7 @@ def check_proxy(proxy):
         response.raise_for_status()
         data = response.json()
 
-        print(f"🔍 API Response for {proxy}: {data}")
+       # print(f"🔍 API Response for {proxy}: {data}")
 
         status = data.get("proxyStatus", "").lower()
         status = status.replace("✅", "").strip()
