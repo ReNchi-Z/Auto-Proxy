@@ -1,19 +1,15 @@
 import requests
 import os
 
-print("Skrip mulai...")  # Tambahkan log di awal untuk memastikan eksekusi dimulai
-
 API_URL = os.getenv("API_URL")
 
 if not API_URL:
-    print("API_URL tidak ditemukan!")  # Log jika API_URL tidak ditemukan
     raise ValueError("API_URL tidak ditemukan di secret! Pastikan sudah diatur.")
 
 def parse_proxy(proxy):
     return proxy.replace(",", ":")
 
 def check_proxy(proxy):
-    print(f"Memeriksa proxy: {proxy}")  # Log untuk memeriksa setiap proxy yang diuji
     proxy = parse_proxy(proxy)
     try:
         ip, port = proxy.split(":")
@@ -28,8 +24,6 @@ def check_proxy(proxy):
         response.raise_for_status()
         data = response.json()
 
-        # print(f"🔍 API Response for {proxy}: {data}")
-
         status = data.get("proxyStatus", "").lower()
         status = status.replace("✅", "").strip()
         country_code = data.get("countryCode", "Unknown")
@@ -42,8 +36,9 @@ def check_proxy(proxy):
             print(f"❌ Proxy {ip}:{port} is DEAD")
             return (ip, port, country_code, isp, False)
 
-    except requests.exceptions.RequestException as e:
-        print(f"⏳ Proxy {ip}:{port} is NOT RESPONDING or ERROR: {e}")
+    except requests.exceptions.RequestException:
+        # Tidak perlu menyertakan detail API URL atau error lainnya
+        print(f"⏳ Proxy {proxy} is NOT RESPONDING")
         return (ip, port, "Unknown", "Unknown", False)
 
 def check_proxies():
