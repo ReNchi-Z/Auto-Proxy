@@ -3,9 +3,9 @@ import requests
 import csv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Ambil variabel dari Secret
-PROXY_SOURCES = os.getenv("PROXY_SOURCES", "").split(",")
-API_URL = os.getenv("API_URL", "https://api.renchi.workers.dev/api?ip={ip}")
+# Ambil variabel dari Secret dan filter agar tidak ada URL kosong
+PROXY_SOURCES = [url.strip() for url in os.getenv("PROXY_SOURCES", "").split(",") if url.strip()]
+API_URL = os.getenv('API_URL', 'https://api.renchi.workers.dev/api?ip={ip}')
 
 # File output
 ALIVE_FILE = "alive.txt"
@@ -13,8 +13,11 @@ DEAD_FILE = "dead.txt"
 
 def fetch_proxies(url):
     """Mengambil daftar proxy dari URL dan mengembalikan set unik."""
+    if not url:
+        print("Skipping empty URL")
+        return set()
     try:
-        response = requests.get(url.strip(), timeout=10)
+        response = requests.get(url, timeout=10)
         response.raise_for_status()
         return {line.strip() for line in response.text.splitlines() if line.strip()}
     except requests.exceptions.RequestException as e:
@@ -26,23 +29,21 @@ def collect_proxies():
     all_proxies = set()
     for url in PROXY_SOURCES:
         all_proxies.update(fetch_proxies(url))
-
-    # Hapus duplikat berdasarkan kombinasi IP:Port
-    unique_proxies = set()
-    for proxy in all_proxies:
-        parts = proxy.split(":")
-        if len(parts) == 2:  # Pastikan format benar
-            unique_proxies.add(proxy)
-
-    print(f"Total proxies collected: {len(unique_proxies)}")
-    return unique_proxies
+    
+    print(f"Total proxies collected: {len(all_proxies)}")
+    return all_proxies
 
 def check_proxy(proxy):
     """Cek apakah proxy aktif atau tidak."""
     try:
         ip, port = proxy.split(":")
-        api_url = API_URL.format(ip=f"{ip}:{port}")
+    except ValueError:
+        print(f"Invalid proxy format: {proxy}")
+        return (proxy, "Unknown", "Unknown", "Unknown", False)
 
+    api_url = API_URL.format(ip=f"{ip}:{port}")
+
+    try:
         response = requests.get(api_url, timeout=10)
         response.raise_for_status()
         data = response.json()
@@ -51,16 +52,16 @@ def check_proxy(proxy):
         country_code = data.get("countryCode", "Unknown")
         isp = data.get("isp", "Unknown")
 
-        if "active" in status.lower():
+        if "active" in status:
             print(f"{ip}:{port} is ALIVE")
             return (ip, port, country_code, isp, True)
         else:
             print(f"{ip}:{port} is DEAD")
             return (ip, port, country_code, isp, False)
 
-    except (requests.exceptions.RequestException, ValueError) as e:
-        print(f"Error checking {proxy}: {e}")
-        return (proxy, "Unknown", "Unknown", "Unknown", False)
+    except requests.exceptions.RequestException as e:
+        print(f"Error checking {ip}:{port}: {e}")
+        return (ip, port, "Unknown", "Unknown", False)
 
 def main():
     """Jalankan pengumpulan dan pengecekan proxy."""
