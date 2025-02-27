@@ -1,0 +1,36 @@
+name: Proxy Scanner
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Jalankan setiap 4 jam
+  workflow_dispatch:  # Bisa dijalankan manual
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Gather proxies
+        env:
+          PROXY_SOURCES: ${{ secrets.PROXY_SOURCES }}
+        run: python gather_proxies.py
+
+      - name: Check proxies
+        env:
+          API_URL: ${{ secrets.API_URL }}
+        run: python check_proxies.py
+
+      - name: Upload results
+        uses: actions/upload-artifact@v3
+        with:
+          name: proxy-results
+          path: |
+            alive.txt
+            dead.txt
+            error.txt
