@@ -1,36 +1,32 @@
-import requests
 import os
+import requests
 
-# Ambil daftar sumber proxy dari secret
-PROXY_SOURCES = os.getenv("PROXY_SOURCES")
+# Ambil daftar sumber dari Secrets
+proxy_sources = os.getenv("PROXY_SOURCES", "").split(",")
 
-if not PROXY_SOURCES:
-    raise ValueError("PROXY_SOURCES tidak ditemukan di secret!")
+proxies = set()  # Gunakan set untuk menghindari duplikasi
 
-def fetch_proxies():
-    """Mengambil daftar proxy dari beberapa sumber dan menyimpannya ke file."""
-    sources = PROXY_SOURCES.split("\n")
-    proxies = []
+for url in proxy_sources:
+    url = url.strip()
+    if not url:
+        continue  # Lewati jika URL kosong
 
-    for url in sources:
-        url = url.strip()
-        if not url:
-            continue
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()  # Cek jika URL tidak valid
+        
+        lines = response.text.strip().split("\n")
+        for line in lines:
+            parts = line.strip().split(",")  # Pisahkan berdasarkan koma
+            if len(parts) >= 2:  # Pastikan ada setidaknya IP dan Port
+                ip_port = f"{parts[0]}:{parts[1]}"  # Ambil IP dan Port saja
+                proxies.add(ip_port)
 
-        try:
-            response = requests.get(url, timeout=10)
-            response.raise_for_status()
-            new_proxies = response.text.strip().split("\n")
-            proxies.extend(new_proxies)
-            print(f"Fetched {len(new_proxies)} proxies from {url}")
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching {url}: {e}")
+    except requests.RequestException as e:
+        print(f"❌ Error fetching {url}: {e}")  # Log error tapi tetap lanjut
 
-    # Simpan semua proxy yang dikumpulkan ke file
-    with open("proxies.txt", "w") as f:
-        f.write("\n".join(proxies))
+# Simpan hasil ke file
+with open("proxies.txt", "w") as f:
+    f.write("\n".join(proxies))
 
-    print(f"Total proxies collected: {len(proxies)}")
-
-if __name__ == "__main__":
-    fetch_proxies()
+print(f"✅ Total proxies collected: {len(proxies)}")
