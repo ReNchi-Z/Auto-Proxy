@@ -1,36 +1,36 @@
-name: Proxy Scanner
+name: Auto Proxy Check
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Jalankan setiap jam
+    - cron: "0 */6 * * *"  # Setiap 6 jam
   workflow_dispatch:  # Bisa dijalankan manual
 
 jobs:
-  scan:
+  check-proxies:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # Update ke v4
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
       - name: Install dependencies
         run: pip install requests
 
-      - name: Gather proxies
+      - name: Collect & Check Proxies
         env:
           PROXY_SOURCES: ${{ secrets.PROXY_SOURCES }}
-        run: python gather_proxies.py
-
-      - name: Check proxies
-        env:
           API_URL: ${{ secrets.API_URL }}
-        run: python check_proxies.py
+        run: python proxy_checker.py
 
-      - name: Upload results
-        uses: actions/upload-artifact@v4  # Update ke v4
-        with:
-          name: proxy-results
-          path: |
-            alive.txt
-            dead.txt
-            error.txt
+      - name: Commit and push results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add alive.txt dead.txt
+          git commit -m "Update proxy check results" || echo "No changes to commit"
+          git push
