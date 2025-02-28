@@ -57,7 +57,7 @@ def check_proxies():
 
     for proxy in proxies:
         ip, port, country, isp, is_alive = check_proxy(proxy)
-        formatted_proxy = f"{ip}:{port},{country},{isp}"
+        formatted_proxy = f"{ip},{port},{country},{isp}"
         if is_alive:
             alive_proxies.append(formatted_proxy)
         else:
