@@ -23,7 +23,7 @@ jobs:
       - name: Collect proxies
         env:
           PROXY_SOURCES: ${{ secrets.PROXY_SOURCES }}
-        run: python collect_proxies.py
+        run: python collect_proxies.py 2>/dev/null
 
       - name: Check proxies
         env:
