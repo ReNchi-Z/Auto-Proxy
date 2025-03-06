@@ -1,10 +1,25 @@
 import requests
 import os
+from collections import defaultdict
 
 API_URL = os.getenv("API_URL")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 if not API_URL:
     raise ValueError("API_URL tidak ditemukan di secret! Pastikan sudah diatur.")
+
+def send_telegram_message(message):
+    """Mengirim hasil pengecekan ke bot Telegram."""
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    payload = {"chat_id": TELEGRAM_CHAT_ID, "text": message, "parse_mode": "Markdown"}
+    
+    try:
+        response = requests.post(url, json=payload, timeout=10)
+        response.raise_for_status()
+        print("📩 Notifikasi terkirim ke Telegram!")
+    except requests.exceptions.RequestException as e:
+        print(f"⚠️ Gagal mengirim notifikasi Telegram: {e}")
 
 def parse_proxy(proxy):
     return proxy.replace(",", ":")
@@ -37,15 +52,14 @@ def check_proxy(proxy):
             return (ip, port, country_code, isp, False)
 
     except requests.exceptions.RequestException:
-        # Tidak perlu menyertakan detail API URL atau error lainnya
         print(f"⏳ Proxy {proxy} is NOT RESPONDING")
         return (ip, port, "Unknown", "Unknown", False)
 
 def check_proxies():
-    print("📝 Script started. Mulai memproses proxy...")  # Menambahkan log script start
+    print("📝 Script started. Mulai memproses proxy...")
     
     if not os.path.exists("proxies.txt"):
-        print("File proxies.txt tidak ditemukan!")  # Log jika file tidak ditemukan
+        print("File proxies.txt tidak ditemukan!")
         return
 
     with open("proxies.txt", "r") as f:
@@ -55,16 +69,22 @@ def check_proxies():
     dead_proxies = []
     not_responding_proxies = []
 
+    country_stats = defaultdict(lambda: {"alive": 0, "dead": 0, "not_responding": 0})
+
     for proxy in proxies:
         ip, port, country, isp, is_alive = check_proxy(proxy)
         formatted_proxy = f"{ip},{port},{country},{isp}"
+
         if is_alive:
             alive_proxies.append(formatted_proxy)
+            country_stats[country]["alive"] += 1
         else:
             if country == "Unknown" and isp == "Unknown":
                 not_responding_proxies.append(formatted_proxy)
+                country_stats[country]["not_responding"] += 1
             else:
                 dead_proxies.append(formatted_proxy)
+                country_stats[country]["dead"] += 1
 
     with open("alive.txt", "w") as f:
         f.write("\n".join(alive_proxies))
@@ -75,7 +95,22 @@ def check_proxies():
     with open("not_responding.txt", "w") as f:
         f.write("\n".join(not_responding_proxies))
 
-    print(f"✅ Total Alive: {len(alive_proxies)} | ❌ Total Dead: {len(dead_proxies)} | ⏳ Total Not Responding: {len(not_responding_proxies)}")
+    # Menyusun laporan berdasarkan negara
+    total_proxies = len(alive_proxies) + len(dead_proxies) + len(not_responding_proxies)
+    report = f"✅ *Hasil Pengecekan Proxy:*\n" \
+             f"🔹 *Total Proxy:* {total_proxies}\n" \
+             f"✅ *Alive:* {len(alive_proxies)}\n" \
+             f"❌ *Dead:* {len(dead_proxies)}\n" \
+             f"⏳ *Not Responding:* {len(not_responding_proxies)}\n\n" \
+             f"🌍 *Berdasarkan Negara:*\n"
+
+    for country, stats in country_stats.items():
+        if country == "Unknown":
+            continue  # Lewati jika negara tidak terdeteksi
+        report += f"🇨🇳 {country}: {stats['alive']} Alive, {stats['dead']} Dead, {stats['not_responding']} Not Responding\n"
+
+    print(report)
+    send_telegram_message(report)
 
 if __name__ == "__main__":
     check_proxies()
