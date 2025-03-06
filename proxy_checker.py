@@ -21,6 +21,12 @@ def send_telegram_message(message):
     except requests.exceptions.RequestException as e:
         print(f"⚠️ Gagal mengirim notifikasi Telegram: {e}")
 
+def country_flag(iso_code):
+    """Mengonversi kode negara (ISO 3166-1 alpha-2) menjadi emoji bendera."""
+    if iso_code == "Unknown":
+        return "❓"
+    return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in iso_code.upper())
+
 def parse_proxy(proxy):
     return proxy.replace(",", ":")
 
@@ -107,7 +113,8 @@ def check_proxies():
     for country, stats in country_stats.items():
         if country == "Unknown":
             continue  # Lewati jika negara tidak terdeteksi
-        report += f"🇨🇳 {country}: {stats['alive']} Alive, {stats['dead']} Dead, {stats['not_responding']} Not Responding\n"
+        flag = country_flag(country)  # Mengubah kode negara menjadi emoji bendera
+        report += f"{flag} {country}: {stats['alive']} Alive, {stats['dead']} Dead, {stats['not_responding']} Not Responding\n"
 
     print(report)
     send_telegram_message(report)
