@@ -28,12 +28,14 @@ jobs:
       - name: Check proxies
         env:
           API_URL: ${{ secrets.API_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python proxy_checker.py
 
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add alive.txt dead.txt
+          git add alive.txt dead.txt not_responding.txt
           git commit -m "Update proxy check results" || exit 0
           git push
