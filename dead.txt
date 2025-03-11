@@ -1,75 +1,80 @@
-65.20.87.245,443,IN,The Constant Company, LLC
-47.92.161.8,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
-39.116.245.197,50004,KR,Sk Broadband Co LTD
+211.227.114.208,11504,KR,Korea Telecom
+54.248.121.219,443,JP,Amazon.com, Inc.
+45.137.180.123,443,JP,Akari Networks
 143.198.213.197,8443,SG,Digitalocean, LLC
-18.141.140.120,30011,SG,Amazon.com, Inc.
-152.42.233.116,2053,SG,Digitalocean, LLC
-152.69.210.245,2053,SG,Oracle Corporation
-172.104.170.159,8443,SG,Akamai Technologies, Inc.
 14.55.144.166,50000,KR,Korea Telecom
-146.235.16.65,15174,SG,Oracle Corporation
-158.178.238.239,443,SG,Oracle Corporation
-152.42.233.116,8443,SG,Digitalocean, LLC
-209.97.172.173,443,SG,Digitalocean, LLC
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-216.24.184.171,95,US,It Networks INC
-220.196.190.122,443,CN,China Unicom
-194.9.62.132,34646,SG,Speedypage LTD
-220.75.186.189,50000,KR,KORNET
-221.165.8.35,50000,KR,Korea Telecom
-194.9.62.132,57255,SG,Speedypage LTD
-47.92.245.88,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+138.2.111.140,10010,SG,Oracle Corporation
+38.47.125.109,33909,JP,Vmiss Inc.
+158.178.225.124,37497,SG,Oracle Corporation
+172.104.170.159,2053,SG,Akamai Technologies, Inc.
+172.104.170.159,8443,SG,Akamai Technologies, Inc.
+112.168.173.214,50003,KR,Korea Telecom
+180.153.248.178,443,CN,China Telecom group
+49.164.63.55,50000,KR,LG POWERCOMM
+47.79.120.86,443,SG,Alibaba us Technology Co., Ltd.
+139.99.83.49,20380,SG,OVH SAS
+83.142.30.129,2096,SG,Streamline Servers Pty LTD
+129.150.62.1,24016,SG,Oracle Corporation
+121.196.20.74,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+69.161.221.117,63258,SG,LEASEWEB SINGAPORE PTE. LTD.
+121.158.137.215,50000,KR,Korea Telecom
+150.230.107.70,587,JP,Oracle Corporation
 150.230.63.93,443,JP,Oracle Corporation
-112.155.196.229,50000,KR,LG POWERCOMM
-157.245.158.97,8443,SG,Digitalocean, LLC
-39.98.224.123,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+84.247.49.211,8443,SG,M Europe SRL
+152.69.210.245,2053,SG,Oracle Corporation
+146.56.129.186,443,KR,Oracle Corporation
 138.2.85.23,8080,SG,Oracle Corporation
-43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
 27.0.234.146,19886,SG,Webhorizon Internet Services
-183.109.159.118,50000,KR,Korea Telecom
-188.166.199.61,443,SG,Digitalocean, LLC
+185.101.16.52,443,LB,Wave net LLC
+84.247.49.210,8443,SG,M Europe SRL
+143.198.213.197,443,SG,Digitalocean, LLC
+209.97.172.173,443,SG,Digitalocean, LLC
+65.20.87.245,443,IN,The Constant Company, LLC
+194.9.62.132,34646,SG,Speedypage LTD
+158.178.225.124,53618,SG,Oracle Corporation
+45.77.171.102,3128,SG,The Constant Company, LLC
+211.227.114.208,31204,KR,Korea Telecom
+158.178.225.124,12934,SG,Oracle Corporation
 103.168.146.169,20132,ID,Pt Herza Digital Indonesia
 139.99.83.49,50622,SG,OVH SAS
-146.56.129.186,443,KR,Oracle Corporation
-180.83.216.244,50000,KR,LG POWERCOMM
-158.178.225.124,37497,SG,Oracle Corporation
-47.79.120.86,443,SG,Alibaba us Technology Co., Ltd.
-123.142.9.101,50000,KR,Lg Dacom Corporation
-8.219.203.159,443,SG,Alibaba us Technology Co., Ltd.
-51.79.145.13,8443,SG,OVH SAS
-112.168.173.214,50003,KR,Korea Telecom
-8.222.173.58,23390,SG,Alibaba us Technology Co., Ltd.
 62.72.46.14,8443,SG,Contabo Asia Private Limited
-47.79.35.80,443,JP,Alibaba us Technology Co., Ltd.
-158.178.225.124,53618,SG,Oracle Corporation
-45.129.228.31,8443,SG,Catixs LTD
-158.178.225.124,12934,SG,Oracle Corporation
-84.247.49.210,8443,SG,M Europe SRL
-121.196.20.74,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
-49.164.63.55,50000,KR,LG POWERCOMM
-139.99.83.49,20380,SG,OVH SAS
-221.165.164.92,30070,KR,Korea Telecom
-45.77.171.102,3128,SG,The Constant Company, LLC
-47.111.229.11,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
-129.150.62.1,24016,SG,Oracle Corporation
-38.54.16.222,2053,SG,Kaopu Cloud Hk Limited
-143.198.213.197,443,SG,Digitalocean, LLC
-69.161.221.117,63258,SG,LEASEWEB SINGAPORE PTE. LTD.
-64.176.84.144,81,SG,The Constant Company, LLC
-84.247.49.211,8443,SG,M Europe SRL
-158.178.225.124,37461,SG,Oracle Corporation
-138.2.111.140,10010,SG,Oracle Corporation
-36.133.126.13,443,CN,China Mobile
-49.142.150.222,50000,KR,HCN CHUNGBUK CABLE TV SYSTEMS
-8.218.107.145,31166,HK,Alibaba us Technology Co., Ltd.
+8.222.173.58,23390,SG,Alibaba us Technology Co., Ltd.
 47.114.100.39,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
-158.255.77.168,443,AE,Innovative Telecom Systems Fze
-83.142.30.129,2096,SG,Streamline Servers Pty LTD
-172.104.170.159,2053,SG,Akamai Technologies, Inc.
-132.145.115.199,10179,JP,Oracle Corporation
-38.47.125.109,33909,JP,Vmiss Inc.
-158.178.228.8,10010,SG,Oracle Corporation
-180.153.248.178,443,CN,China Telecom group
+47.79.35.80,443,JP,Alibaba us Technology Co., Ltd.
+216.24.184.171,95,US,It Networks INC
+39.98.224.123,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+47.111.229.11,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+64.176.84.144,81,SG,The Constant Company, LLC
+221.165.164.92,30070,KR,Korea Telecom
+18.141.140.120,30011,SG,Amazon.com, Inc.
+221.165.8.35,50000,KR,Korea Telecom
 8.137.116.105,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+38.54.16.222,2053,SG,Kaopu Cloud Hk Limited
+132.145.115.199,10179,JP,Oracle Corporation
+112.155.196.229,50000,KR,LG POWERCOMM
+188.166.199.61,443,SG,Digitalocean, LLC
+43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
+152.42.233.116,8443,SG,Digitalocean, LLC
+8.218.107.145,31166,HK,Alibaba us Technology Co., Ltd.
+180.83.216.244,50000,KR,LG POWERCOMM
+220.196.190.122,443,CN,China Unicom
+158.178.228.8,10010,SG,Oracle Corporation
 101.200.134.79,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+27.100.189.152,50000,KR,KCTV JEJU BROADCASTING
+157.245.158.97,8443,SG,Digitalocean, LLC
+39.116.245.197,50004,KR,Sk Broadband Co LTD
+47.92.245.88,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+158.178.225.124,37461,SG,Oracle Corporation
+47.92.161.8,443,CN,Hangzhou Alibaba Advertising CO.,LTD.
+123.142.9.101,50000,KR,Lg Dacom Corporation
+194.9.62.132,57255,SG,Speedypage LTD
+45.129.228.31,8443,SG,Catixs LTD
+146.235.16.65,15174,SG,Oracle Corporation
+183.109.159.118,50000,KR,Korea Telecom
+51.79.145.13,8443,SG,OVH SAS
+158.178.238.239,443,SG,Oracle Corporation
+49.142.150.222,50000,KR,HCN CHUNGBUK CABLE TV SYSTEMS
+36.133.126.13,443,CN,China Mobile
+211.227.114.208,50000,KR,Korea Telecom
+152.42.233.116,2053,SG,Digitalocean, LLC
 146.56.176.143,443,KR,Oracle Corporation
