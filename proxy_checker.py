@@ -1,7 +1,6 @@
 import requests
 import os
 from collections import defaultdict
-import time
 
 API_URL = os.getenv("API_URL")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
@@ -31,14 +30,13 @@ def country_flag(iso_code):
 def parse_proxy(proxy):
     return proxy.replace(",", ":")
 
-def check_proxy(proxy, retry=False):
-    """Mengecek status proxy, jika tidak merespon akan dicek ulang sekali lagi."""
+def check_proxy(proxy):
     proxy = parse_proxy(proxy)
     try:
         ip, port = proxy.split(":")
     except ValueError:
         print(f"❌ Proxy format tidak valid: {proxy}")
-        return (proxy, "Unknown", "Unknown", "Unknown", False, float("inf"))
+        return (proxy, "Unknown", "Unknown", "Unknown", False, 9999.0)
 
     api_url = API_URL.format(ip=f"{ip}:{port}")
 
@@ -51,7 +49,10 @@ def check_proxy(proxy, retry=False):
         status = status.replace("✅", "").strip()
         country_code = data.get("countryCode", "Unknown")
         isp = data.get("isp", "Unknown")
-        ping = float(data.get("delay", "9999").replace(" ms", "").strip())
+
+        # Perbaikan penanganan delay jika "N/A"
+        ping_str = data.get("delay", "9999").replace(" ms", "").strip()
+        ping = float(ping_str) if ping_str.replace(".", "").isdigit() else 9999.0
 
         if "active" in status:
             print(f"✅ Proxy {ip}:{port} is ACTIVE (Ping: {ping} ms)")
@@ -61,13 +62,8 @@ def check_proxy(proxy, retry=False):
             return (ip, port, country_code, isp, False, ping)
 
     except requests.exceptions.RequestException:
-        if not retry:
-            print(f"⏳ Proxy {proxy} is NOT RESPONDING, mencoba lagi...")
-            time.sleep(3)  # Tunggu sebentar sebelum pengecekan ulang
-            return check_proxy(proxy, retry=True)
-        else:
-            print(f"⏳ Proxy {proxy} tetap NOT RESPONDING setelah pengecekan ulang")
-            return (ip, port, "Unknown", "Unknown", False, float("inf"))
+        print(f"⏳ Proxy {proxy} is NOT RESPONDING")
+        return (ip, port, "Unknown", "Unknown", False, 9999.0)
 
 def check_proxies():
     print("📝 Script started. Mulai memproses proxy...")
@@ -80,7 +76,10 @@ def check_proxies():
         proxies = [line.strip() for line in f.readlines() if line.strip()]
 
     alive_proxies = defaultdict(list)
+    dead_proxies = []
     not_responding_proxies = []
+
+    country_stats = defaultdict(lambda: {"alive": 0, "dead": 0, "not_responding": 0})
 
     for proxy in proxies:
         ip, port, country, isp, is_alive, ping = check_proxy(proxy)
@@ -88,30 +87,43 @@ def check_proxies():
 
         if is_alive:
             alive_proxies[country].append((formatted_proxy, ping))
-        elif ping == float("inf"):  # Proxy yang tetap tidak merespon setelah dicek ulang
-            not_responding_proxies.append(f"{ip},{port}")  # Hanya simpan IP & Port
+            country_stats[country]["alive"] += 1
+        else:
+            if country == "Unknown" and isp == "Unknown":
+                not_responding_proxies.append(f"{ip},{port}")
+                country_stats[country]["not_responding"] += 1
+            else:
+                dead_proxies.append(formatted_proxy)
+                country_stats[country]["dead"] += 1
 
-    # Simpan hanya 200 proxy terbaik per negara
-    with open("alive.txt", "w") as f:
-        for country, proxy_list in alive_proxies.items():
-            proxy_list.sort(key=lambda x: x[1])  # Urutkan berdasarkan ping
-            top_200 = [p[0] for p in proxy_list[:200]]  # Ambil 200 terbaik
-            f.write("\n".join(top_200) + "\n")
-
-    # Simpan hanya IP dan Port dari proxy yang tetap tidak merespon
+    # Simpan proxy not responding untuk dicek ulang nanti
     with open("not_responding.txt", "w") as f:
         f.write("\n".join(not_responding_proxies))
 
-    # Hitung jumlah proxy aktif per negara
+    # Proses penyimpanan hanya 200 proxy dengan ping terkecil per negara
+    with open("alive.txt", "w") as f:
+        for country, proxy_list in alive_proxies.items():
+            proxy_list.sort(key=lambda x: x[1])  # Urutkan berdasarkan ping (terkecil dulu)
+            top_200 = [p[0] for p in proxy_list[:200]]  # Ambil 200 proxy terbaik
+            f.write("\n".join(top_200) + "\n")
+
+    with open("dead.txt", "w") as f:
+        f.write("\n".join(dead_proxies))
+
+    # Menyusun laporan berdasarkan negara
+    total_proxies = len(proxies)
     report = f"✅ *Hasil Pengecekan Proxy:*\n" \
-             f"🔹 *Total Proxy Dicek:* {len(proxies)}\n" \
-             f"✅ *Total Proxy Aktif:* {sum(len(p) for p in alive_proxies.values())}\n" \
-             f"📊 *200 terbaik disimpan per negara!*\n\n" \
+             f"🔹 *Total Proxy:* {total_proxies}\n" \
+             f"✅ *Alive:* {sum(len(p) for p in alive_proxies.values())}\n" \
+             f"❌ *Dead:* {len(dead_proxies)}\n" \
+             f"⏳ *Not Responding:* {len(not_responding_proxies)}\n\n" \
              f"🌍 *Berdasarkan Negara:*\n"
 
-    for country, proxy_list in alive_proxies.items():
-        flag = country_flag(country)
-        report += f"{flag} {country}: {len(proxy_list)} aktif\n"
+    for country, stats in country_stats.items():
+        if country == "Unknown":
+            continue  # Lewati jika negara tidak terdeteksi
+        flag = country_flag(country)  # Mengubah kode negara menjadi emoji bendera
+        report += f"{flag} {country}: {stats['alive']} Alive, {stats['dead']} Dead, {stats['not_responding']} Not Responding\n"
 
     print(report)
     send_telegram_message(report)
