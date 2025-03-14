@@ -10,7 +10,6 @@ if not API_URL:
     raise ValueError("API_URL tidak ditemukan di secret! Pastikan sudah diatur.")
 
 def send_telegram_message(message):
-    """Mengirim hasil pengecekan ke bot Telegram."""
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {"chat_id": TELEGRAM_CHAT_ID, "text": message, "parse_mode": "Markdown"}
     
@@ -22,7 +21,6 @@ def send_telegram_message(message):
         print(f"⚠️ Gagal mengirim notifikasi Telegram: {e}")
 
 def country_flag(iso_code):
-    """Mengonversi kode negara (ISO 3166-1 alpha-2) menjadi emoji bendera."""
     if iso_code == "Unknown":
         return "❓"
     return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in iso_code.upper())
@@ -36,7 +34,7 @@ def check_proxy(proxy):
         ip, port = proxy.split(":")
     except ValueError:
         print(f"❌ Proxy format tidak valid: {proxy}")
-        return (proxy, "Unknown", "Unknown", "Unknown", False)
+        return (proxy, "Unknown", "Unknown", "Unknown", False, float("inf"))
 
     api_url = API_URL.format(ip=f"{ip}:{port}")
 
@@ -49,17 +47,18 @@ def check_proxy(proxy):
         status = status.replace("✅", "").strip()
         country_code = data.get("countryCode", "Unknown")
         isp = data.get("isp", "Unknown")
+        ping = float(data.get("ping", 9999))
 
         if "active" in status:
-            print(f"✅ Proxy {ip}:{port} is ACTIVE")
-            return (ip, port, country_code, isp, True)
+            print(f"✅ Proxy {ip}:{port} is ACTIVE (Ping: {ping} ms)")
+            return (ip, port, country_code, isp, True, ping)
         else:
             print(f"❌ Proxy {ip}:{port} is DEAD")
-            return (ip, port, country_code, isp, False)
+            return (ip, port, country_code, isp, False, float("inf"))
 
     except requests.exceptions.RequestException:
         print(f"⏳ Proxy {proxy} is NOT RESPONDING")
-        return (ip, port, "Unknown", "Unknown", False)
+        return (ip, port, "Unknown", "Unknown", False, float("inf"))
 
 def check_proxies():
     print("📝 Script started. Mulai memproses proxy...")
@@ -78,11 +77,13 @@ def check_proxies():
     country_stats = defaultdict(lambda: {"alive": 0, "dead": 0, "not_responding": 0})
 
     for proxy in proxies:
-        ip, port, country, isp, is_alive = check_proxy(proxy)
+        ip, port, country, isp, is_alive, ping = check_proxy(proxy)
+        print(f"🔍 {ip}:{port} - {country} - {isp} - Ping: {ping} ms")
+
         formatted_proxy = f"{ip},{port},{country},{isp}"
 
         if is_alive:
-            alive_proxies.append(formatted_proxy)
+            alive_proxies.append((formatted_proxy, ping))
             country_stats[country]["alive"] += 1
         else:
             if country == "Unknown" and isp == "Unknown":
@@ -91,6 +92,9 @@ def check_proxies():
             else:
                 dead_proxies.append(formatted_proxy)
                 country_stats[country]["dead"] += 1
+
+    alive_proxies.sort(key=lambda x: x[1])
+    alive_proxies = [x[0] for x in alive_proxies[:200]]
 
     with open("alive.txt", "w") as f:
         f.write("\n".join(alive_proxies))
@@ -101,19 +105,18 @@ def check_proxies():
     with open("not_responding.txt", "w") as f:
         f.write("\n".join(not_responding_proxies))
 
-    # Menyusun laporan berdasarkan negara
     total_proxies = len(alive_proxies) + len(dead_proxies) + len(not_responding_proxies)
     report = f"✅ *Hasil Pengecekan Proxy:*\n" \
              f"🔹 *Total Proxy:* {total_proxies}\n" \
-             f"✅ *Alive:* {len(alive_proxies)}\n" \
+             f"✅ *Alive (Top 200 by Ping):* {len(alive_proxies)}\n" \
              f"❌ *Dead:* {len(dead_proxies)}\n" \
              f"⏳ *Not Responding:* {len(not_responding_proxies)}\n\n" \
              f"🌍 *Berdasarkan Negara:*\n"
 
     for country, stats in country_stats.items():
         if country == "Unknown":
-            continue  # Lewati jika negara tidak terdeteksi
-        flag = country_flag(country)  # Mengubah kode negara menjadi emoji bendera
+            continue
+        flag = country_flag(country)
         report += f"{flag} {country}: {stats['alive']} Alive, {stats['dead']} Dead, {stats['not_responding']} Not Responding\n"
 
     print(report)
