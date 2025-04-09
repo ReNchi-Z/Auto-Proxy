@@ -1,48 +1,50 @@
-138.2.85.23,8080,SG,Oracle Corporation
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-43.229.149.251,2053,TH,Siamdata Communication CO.,LTD.
-157.245.158.97,8443,SG,Digitalocean, LLC
-172.104.170.159,2053,SG,Akamai Technologies, Inc.
-14.34.147.84,50004,KR,Korea Telecom
-143.42.68.97,17055,SG,Akamai Technologies, Inc.
-194.9.62.132,34646,SG,Speedypage LTD
-15.235.162.49,443,SG,OVH SAS
-139.99.83.49,50622,SG,OVH SAS
-139.99.83.49,20380,SG,OVH SAS
-194.9.62.132,57255,SG,Speedypage LTD
-143.198.213.197,8443,SG,Digitalocean, LLC
-51.79.145.13,8443,SG,OVH SAS
-212.192.215.163,443,NL,Baxet Group Inc.
-188.166.199.61,443,SG,Digitalocean, LLC
-8.218.107.145,31166,HK,Alibaba us Technology Co., Ltd.
-138.2.111.140,10010,SG,Oracle Corporation
-27.0.234.146,19886,SG,Webhorizon Internet Services
-158.178.225.124,53618,SG,Oracle Corporation
-160.22.79.174,443,SG,Onidel Pty LTD
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-45.77.171.102,3128,SG,The Constant Company, LLC
-35.219.50.99,443,ID,Google LLC
-84.247.49.211,8443,SG,M Europe SRL
-146.235.16.65,15174,SG,Oracle Corporation
-172.104.170.159,8443,SG,Akamai Technologies, Inc.
-158.178.238.239,443,SG,Oracle Corporation
-168.138.184.172,443,SG,Oracle Corporation
-158.178.225.124,37461,SG,Oracle Corporation
-64.176.84.144,81,SG,The Constant Company, LLC
-103.168.146.169,20132,ID,Pt Herza Digital Indonesia
-152.69.210.245,2053,SG,Oracle Corporation
 143.198.213.197,443,SG,Digitalocean, LLC
-43.156.97.73,57145,SG,Shenzhen Tencent Computer Systems Company Limited
-8.222.173.58,23390,SG,Alibaba us Technology Co., Ltd.
-104.248.154.142,8443,SG,Digitalocean, LLC
-139.162.48.174,10000,SG,Akamai Technologies, Inc.
-27.0.234.74,2911,SG,Webhorizon Internet Services
-158.178.225.124,12934,SG,Oracle Corporation
 167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE. LTD.
-167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
-84.247.49.210,8443,SG,M Europe SRL
+14.35.110.120,50000,KR,Korea Telecom
+35.219.50.99,443,ID,Google LLC
 158.178.225.124,37497,SG,Oracle Corporation
-185.126.80.215,25565,SG,AKILE LTD
-104.248.154.142,2053,SG,Digitalocean, LLC
-83.142.30.129,2096,SG,Streamline Servers Pty LTD
+15.235.162.49,443,SG,OVH SAS
+27.0.234.74,2911,SG,Webhorizon Internet Services
+158.178.238.239,443,SG,Oracle Corporation
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
 158.178.228.8,10010,SG,Oracle Corporation
+172.104.170.159,8443,SG,Akamai Technologies, Inc.
+139.99.83.49,50622,SG,OVH SAS
+152.69.210.245,2053,SG,Oracle Corporation
+188.166.199.61,443,SG,Digitalocean, LLC
+139.162.48.174,10000,SG,Akamai Technologies, Inc.
+84.247.49.210,8443,SG,M Europe SRL
+139.99.83.49,20380,SG,OVH SAS
+119.202.151.67,30055,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
+8.222.173.58,23390,SG,Alibaba us Technology Co., Ltd.
+158.178.225.124,12934,SG,Oracle Corporation
+185.126.80.215,25565,SG,AKILE LTD
+45.87.103.154,57012,HK,Nearoute Limited
+35.219.15.90,443,ID,Google LLC
+84.247.49.211,8443,SG,M Europe SRL
+45.77.171.102,3128,SG,The Constant Company, LLC
+158.178.225.124,53618,SG,Oracle Corporation
+138.2.85.23,8080,SG,Oracle Corporation
+51.79.145.13,8443,SG,OVH SAS
+143.198.213.197,8443,SG,Digitalocean, LLC
+158.178.225.124,37461,SG,Oracle Corporation
+138.2.111.140,10010,SG,Oracle Corporation
+104.248.154.142,8443,SG,Digitalocean, LLC
+194.9.62.132,34646,SG,Speedypage LTD
+143.42.68.97,17055,SG,Akamai Technologies, Inc.
+146.235.16.65,15174,SG,Oracle Corporation
+43.156.97.73,57145,SG,Shenzhen Tencent Computer Systems Company Limited
+83.142.30.129,2096,SG,Streamline Servers Pty LTD
+157.245.158.97,8443,SG,Digitalocean, LLC
+194.9.62.132,57255,SG,Speedypage LTD
+103.168.146.169,20132,ID,Pt Herza Digital Indonesia
+160.22.79.174,443,SG,Onidel Pty LTD
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
+8.218.107.145,31166,HK,Alibaba us Technology Co., Ltd.
+27.0.234.146,19886,SG,Webhorizon Internet Services
+172.104.170.159,2053,SG,Akamai Technologies, Inc.
+64.176.84.144,81,SG,The Constant Company, LLC
+61.76.243.144,50000,KR,Korea Telecom
+104.248.154.142,2053,SG,Digitalocean, LLC
