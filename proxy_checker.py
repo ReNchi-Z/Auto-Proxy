@@ -101,11 +101,19 @@ def check_proxies():
         f.write("\n".join(not_responding_proxies))
 
     # Proses penyimpanan hanya 200 proxy dengan ping terkecil per negara
-    with open("alive.txt", "w") as f:
-        for country, proxy_list in alive_proxies.items():
-            proxy_list.sort(key=lambda x: x[1])  # Urutkan berdasarkan ping (terkecil dulu)
-            top_200 = [p[0] for p in proxy_list[:200]]  # Ambil 200 proxy terbaik
-            f.write("\n".join(top_200) + "\n")
+    # Prioritas negara: ID dulu, SG kedua, lalu negara lain
+prioritized_countries = ["ID", "SG"]
+sorted_countries = sorted(
+    alive_proxies.keys(),
+    key=lambda c: (prioritized_countries.index(c) if c in prioritized_countries else len(prioritized_countries), c)
+)
+
+with open("alive.txt", "w") as f:
+    for country in sorted_countries:
+        proxy_list = alive_proxies[country]
+        proxy_list.sort(key=lambda x: x[1])  # Urut berdasarkan ping
+        top_200 = [p[0] for p in proxy_list[:200]]
+        f.write("\n".join(top_200) + "\n")
 
     with open("dead.txt", "w") as f:
         f.write("\n".join(dead_proxies))
