@@ -1,45 +1,47 @@
-8.222.173.58,23390,SG,Alibaba us Technology Co., Ltd.
-194.9.62.132,34646,SG,Speedypage LTD
-45.77.171.102,3128,SG,The Constant Company, LLC
-27.0.234.74,2911,SG,Webhorizon Internet Services
-15.235.162.49,443,SG,OVH SAS
 8.218.107.145,31166,HK,Alibaba us Technology Co., Ltd.
-27.0.234.146,19886,SG,Webhorizon Internet Services
-194.9.62.132,57255,SG,Speedypage LTD
-139.162.48.174,10000,SG,Akamai Technologies, Inc.
-152.69.210.245,2053,SG,Oracle Corporation
-104.248.154.142,2053,SG,Digitalocean, LLC
-158.178.225.124,12934,SG,Oracle Corporation
-158.178.228.8,10010,SG,Oracle Corporation
-139.99.83.49,50622,SG,OVH SAS
-158.178.225.124,37497,SG,Oracle Corporation
-158.178.225.124,37461,SG,Oracle Corporation
-157.245.158.97,8443,SG,Digitalocean, LLC
-167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
-158.178.238.239,443,SG,Oracle Corporation
 146.235.16.65,15174,SG,Oracle Corporation
-51.79.145.13,8443,SG,OVH SAS
-43.156.97.73,57145,SG,Shenzhen Tencent Computer Systems Company Limited
-84.247.49.211,8443,SG,M Europe SRL
-64.176.84.144,81,SG,The Constant Company, LLC
-172.104.170.159,2053,SG,Akamai Technologies, Inc.
-160.22.79.174,443,SG,Onidel Pty LTD
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-82.197.69.135,43536,SG,Contabo Asia Private Limited
-139.99.83.49,20380,SG,OVH SAS
-143.198.213.197,8443,SG,Digitalocean, LLC
-172.104.170.159,8443,SG,Akamai Technologies, Inc.
-158.178.225.124,53618,SG,Oracle Corporation
-143.198.213.197,443,SG,Digitalocean, LLC
 84.247.49.210,8443,SG,M Europe SRL
-168.138.184.172,443,SG,Oracle Corporation
-45.87.103.154,57012,HK,Nearoute Limited
-83.142.30.129,2096,SG,Streamline Servers Pty LTD
-104.248.154.142,8443,SG,Digitalocean, LLC
-167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE. LTD.
-143.42.68.97,17055,SG,Akamai Technologies, Inc.
-138.2.85.23,8080,SG,Oracle Corporation
-138.2.111.140,10010,SG,Oracle Corporation
-185.126.80.215,25565,SG,AKILE LTD
-188.166.199.61,443,SG,Digitalocean, LLC
+158.178.225.124,12934,SG,Oracle Corporation
 103.168.146.169,20132,ID,Pt Herza Digital Indonesia
+82.197.69.135,43536,SG,Contabo Asia Private Limited
+158.178.238.239,443,SG,Oracle Corporation
+188.166.199.61,443,SG,Digitalocean, LLC
+167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE. LTD.
+152.69.210.245,2053,SG,Oracle Corporation
+143.198.213.197,443,SG,Digitalocean, LLC
+83.142.30.129,2096,SG,Streamline Servers Pty LTD
+138.2.111.140,10010,SG,Oracle Corporation
+8.222.173.58,23390,SG,Alibaba us Technology Co., Ltd.
+139.162.48.174,10000,SG,Akamai Technologies, Inc.
+143.198.213.197,8443,SG,Digitalocean, LLC
+112.158.38.115,26716,KR,LG POWERCOMM
+27.0.234.146,19886,SG,Webhorizon Internet Services
+158.178.225.124,37497,SG,Oracle Corporation
+185.126.80.215,25565,SG,AKILE LTD
+158.178.228.8,10010,SG,Oracle Corporation
+104.248.154.142,8443,SG,Digitalocean, LLC
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+172.104.170.159,2053,SG,Akamai Technologies, Inc.
+45.77.171.102,3128,SG,The Constant Company, LLC
+64.176.84.144,81,SG,The Constant Company, LLC
+139.99.83.49,20380,SG,OVH SAS
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+158.178.225.124,37461,SG,Oracle Corporation
+138.2.85.23,8080,SG,Oracle Corporation
+172.104.170.159,8443,SG,Akamai Technologies, Inc.
+51.79.145.13,8443,SG,OVH SAS
+27.0.234.74,2911,SG,Webhorizon Internet Services
+194.9.62.132,57255,SG,Speedypage LTD
+143.42.68.97,17055,SG,Akamai Technologies, Inc.
+194.9.62.132,34646,SG,Speedypage LTD
+43.156.97.73,57145,SG,Shenzhen Tencent Computer Systems Company Limited
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
+212.50.251.250,2346,JP,It Networks INC
+158.178.225.124,53618,SG,Oracle Corporation
+139.99.83.49,50622,SG,OVH SAS
+84.247.49.211,8443,SG,M Europe SRL
+15.235.162.49,443,SG,OVH SAS
+104.248.154.142,2053,SG,Digitalocean, LLC
+157.245.158.97,8443,SG,Digitalocean, LLC
+160.22.79.174,443,SG,Onidel Pty LTD
+45.87.103.154,57012,HK,Nearoute Limited
