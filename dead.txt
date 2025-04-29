@@ -1,6 +1,4 @@
-168.138.184.172,443,SG,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+183.101.245.148,50000,KR,Korea Telecom
+218.157.222.202,50000,KR,Korea Telecom
 13.229.159.215,443,SG,Amazon.com, Inc.
-166.0.244.206,8443,IN,M S HARVIL MEDIA
-109.61.42.167,6633,AE,G core Labs S.A.
-13.228.155.72,443,SG,Amazon.com, Inc.
