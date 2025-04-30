@@ -1,3 +1,2 @@
-193.123.66.187,34501,AE,Oracle Corporation
-168.138.184.172,443,SG,Oracle Corporation
-3.109.185.221,443,IN,Amazon.com, Inc.
+13.229.159.215,443,SG,Amazon.com, Inc.
+123.142.9.101,50000,KR,Lg Dacom Corporation
