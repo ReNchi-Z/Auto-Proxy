@@ -1,5 +1,3 @@
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-13.228.155.72,443,SG,Amazon.com, Inc.
-118.41.25.147,30070,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
-112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
+124.5.180.192,50000,KR,DLIVE
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+121.187.149.211,50000,KR,Korea Telecom
