@@ -1,10 +1,8 @@
-116.225.125.144,20025,CN,China Telecom group
-216.24.184.171,95,US,It Networks INC
+45.76.156.96,2053,SG,The Constant Company, LLC
 61.165.245.13,27666,CN,China Telecom group
-124.5.96.248,50000,KR,DLIVE
-14.21.7.146,10495,CN,Chinanet
 59.36.147.253,10011,CN,No. 1,jin rong Street
+59.23.21.147,30012,KR,Korea Telecom
 120.53.10.175,8888,CN,Shenzhen Tencent Computer Systems Company Limited
-114.95.239.63,16022,CN,China Telecom group
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+168.138.184.172,443,SG,Oracle Corporation
 111.20.226.42,23042,CN,China Mobile
-183.252.205.37,11101,CN,China Mobile
