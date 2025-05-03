@@ -1,8 +1,1 @@
-45.76.156.96,2053,SG,The Constant Company, LLC
-61.165.245.13,27666,CN,China Telecom group
-59.36.147.253,10011,CN,No. 1,jin rong Street
-59.23.21.147,30012,KR,Korea Telecom
-120.53.10.175,8888,CN,Shenzhen Tencent Computer Systems Company Limited
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-168.138.184.172,443,SG,Oracle Corporation
-111.20.226.42,23042,CN,China Mobile
+172.232.237.112,2053,ID,Akamai Technologies, Inc.
