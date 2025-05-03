@@ -1,1 +1,4 @@
-172.232.237.112,2053,ID,Akamai Technologies, Inc.
+54.248.121.219,443,JP,Amazon.com, Inc.
+148.113.43.228,2053,IN,OVH SAS
+43.229.149.251,2053,TH,Siamdata Communication CO.,LTD.
+168.138.184.172,443,SG,Oracle Corporation
