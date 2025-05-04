@@ -1,4 +1,4 @@
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-8.222.129.175,58808,SG,Alibaba us Technology Co., Ltd.
-78.110.122.82,2053,IR,Sefroyek Pardaz Engineering Pjsc
-168.138.184.172,443,SG,Oracle Corporation
+58.141.62.97,30062,KR,DLIVE
+211.105.35.130,30012,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+172.232.237.112,2053,ID,Akamai Technologies, Inc.
