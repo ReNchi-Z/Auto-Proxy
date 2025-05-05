@@ -1,2 +1,3 @@
-123.143.106.99,50000,KR,Lg Dacom Corporation
-112.155.196.229,50000,KR,LG POWERCOMM
+172.232.237.112,2053,ID,Akamai Technologies, Inc.
+20.173.66.64,2053,QA,Microsoft Corporation
+45.76.156.96,2053,SG,The Constant Company, LLC
