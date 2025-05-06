@@ -1,3 +1,7 @@
-193.123.66.187,34501,AE,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-121.155.240.168,50000,KR,Korea Telecom
+185.209.49.17,8443,AE,ITGLOBAL COM DMCC
+112.222.49.250,50000,KR,Lg Dacom Corporation
+218.146.90.232,30027,KR,Korea Telecom
+185.209.49.17,2053,AE,ITGLOBAL COM DMCC
+168.138.184.172,443,SG,Oracle Corporation
+45.32.59.97,34567,JP,The Constant Company, LLC
+78.110.122.82,2053,IR,Sefroyek Pardaz Engineering Pjsc
