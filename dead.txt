@@ -1,2 +1,2 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
-150.109.24.233,6666,SG,Shenzhen Tencent Computer Systems Company Limited
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+212.50.251.250,2346,JP,It Networks INC
