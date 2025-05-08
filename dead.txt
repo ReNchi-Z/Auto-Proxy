@@ -1,3 +1,2 @@
-172.232.237.112,2053,ID,Akamai Technologies, Inc.
-54.248.121.219,443,JP,Amazon.com, Inc.
-121.147.229.1,30027,KR,Korea Telecom
+180.230.0.137,50000,KR,LG POWERCOMM
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
