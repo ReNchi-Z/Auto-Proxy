@@ -1,3 +1,6 @@
-13.229.159.215,443,SG,Amazon.com, Inc.
-220.93.255.130,50000,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
+59.22.88.168,50000,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
+119.199.56.210,30041,KR,Korea Telecom
+54.248.121.219,443,JP,Amazon.com, Inc.
+220.74.43.16,30042,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
