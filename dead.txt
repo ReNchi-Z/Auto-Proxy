@@ -1,7 +1,6 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
-210.92.83.178,50000,KR,Lg Dacom Corporation
-112.166.170.246,30041,KR,Korea Telecom
-119.194.117.229,50000,KR,Korea Telecom
-218.157.222.202,50000,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
-193.123.66.187,34501,AE,Oracle Corporation
+182.227.231.197,50000,KR,LG POWERCOMM
+119.194.133.136,50000,KR,Korea Telecom
+150.95.25.108,2053,TH,GMO Z.COM PTE. LTD.
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+118.41.25.147,30070,KR,Korea Telecom
+115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
