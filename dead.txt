@@ -1,1 +1,6 @@
+183.252.205.37,11101,CN,China Mobile
+210.113.101.117,30075,KR,Korea Telecom
+175.193.18.219,50000,KR,Korea Telecom
+212.50.251.250,2346,JP,It Networks INC
 168.138.184.172,443,SG,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
