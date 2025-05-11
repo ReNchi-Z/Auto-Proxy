@@ -1,2 +1,1 @@
-168.138.184.172,443,SG,Oracle Corporation
-193.123.66.187,34501,AE,Oracle Corporation
+58.141.62.97,30062,KR,DLIVE
