@@ -1,6 +1,4 @@
+212.50.251.250,2346,JP,It Networks INC
 193.123.66.187,34501,AE,Oracle Corporation
-112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
 168.138.184.172,443,SG,Oracle Corporation
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-211.227.114.208,50000,KR,Korea Telecom
-168.126.205.5,30066,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
