@@ -1,1 +1,1 @@
-218.146.90.232,30027,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
