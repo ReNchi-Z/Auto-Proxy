@@ -1,4 +1,1 @@
-212.50.251.250,2346,JP,It Networks INC
-193.123.66.187,34501,AE,Oracle Corporation
-168.138.184.172,443,SG,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
+218.146.90.232,30027,KR,Korea Telecom
