@@ -1,6 +1,1 @@
-168.138.184.172,443,SG,Oracle Corporation
-3.109.185.221,443,IN,Amazon.com, Inc.
-175.205.194.8,50000,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-175.205.194.9,50000,KR,Korea Telecom
-212.50.251.250,2346,JP,It Networks INC
+13.228.142.218,443,SG,Amazon.com, Inc.
