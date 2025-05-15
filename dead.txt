@@ -1,2 +1,5 @@
-217.195.200.52,80,AE,G core Labs S.A.
+54.248.121.219,443,JP,Amazon.com, Inc.
 193.123.66.187,34501,AE,Oracle Corporation
+45.76.156.96,2053,SG,The Constant Company, LLC
+172.232.237.112,2053,ID,Akamai Technologies, Inc.
+20.173.66.64,2053,QA,Microsoft Corporation
