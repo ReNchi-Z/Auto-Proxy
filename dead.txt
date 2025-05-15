@@ -1,3 +1,2 @@
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-172.232.237.112,2053,ID,Akamai Technologies, Inc.
-13.250.131.37,443,SG,Amazon.com, Inc.
+217.195.200.52,80,AE,G core Labs S.A.
+193.123.66.187,34501,AE,Oracle Corporation
