@@ -1,6 +1,11 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
-129.150.58.86,57621,SG,Oracle Corporation
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-14.48.170.40,50000,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
-115.40.244.240,11211,KR,Lg Hellovision Corp.
+118.39.69.146,50000,KR,Korea Telecom
+108.61.181.164,10019,JP,The Constant Company, LLC
+175.199.174.127,50000,KR,Korea Telecom
+220.93.178.129,50000,KR,Korea Telecom
+192.3.113.4,19318,US,HostPapa
+108.61.181.164,10014,JP,The Constant Company, LLC
+193.123.81.105,443,AE,Oracle Corporation
+118.130.187.163,30024,KR,Lg Dacom Corporation
+13.228.155.72,443,SG,Amazon.com, Inc.
+183.109.161.20,21572,KR,Korea Telecom
+211.35.244.172,30052,KR,Korea Telecom
