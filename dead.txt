@@ -1,11 +1,7 @@
-118.39.69.146,50000,KR,Korea Telecom
-108.61.181.164,10019,JP,The Constant Company, LLC
-175.199.174.127,50000,KR,Korea Telecom
-220.93.178.129,50000,KR,Korea Telecom
-192.3.113.4,19318,US,HostPapa
-108.61.181.164,10014,JP,The Constant Company, LLC
-193.123.81.105,443,AE,Oracle Corporation
-118.130.187.163,30024,KR,Lg Dacom Corporation
+45.66.129.8,1233,JP,Xtom Japan Corporation
+168.138.184.172,443,SG,Oracle Corporation
+106.243.1.211,34046,KR,Lg Dacom Corporation
 13.228.155.72,443,SG,Amazon.com, Inc.
-183.109.161.20,21572,KR,Korea Telecom
-211.35.244.172,30052,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+15.235.199.103,8443,SG,OVH SAS
+15.235.199.103,2053,SG,OVH SAS
