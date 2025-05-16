@@ -1,5 +1,6 @@
+54.248.121.219,443,JP,Amazon.com, Inc.
 129.150.58.86,57621,SG,Oracle Corporation
-150.109.24.233,6666,SG,Shenzhen Tencent Computer Systems Company Limited
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-13.229.159.215,443,SG,Amazon.com, Inc.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+14.48.170.40,50000,KR,Korea Telecom
+168.138.184.172,443,SG,Oracle Corporation
+115.40.244.240,11211,KR,Lg Hellovision Corp.
