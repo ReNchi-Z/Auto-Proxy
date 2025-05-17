@@ -1,6 +1,1 @@
-112.162.203.5,50000,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-59.9.247.225,10993,KR,Korea Telecom
-168.138.165.174,443,SG,Oracle Corporation
-217.142.243.226,443,JP,Oracle Corporation
-129.150.58.86,57621,SG,Oracle Corporation
+150.109.24.233,6666,SG,Shenzhen Tencent Computer Systems Company Limited
