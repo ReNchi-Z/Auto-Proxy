@@ -1,7 +1,9 @@
-45.66.129.8,1233,JP,Xtom Japan Corporation
-168.138.184.172,443,SG,Oracle Corporation
-106.243.1.211,34046,KR,Lg Dacom Corporation
-13.228.155.72,443,SG,Amazon.com, Inc.
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-15.235.199.103,8443,SG,OVH SAS
-15.235.199.103,2053,SG,OVH SAS
+14.33.132.138,32176,KR,Korea Telecom
+14.33.132.138,19278,KR,Korea Telecom
+14.33.132.138,12624,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+122.202.169.133,30063,KR,KCTV JEJU BROADCASTING
+210.92.83.178,50000,KR,Lg Dacom Corporation
+14.33.132.138,38975,KR,Korea Telecom
+14.33.132.138,29529,KR,Korea Telecom
+106.251.70.75,50000,KR,Lg Dacom Corporation
