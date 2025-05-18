@@ -1,1 +1,4 @@
-150.109.24.233,6666,SG,Shenzhen Tencent Computer Systems Company Limited
+183.101.244.245,30065,KR,Korea Telecom
+218.146.90.232,30027,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+168.138.46.115,43138,JP,Oracle Corporation
