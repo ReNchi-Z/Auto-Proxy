@@ -1,2 +1,7 @@
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
 193.123.66.187,34501,AE,Oracle Corporation
+217.195.200.52,80,AE,G core Labs S.A.
+220.86.175.229,30012,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+203.194.112.119,2053,ID,Rumahweb
+78.110.122.82,2053,IR,Sefroyek Pardaz Engineering Pjsc
