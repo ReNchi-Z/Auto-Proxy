@@ -1,6 +1,9 @@
-175.203.236.33,50000,KR,Korea Telecom
-115.40.244.240,11211,KR,Lg Hellovision Corp.
-8.213.137.24,443,KR,Alibaba us Technology Co., Ltd.
-220.87.243.193,24304,KR,Korea Telecom
-121.187.149.211,50000,KR,Korea Telecom
-115.40.244.240,12696,KR,Lg Hellovision Corp.
+193.123.234.64,27836,KR,Oracle Corporation
+125.178.21.16,35074,KR,LG POWERCOMM
+217.142.243.226,443,JP,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+222.97.28.213,50000,KR,Korea Telecom
+125.128.27.185,50000,KR,Korea Telecom
+1.176.172.75,50000,KR,Lg Hellovision Corp.
+217.142.239.92,42782,JP,Oracle Corporation
+121.183.112.175,30063,KR,Korea Telecom
