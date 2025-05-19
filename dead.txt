@@ -1,9 +1,10 @@
 193.123.234.64,27836,KR,Oracle Corporation
-125.178.21.16,35074,KR,LG POWERCOMM
-217.142.243.226,443,JP,Oracle Corporation
-168.138.165.174,443,SG,Oracle Corporation
-222.97.28.213,50000,KR,Korea Telecom
-125.128.27.185,50000,KR,Korea Telecom
-1.176.172.75,50000,KR,Lg Hellovision Corp.
-217.142.239.92,42782,JP,Oracle Corporation
-121.183.112.175,30063,KR,Korea Telecom
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+203.212.122.5,30051,KR,Namincheon Brodcasting Co., Ltd.
+115.40.244.240,11211,KR,Lg Hellovision Corp.
+121.188.107.204,26413,KR,Korea Telecom
+121.188.107.204,23805,KR,Korea Telecom
+80.96.156.226,44415,JP,M Europe SRL
+121.183.112.175,30022,KR,Korea Telecom
+43.134.181.60,38371,SG,Shenzhen Tencent Computer Systems Company Limited
