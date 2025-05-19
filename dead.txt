@@ -1,10 +1,7 @@
-193.123.234.64,27836,KR,Oracle Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-203.212.122.5,30051,KR,Namincheon Brodcasting Co., Ltd.
-115.40.244.240,11211,KR,Lg Hellovision Corp.
-121.188.107.204,26413,KR,Korea Telecom
-121.188.107.204,23805,KR,Korea Telecom
-80.96.156.226,44415,JP,M Europe SRL
-121.183.112.175,30022,KR,Korea Telecom
-43.134.181.60,38371,SG,Shenzhen Tencent Computer Systems Company Limited
+203.194.112.119,8443,ID,Rumahweb
+168.138.165.174,443,SG,Oracle Corporation
+139.185.34.131,443,AE,Oracle Corporation
+38.181.70.7,16240,SG,Eons Data Communications Limited
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+168.138.184.172,443,SG,Oracle Corporation
+217.142.243.226,443,JP,Oracle Corporation
