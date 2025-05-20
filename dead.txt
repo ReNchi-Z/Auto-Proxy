@@ -1,13 +1,8 @@
-118.46.29.202,30069,KR,Korea Telecom
-115.69.101.29,11025,KR,Gyeongbuk Cable TV
-14.55.144.166,50000,KR,Korea Telecom
-38.60.195.203,10478,MY,Kaopu Cloud Hk Limited
-183.106.123.243,50004,KR,Korea Telecom
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-59.21.223.11,50000,KR,Korea Telecom
-115.69.101.29,20279,KR,Gyeongbuk Cable TV
-118.46.29.202,30052,KR,Korea Telecom
-115.69.101.29,26075,KR,Gyeongbuk Cable TV
-115.69.101.29,37698,KR,Gyeongbuk Cable TV
-118.46.29.202,50003,KR,Korea Telecom
-13.230.34.30,443,JP,Amazon.com, Inc.
+119.201.98.109,50000,KR,Korea Telecom
+115.40.244.240,11211,KR,Lg Hellovision Corp.
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+8.213.224.55,587,TH,Alibaba us Technology Co., Ltd.
+183.97.9.112,32868,KR,Korea Telecom
+54.248.121.219,443,JP,Amazon.com, Inc.
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
