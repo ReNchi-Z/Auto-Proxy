@@ -1,6 +1,13 @@
-193.123.66.187,34501,AE,Oracle Corporation
-212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
-139.180.215.77,57878,SG,The Constant Company, LLC
+118.46.29.202,30069,KR,Korea Telecom
 115.69.101.29,11025,KR,Gyeongbuk Cable TV
-115.69.101.29,37698,KR,Gyeongbuk Cable TV
+14.55.144.166,50000,KR,Korea Telecom
+38.60.195.203,10478,MY,Kaopu Cloud Hk Limited
+183.106.123.243,50004,KR,Korea Telecom
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+59.21.223.11,50000,KR,Korea Telecom
+115.69.101.29,20279,KR,Gyeongbuk Cable TV
+118.46.29.202,30052,KR,Korea Telecom
 115.69.101.29,26075,KR,Gyeongbuk Cable TV
+115.69.101.29,37698,KR,Gyeongbuk Cable TV
+118.46.29.202,50003,KR,Korea Telecom
+13.230.34.30,443,JP,Amazon.com, Inc.
