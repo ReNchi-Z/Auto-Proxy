@@ -1,7 +1,6 @@
-203.194.112.119,8443,ID,Rumahweb
-168.138.165.174,443,SG,Oracle Corporation
-139.185.34.131,443,AE,Oracle Corporation
-38.181.70.7,16240,SG,Eons Data Communications Limited
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-168.138.184.172,443,SG,Oracle Corporation
-217.142.243.226,443,JP,Oracle Corporation
+193.123.66.187,34501,AE,Oracle Corporation
+212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
+139.180.215.77,57878,SG,The Constant Company, LLC
+115.69.101.29,11025,KR,Gyeongbuk Cable TV
+115.69.101.29,37698,KR,Gyeongbuk Cable TV
+115.69.101.29,26075,KR,Gyeongbuk Cable TV
