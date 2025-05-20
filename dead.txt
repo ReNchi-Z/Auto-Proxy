@@ -1,8 +1,5 @@
-119.201.98.109,50000,KR,Korea Telecom
-115.40.244.240,11211,KR,Lg Hellovision Corp.
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-8.213.224.55,587,TH,Alibaba us Technology Co., Ltd.
-183.97.9.112,32868,KR,Korea Telecom
-54.248.121.219,443,JP,Amazon.com, Inc.
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+98.98.236.58,15608,AE,Zenlayer INC
+148.113.43.228,8443,IN,OVH SAS
+220.93.255.130,50000,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+148.113.43.228,2053,IN,OVH SAS
