@@ -1,14 +1,9 @@
-168.138.184.172,443,SG,Oracle Corporation
+183.97.9.112,32868,KR,Korea Telecom
+220.90.247.28,50000,KR,Korea Telecom
+124.153.168.248,50000,KR,Seokyung Cable Television CO.. Ltd.
+193.123.66.187,34501,AE,Oracle Corporation
 54.248.121.219,443,JP,Amazon.com, Inc.
-168.138.201.217,59217,JP,Oracle Corporation
-220.84.186.17,22635,KR,Korea Telecom
-220.84.186.17,31454,KR,Korea Telecom
-38.180.11.201,443,AE,M Europe SRL
-14.43.209.58,36636,KR,Korea Telecom
-129.150.50.21,44009,SG,Oracle Corporation
-121.150.141.193,50000,KR,Korea Telecom
-13.250.131.37,443,SG,Amazon.com, Inc.
-220.84.186.17,12568,KR,Korea Telecom
-13.230.34.30,443,JP,Amazon.com, Inc.
-211.47.86.218,50000,KR,HYUNDAI COMMUNICATIONS NETWORK
-220.84.186.17,10372,KR,Korea Telecom
+217.142.243.226,443,JP,Oracle Corporation
+61.73.70.207,50000,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+182.231.198.88,29343,KR,LG POWERCOMM
