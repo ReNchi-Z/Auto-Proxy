@@ -1,5 +1,30 @@
-98.98.236.58,15608,AE,Zenlayer INC
-148.113.43.228,8443,IN,OVH SAS
-220.93.255.130,50000,KR,Korea Telecom
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-148.113.43.228,2053,IN,OVH SAS
+211.228.2.113,50000,KR,Korea Telecom
+125.176.156.67,50000,KR,LG POWERCOMM
+221.166.160.53,10233,KR,Korea Telecom
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+168.138.197.147,12345,JP,Oracle Corporation
+183.97.9.112,32868,KR,Korea Telecom
+101.32.247.126,725,SG,Shenzhen Tencent Computer Systems Company Limited
+221.166.160.53,15635,KR,Korea Telecom
+138.3.215.231,44784,JP,Oracle Corporation
+49.167.61.27,21838,KR,LG POWERCOMM
+121.172.5.248,34689,KR,Korea Telecom
+140.238.62.82,1443,JP,Oracle Corporation
+219.117.2.190,48401,JP,Jcom Co., Ltd.
+45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
+118.130.187.163,30024,KR,Lg Dacom Corporation
+221.166.160.53,36420,KR,Korea Telecom
+168.138.184.172,443,SG,Oracle Corporation
+183.103.211.16,26782,KR,KORNET
+221.166.160.53,12089,KR,Korea Telecom
+14.39.172.147,30069,KR,Korea Telecom
+129.150.58.86,57621,SG,Oracle Corporation
+129.150.49.58,18650,SG,Oracle Corporation
+150.109.24.233,6666,SG,Shenzhen Tencent Computer Systems Company Limited
+122.210.19.25,20873,JP,Ucom Corp.
+59.18.169.121,50000,KR,Korea Telecom
+218.157.222.202,50000,KR,Korea Telecom
+139.162.86.209,18836,JP,Akamai Technologies, Inc.
+202.60.191.6,29192,JP,ZTV CO.,LTD
+221.166.160.53,11311,KR,Korea Telecom
+152.70.100.102,58312,JP,Oracle Corporation
