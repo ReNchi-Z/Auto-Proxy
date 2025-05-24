@@ -1,10 +1,8 @@
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.218.77.16,443,ID,Amazon.com, Inc.
-220.80.121.210,50000,KR,Korea Telecom
-54.248.121.219,443,JP,Amazon.com, Inc.
-193.123.234.64,27836,KR,Oracle Corporation
-216.185.57.194,8443,IN,LEAPSWITCH NETWORKS PRIVATE LIMITED
-193.123.66.187,34501,AE,Oracle Corporation
+154.31.113.72,443,JP,Dmit Cloud Services
+13.228.142.218,443,SG,Amazon.com, Inc.
+182.231.198.88,16026,KR,LG POWERCOMM
+13.229.159.215,443,SG,Amazon.com, Inc.
+182.231.198.88,29343,KR,LG POWERCOMM
+38.181.70.7,16240,SG,Eons Data Communications Limited
 168.138.184.172,443,SG,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-43.218.77.16,1443,ID,Amazon.com, Inc.
+211.51.176.6,30059,KR,Korea Telecom
