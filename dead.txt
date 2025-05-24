@@ -1,8 +1,8 @@
-154.31.113.72,443,JP,Dmit Cloud Services
-13.228.142.218,443,SG,Amazon.com, Inc.
-182.231.198.88,16026,KR,LG POWERCOMM
-13.229.159.215,443,SG,Amazon.com, Inc.
-182.231.198.88,29343,KR,LG POWERCOMM
-38.181.70.7,16240,SG,Eons Data Communications Limited
+121.158.27.207,50000,KR,Korea Telecom
+38.180.29.115,443,JP,M Europe SRL
+155.248.178.58,80,JP,Oracle Corporation
+119.201.99.87,29411,KR,Korea Telecom
 168.138.184.172,443,SG,Oracle Corporation
-211.51.176.6,30059,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+192.53.113.156,587,SG,Akamai Technologies, Inc.
+103.15.90.134,49678,VN,Vnpt Corp
