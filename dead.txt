@@ -1,5 +1,6 @@
-61.245.11.69,2053,PH,R r Managed Telecom Services
-51.79.254.182,443,SG,OVH SAS
-112.223.212.219,19727,KR,Lg Dacom Corporation
-168.138.46.115,43138,JP,Oracle Corporation
+168.138.184.172,443,SG,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
 211.55.101.82,30020,KR,Korea Telecom
+192.53.113.156,587,SG,Akamai Technologies, Inc.
+38.180.11.201,443,AE,M Europe SRL
+176.97.67.38,443,AE,M Europe SRL
