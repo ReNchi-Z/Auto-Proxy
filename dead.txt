@@ -1,11 +1,5 @@
-106.255.206.121,50000,KR,Lg Dacom Corporation
-221.159.156.189,50000,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-106.255.89.151,30078,KR,Lg Dacom Corporation
 101.32.247.126,725,SG,Shenzhen Tencent Computer Systems Company Limited
-106.255.89.151,50000,KR,Lg Dacom Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-138.2.75.219,39341,SG,Oracle Corporation
-43.245.198.240,587,SG,Techavenue International LTD
-54.248.121.219,443,JP,Amazon.com, Inc.
-37.202.222.182,8443,AE,Zenlayer INC
+18.183.158.211,443,JP,Amazon.com, Inc.
+42.82.230.32,50000,KR,Lg Hellovision Corp.
+58.230.90.195,50004,KR,Sk Broadband Co LTD
+51.79.254.182,443,SG,OVH SAS
