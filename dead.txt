@@ -1,6 +1,11 @@
-168.138.184.172,443,SG,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-211.55.101.82,30020,KR,Korea Telecom
-192.53.113.156,587,SG,Akamai Technologies, Inc.
-38.180.11.201,443,AE,M Europe SRL
-176.97.67.38,443,AE,M Europe SRL
+106.255.206.121,50000,KR,Lg Dacom Corporation
+221.159.156.189,50000,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
+106.255.89.151,30078,KR,Lg Dacom Corporation
+101.32.247.126,725,SG,Shenzhen Tencent Computer Systems Company Limited
+106.255.89.151,50000,KR,Lg Dacom Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+138.2.75.219,39341,SG,Oracle Corporation
+43.245.198.240,587,SG,Techavenue International LTD
+54.248.121.219,443,JP,Amazon.com, Inc.
+37.202.222.182,8443,AE,Zenlayer INC
