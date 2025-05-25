@@ -1,7 +1,8 @@
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-129.150.41.174,16462,SG,Oracle Corporation
-175.193.18.219,50000,KR,Korea Telecom
-182.231.198.88,16026,KR,LG POWERCOMM
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-43.218.77.16,443,ID,Amazon.com, Inc.
-115.40.244.240,11211,KR,Lg Hellovision Corp.
+116.47.10.236,11102,KR,LG POWERCOMM
+103.193.150.173,54310,HK,Cloudie Limited
+218.150.32.152,50000,KR,Korea Telecom
+175.212.44.200,50000,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+112.155.196.229,50000,KR,LG POWERCOMM
+168.138.184.172,443,SG,Oracle Corporation
