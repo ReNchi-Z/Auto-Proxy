@@ -1,5 +1,7 @@
-101.32.247.126,725,SG,Shenzhen Tencent Computer Systems Company Limited
-18.183.158.211,443,JP,Amazon.com, Inc.
-42.82.230.32,50000,KR,Lg Hellovision Corp.
-58.230.90.195,50004,KR,Sk Broadband Co LTD
-51.79.254.182,443,SG,OVH SAS
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+129.150.41.174,16462,SG,Oracle Corporation
+175.193.18.219,50000,KR,Korea Telecom
+182.231.198.88,16026,KR,LG POWERCOMM
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+43.218.77.16,443,ID,Amazon.com, Inc.
+115.40.244.240,11211,KR,Lg Hellovision Corp.
