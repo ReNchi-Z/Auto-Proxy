@@ -1,11 +1,6 @@
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-150.230.5.34,45681,JP,Oracle Corporation
-64.176.40.224,3533,JP,The Constant Company, LLC
-115.40.244.240,11211,KR,Lg Hellovision Corp.
-141.147.147.180,443,JP,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-47.91.18.127,443,JP,Alibaba us Technology Co., Ltd.
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-38.181.70.7,16240,SG,Eons Data Communications Limited
+168.138.46.115,43138,JP,Oracle Corporation
+193.123.234.64,27836,KR,Oracle Corporation
+193.123.66.187,34501,AE,Oracle Corporation
+118.41.25.147,30070,KR,Korea Telecom
+154.31.113.72,443,JP,Dmit Cloud Services
+14.4.47.67,50001,KR,LG POWERCOMM
