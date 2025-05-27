@@ -1,7 +1,7 @@
-51.79.254.182,443,SG,OVH SAS
-140.83.83.229,14829,JP,Oracle Corporation
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-38.181.70.7,16240,SG,Eons Data Communications Limited
-193.123.66.187,34501,AE,Oracle Corporation
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
+220.123.95.78,50000,KR,Korea Telecom
+61.73.70.207,50000,KR,Korea Telecom
+115.40.244.240,12696,KR,Lg Hellovision Corp.
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+115.40.244.240,11211,KR,Lg Hellovision Corp.
+193.123.66.187,34501,AE,Oracle Corporation
