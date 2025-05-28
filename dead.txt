@@ -1,6 +1,7 @@
+193.123.66.187,34501,AE,Oracle Corporation
+112.186.131.79,50000,KR,Korea Telecom
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+154.31.113.72,443,JP,Dmit Cloud Services
 168.138.184.172,443,SG,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
 210.97.74.126,50000,KR,Korea Telecom
-103.118.40.118,42015,HK,Corenet Inc.
-185.81.28.95,30503,SG,AKILE LTD
-106.253.198.210,30053,KR,Lg Dacom Corporation
+121.88.107.1,50000,KR,DLIVE
