@@ -1,6 +1,7 @@
-118.130.187.163,17328,KR,Lg Dacom Corporation
-182.213.59.227,17832,KR,LG POWERCOMM
-154.31.113.72,443,JP,Dmit Cloud Services
-193.123.66.187,34501,AE,Oracle Corporation
-217.195.200.52,80,AE,G core Labs S.A.
-222.120.119.146,50000,KR,Korea Telecom
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+168.138.184.172,443,SG,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+212.192.215.163,443,NL,Baxet Group Inc.
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+192.243.122.226,8443,JP,It Networks INC
+103.238.129.215,42734,JP,WAP.AC LTD
