@@ -1,4 +1,4 @@
-212.192.215.163,443,NL,Baxet Group Inc.
-119.203.123.80,50000,KR,Korea Telecom
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-193.123.66.187,34501,AE,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+211.34.217.86,10247,KR,Korea Telecom
