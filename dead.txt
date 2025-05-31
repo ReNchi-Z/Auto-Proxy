@@ -1,4 +1,4 @@
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-211.34.217.86,10247,KR,Korea Telecom
+154.31.113.72,443,JP,Dmit Cloud Services
+193.123.66.187,34501,AE,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
