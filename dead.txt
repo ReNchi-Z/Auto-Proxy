@@ -1,4 +1,4 @@
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-175.215.25.53,50000,KR,Korea Telecom
-54.248.121.219,443,JP,Amazon.com, Inc.
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+152.70.100.102,58312,JP,Oracle Corporation
+51.79.254.182,443,SG,OVH SAS
