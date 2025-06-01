@@ -1,11 +1,4 @@
-193.123.234.64,27836,KR,Oracle Corporation
 164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-103.98.149.96,58904,VN,Maxserver Company Limited
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-154.31.113.72,443,JP,Dmit Cloud Services
-220.93.178.129,50000,KR,Korea Telecom
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-118.43.168.239,50000,KR,Korea Telecom
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+175.215.25.53,50000,KR,Korea Telecom
+54.248.121.219,443,JP,Amazon.com, Inc.
