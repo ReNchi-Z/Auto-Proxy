@@ -1,4 +1,4 @@
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-152.70.100.102,58312,JP,Oracle Corporation
-51.79.254.182,443,SG,OVH SAS
+54.248.121.219,443,JP,Amazon.com, Inc.
+103.106.228.126,2053,JP,Brainstorm Network, INC
+193.123.234.64,27836,KR,Oracle Corporation
+193.123.66.187,34501,AE,Oracle Corporation
