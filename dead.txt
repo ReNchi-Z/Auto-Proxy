@@ -1,4 +1,6 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
-103.106.228.126,2053,JP,Brainstorm Network, INC
+103.118.40.118,42015,HK,Corenet Inc.
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+51.79.254.182,443,SG,OVH SAS
+140.83.35.254,48170,JP,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
 193.123.234.64,27836,KR,Oracle Corporation
-193.123.66.187,34501,AE,Oracle Corporation
