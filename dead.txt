@@ -1,9 +1,7 @@
-175.205.109.173,50000,KR,Korea Telecom
-118.27.12.40,38443,JP,Gmo Internet Group, Inc.
-54.248.121.219,443,JP,Amazon.com, Inc.
 168.138.184.172,443,SG,Oracle Corporation
-51.79.254.182,443,SG,OVH SAS
-152.69.192.40,57005,JP,Oracle Corporation
-211.227.114.208,50000,KR,Korea Telecom
-54.169.229.188,443,SG,Amazon.com, Inc.
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+193.123.66.187,34501,AE,Oracle Corporation
+115.40.244.240,11211,KR,Lg Hellovision Corp.
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+59.21.223.11,50000,KR,Korea Telecom
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+62.72.46.14,8443,SG,Contabo Asia Private Limited
