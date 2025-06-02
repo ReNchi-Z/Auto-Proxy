@@ -1,8 +1,7 @@
-118.130.187.163,30024,KR,Lg Dacom Corporation
-118.130.187.163,30069,KR,Lg Dacom Corporation
-134.195.137.107,22473,IN,Readydedis, LLC
-112.158.38.115,26716,KR,LG POWERCOMM
-193.123.234.64,27836,KR,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+106.240.106.61,13783,KR,Lg Dacom Corporation
+51.79.254.182,443,SG,OVH SAS
+13.228.155.72,443,SG,Amazon.com, Inc.
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
 168.138.184.172,443,SG,Oracle Corporation
-118.130.187.163,30063,KR,Lg Dacom Corporation
-118.130.187.163,17328,KR,Lg Dacom Corporation
