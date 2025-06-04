@@ -1,4 +1,14 @@
+103.98.149.96,58904,VN,Maxserver Company Limited
+119.195.173.74,12238,KR,Korea Telecom
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-168.138.184.172,443,SG,Oracle Corporation
-103.118.40.118,42015,HK,Corenet Inc.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
+138.3.215.231,44784,JP,Oracle Corporation
+168.138.166.213,10500,SG,Oracle Corporation
+193.123.66.187,34501,AE,Oracle Corporation
+54.248.121.219,443,JP,Amazon.com, Inc.
+119.195.173.74,23790,KR,Korea Telecom
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+119.195.173.74,30109,KR,Korea Telecom
+119.195.173.74,11001,KR,Korea Telecom
+218.150.32.152,50000,KR,Korea Telecom
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+119.195.173.74,27145,KR,Korea Telecom
