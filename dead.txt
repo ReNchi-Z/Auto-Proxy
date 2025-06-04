@@ -1,5 +1,2 @@
-150.95.25.108,8443,TH,GMO Z.COM PTE. LTD.
-129.154.223.89,15800,KR,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-62.72.46.14,8443,SG,Contabo Asia Private Limited
+168.138.184.172,443,SG,Oracle Corporation
+185.81.28.95,30503,SG,AKILE LTD
