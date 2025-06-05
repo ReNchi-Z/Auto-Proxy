@@ -1,9 +1,7 @@
-128.199.171.100,2053,SG,Digitalocean, LLC
-119.201.98.109,50000,KR,Korea Telecom
-163.47.9.27,8443,SG,Digitalocean, LLC
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-163.47.9.27,2053,SG,Digitalocean, LLC
-132.145.94.80,443,KR,Oracle Corporation
-168.138.184.172,443,SG,Oracle Corporation
-128.199.171.100,8443,SG,Digitalocean, LLC
-220.85.70.7,50000,KR,Korea Telecom
+59.2.114.243,22122,KR,Korea Telecom
+51.79.254.182,443,SG,OVH SAS
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+193.123.66.187,34501,AE,Oracle Corporation
+18.183.158.211,443,JP,Amazon.com, Inc.
+193.123.81.105,443,AE,Oracle Corporation
+59.2.114.243,25224,KR,Korea Telecom
