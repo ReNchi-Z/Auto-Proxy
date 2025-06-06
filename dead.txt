@@ -1,9 +1,15 @@
-152.69.227.97,587,KR,Oracle Corporation
-168.138.181.188,61731,SG,Oracle Corporation
+193.123.234.64,27836,KR,Oracle Corporation
+175.195.223.247,50000,KR,Korea Telecom
+217.195.200.153,1,AE,G core Labs S.A.
+14.43.209.58,36636,KR,Korea Telecom
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+61.73.70.207,50000,KR,Korea Telecom
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+130.162.144.191,443,KR,Oracle Corporation
+144.24.78.162,443,KR,Oracle Corporation
+144.24.72.93,587,KR,Oracle Corporation
+175.205.194.9,50000,KR,Korea Telecom
+138.2.127.24,587,KR,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
 168.138.184.172,443,SG,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-158.178.243.152,61731,SG,Oracle Corporation
-91.194.160.79,2053,JP,STARK INDUSTRIES SOLUTIONS LTD
-192.53.113.156,587,SG,Akamai Technologies, Inc.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-13.228.142.218,443,SG,Amazon.com, Inc.
+121.167.230.98,50000,KR,Korea Telecom
