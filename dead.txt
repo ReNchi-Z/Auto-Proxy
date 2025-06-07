@@ -1,15 +1,7 @@
-193.123.234.64,27836,KR,Oracle Corporation
-175.195.223.247,50000,KR,Korea Telecom
-217.195.200.153,1,AE,G core Labs S.A.
-14.43.209.58,36636,KR,Korea Telecom
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-61.73.70.207,50000,KR,Korea Telecom
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-130.162.144.191,443,KR,Oracle Corporation
-144.24.78.162,443,KR,Oracle Corporation
-144.24.72.93,587,KR,Oracle Corporation
-175.205.194.9,50000,KR,Korea Telecom
-138.2.127.24,587,KR,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-168.138.184.172,443,SG,Oracle Corporation
-121.167.230.98,50000,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+49.175.158.24,50000,KR,LG POWERCOMM
+20.214.143.77,587,KR,Microsoft Corporation
+134.195.137.107,22473,IN,Readydedis, LLC
+150.109.94.144,8900,SG,Shenzhen Tencent Computer Systems Company Limited
+64.110.104.30,443,JP,Oracle Corporation
+193.123.66.187,34501,AE,Oracle Corporation
