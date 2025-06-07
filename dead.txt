@@ -1,7 +1,10 @@
+168.138.213.15,36008,JP,Oracle Corporation
+185.209.49.17,2053,AE,ITGLOBAL COM DMCC
+51.79.254.182,443,SG,OVH SAS
+168.138.184.172,443,SG,Oracle Corporation
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-49.175.158.24,50000,KR,LG POWERCOMM
-20.214.143.77,587,KR,Microsoft Corporation
-134.195.137.107,22473,IN,Readydedis, LLC
-150.109.94.144,8900,SG,Shenzhen Tencent Computer Systems Company Limited
-64.110.104.30,443,JP,Oracle Corporation
-193.123.66.187,34501,AE,Oracle Corporation
+106.240.106.61,32929,KR,Lg Dacom Corporation
+13.228.155.72,443,SG,Amazon.com, Inc.
+13.229.159.215,443,SG,Amazon.com, Inc.
+222.97.28.213,50000,KR,Korea Telecom
+121.131.180.71,50000,KR,Korea Telecom
