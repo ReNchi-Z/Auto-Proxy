@@ -1,9 +1,12 @@
-13.228.155.72,443,SG,Amazon.com, Inc.
-45.12.134.204,8443,JP,PQ HOSTING PLUS S.R.L.
-14.43.209.58,36636,KR,Korea Telecom
+148.113.43.228,8443,IN,OVH SAS
+121.162.197.175,22187,KR,Korea Telecom
+192.53.113.156,587,SG,Akamai Technologies, Inc.
+51.79.254.182,443,SG,OVH SAS
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+112.222.129.170,50000,KR,Lg Dacom Corporation
+106.240.106.61,38937,KR,Lg Dacom Corporation
 194.36.178.36,8443,SG,FIRST SERVER LIMITED
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-121.87.0.21,11588,JP,Optage Inc.
-123.143.106.99,50000,KR,Lg Dacom Corporation
-54.248.121.219,443,JP,Amazon.com, Inc.
+118.35.142.122,50000,KR,Korea Telecom
 168.138.184.172,443,SG,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
