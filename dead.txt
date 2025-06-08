@@ -1,11 +1,4 @@
 51.79.254.182,443,SG,OVH SAS
+182.213.59.227,39452,KR,LG POWERCOMM
 168.138.184.172,443,SG,Oracle Corporation
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-13.228.155.72,443,SG,Amazon.com, Inc.
-13.229.159.215,443,SG,Amazon.com, Inc.
-13.228.142.218,443,SG,Amazon.com, Inc.
-54.248.121.219,443,JP,Amazon.com, Inc.
-138.2.81.243,45319,SG,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-97.74.82.87,45837,SG,Godaddy.com, LLC
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+141.147.186.249,4308,JP,Oracle Corporation
