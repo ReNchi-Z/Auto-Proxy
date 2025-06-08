@@ -1,5 +1,11 @@
-103.118.40.118,42015,HK,Corenet Inc.
+51.79.254.182,443,SG,OVH SAS
 168.138.184.172,443,SG,Oracle Corporation
-212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-193.123.66.187,34501,AE,Oracle Corporation
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+13.228.155.72,443,SG,Amazon.com, Inc.
+13.229.159.215,443,SG,Amazon.com, Inc.
+13.228.142.218,443,SG,Amazon.com, Inc.
+54.248.121.219,443,JP,Amazon.com, Inc.
+138.2.81.243,45319,SG,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+97.74.82.87,45837,SG,Godaddy.com, LLC
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
