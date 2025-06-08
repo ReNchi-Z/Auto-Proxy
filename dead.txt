@@ -1,12 +1,5 @@
-148.113.43.228,8443,IN,OVH SAS
-121.162.197.175,22187,KR,Korea Telecom
-192.53.113.156,587,SG,Akamai Technologies, Inc.
-51.79.254.182,443,SG,OVH SAS
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-112.222.129.170,50000,KR,Lg Dacom Corporation
-106.240.106.61,38937,KR,Lg Dacom Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-118.35.142.122,50000,KR,Korea Telecom
+103.118.40.118,42015,HK,Corenet Inc.
 168.138.184.172,443,SG,Oracle Corporation
+212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+193.123.66.187,34501,AE,Oracle Corporation
