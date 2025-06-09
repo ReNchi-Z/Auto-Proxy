@@ -1,7 +1,6 @@
-193.123.66.187,34501,AE,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-51.79.254.182,443,SG,OVH SAS
-168.138.184.172,443,SG,Oracle Corporation
-193.123.234.64,27836,KR,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+106.240.106.61,38937,KR,Lg Dacom Corporation
+121.139.174.91,30025,KR,Korea Telecom
+43.163.207.12,52025,JP,Shenzhen Tencent Computer Systems Company Limited
+185.209.49.17,8443,AE,ITGLOBAL COM DMCC
+8.219.77.72,5027,SG,Alibaba us Technology Co., Ltd.
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
