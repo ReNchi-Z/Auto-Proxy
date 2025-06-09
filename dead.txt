@@ -1,6 +1,2 @@
-106.240.106.61,38937,KR,Lg Dacom Corporation
-121.139.174.91,30025,KR,Korea Telecom
-43.163.207.12,52025,JP,Shenzhen Tencent Computer Systems Company Limited
-185.209.49.17,8443,AE,ITGLOBAL COM DMCC
-8.219.77.72,5027,SG,Alibaba us Technology Co., Ltd.
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
