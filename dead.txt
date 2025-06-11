@@ -1,4 +1,9 @@
-217.195.200.52,80,AE,G core Labs S.A.
-139.180.215.77,57878,SG,The Constant Company, LLC
-62.72.46.14,8443,SG,Contabo Asia Private Limited
+183.101.244.245,50000,KR,Korea Telecom
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+112.170.53.108,50000,KR,Korea Telecom
+185.18.222.208,2053,JP,Latitude.sh
+175.205.194.8,50000,KR,Korea Telecom
+180.211.23.99,50000,KR,Ulsan Jung ang Broadcasting Network
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
 202.144.192.76,443,JP,Techavenue International LTD
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
