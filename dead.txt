@@ -1,7 +1,4 @@
-193.123.66.187,34501,AE,Oracle Corporation
-132.145.94.80,443,KR,Oracle Corporation
-168.138.184.172,443,SG,Oracle Corporation
-8.219.77.72,5027,SG,Alibaba us Technology Co., Ltd.
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-193.123.234.64,27836,KR,Oracle Corporation
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+121.154.68.40,17244,KR,Korea Telecom
+54.248.121.219,443,JP,Amazon.com, Inc.
+139.180.215.77,57878,SG,The Constant Company, LLC
+106.251.70.75,50000,KR,Lg Dacom Corporation
