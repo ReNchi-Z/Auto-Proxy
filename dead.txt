@@ -1,9 +1,24 @@
-217.195.200.52,80,AE,G core Labs S.A.
-168.138.165.174,443,SG,Oracle Corporation
-185.209.49.17,2053,AE,ITGLOBAL COM DMCC
-118.32.170.87,50000,KR,Korea Telecom
-13.230.34.30,443,JP,Amazon.com, Inc.
-211.227.114.208,50000,KR,Korea Telecom
-125.128.27.185,50000,KR,Korea Telecom
-182.231.198.88,16026,KR,LG POWERCOMM
-45.76.183.217,49292,SG,The Constant Company, LLC
+121.154.68.40,11937,KR,Korea Telecom
+121.154.68.40,25079,KR,Korea Telecom
+121.154.68.40,22256,KR,Korea Telecom
+121.154.68.40,25270,KR,Korea Telecom
+121.154.68.40,34005,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
+121.154.68.40,16040,KR,Korea Telecom
+121.154.68.40,15273,KR,Korea Telecom
+121.154.68.40,26471,KR,Korea Telecom
+168.138.184.172,443,SG,Oracle Corporation
+8.222.178.214,6666,SG,Alibaba us Technology Co., Ltd.
+140.238.5.75,13644,KR,Oracle Corporation
+121.154.68.40,19720,KR,Korea Telecom
+121.154.68.40,17244,KR,Korea Telecom
+121.162.197.175,38606,KR,Korea Telecom
+121.154.68.40,13282,KR,Korea Telecom
+121.162.197.175,23984,KR,Korea Telecom
+121.162.197.175,18397,KR,Korea Telecom
+121.162.197.175,11204,KR,Korea Telecom
+121.162.197.175,36514,KR,Korea Telecom
+121.154.68.40,31870,KR,Korea Telecom
+121.154.68.40,26186,KR,Korea Telecom
+121.162.197.175,39904,KR,Korea Telecom
+193.123.234.64,27836,KR,Oracle Corporation
