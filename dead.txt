@@ -1,2 +1,3 @@
-131.186.31.253,36688,KR,Oracle Corporation
-43.245.198.240,587,SG,Techavenue International LTD
+45.32.100.46,13802,SG,The Constant Company, LLC
+121.66.32.174,50000,KR,Lg Dacom Corporation
+8.222.178.214,6666,SG,Alibaba us Technology Co., Ltd.
