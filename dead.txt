@@ -1,4 +1,8 @@
-168.138.165.174,443,SG,Oracle Corporation
-45.32.100.46,13802,SG,The Constant Company, LLC
-118.35.142.122,50000,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+138.2.122.197,39863,KR,Oracle Corporation
+13.230.34.30,443,JP,Amazon.com, Inc.
+211.169.234.3,50000,KR,Lg Dacom Corporation
+146.56.162.25,443,KR,Oracle Corporation
+202.144.192.76,443,JP,Techavenue International LTD
+182.231.198.88,16026,KR,LG POWERCOMM
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
