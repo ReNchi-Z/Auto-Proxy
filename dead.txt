@@ -1,4 +1,12 @@
-13.228.155.72,443,SG,Amazon.com, Inc.
-123.214.130.71,50003,KR,Sk Broadband Co LTD
-54.180.202.133,2053,KR,Amazon.com, Inc.
-54.180.202.133,8443,KR,Amazon.com, Inc.
+38.181.70.7,16240,SG,Eons Data Communications Limited
+193.123.234.64,27836,KR,Oracle Corporation
+54.169.229.188,443,SG,Amazon.com, Inc.
+180.228.127.9,50000,KR,LG POWERCOMM
+202.144.192.76,443,JP,Techavenue International LTD
+193.123.66.187,34501,AE,Oracle Corporation
+54.248.121.219,443,JP,Amazon.com, Inc.
+146.56.162.25,443,KR,Oracle Corporation
+14.35.110.120,50000,KR,Korea Telecom
+14.55.144.166,50000,KR,Korea Telecom
+192.53.113.156,587,SG,Akamai Technologies, Inc.
+182.231.198.88,29343,KR,LG POWERCOMM
