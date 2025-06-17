@@ -1,3 +1,14 @@
-14.43.209.58,36636,KR,Korea Telecom
-54.248.121.219,443,JP,Amazon.com, Inc.
-218.154.199.38,50000,KR,Korea Telecom
+118.43.168.239,50000,KR,Korea Telecom
+132.145.124.43,12510,JP,Oracle Corporation
+132.145.124.43,12502,JP,Oracle Corporation
+121.187.149.211,50000,KR,Korea Telecom
+220.72.134.44,31164,KR,Korea Telecom
+218.157.222.202,50000,KR,Korea Telecom
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+103.193.150.173,54310,HK,Cloudie Limited
+168.138.165.174,443,SG,Oracle Corporation
+128.134.195.17,50000,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
+152.69.220.136,53076,SG,Oracle Corporation
+54.169.229.188,443,SG,Amazon.com, Inc.
+132.145.124.43,12509,JP,Oracle Corporation
