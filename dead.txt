@@ -1,34 +1,15 @@
+218.148.212.190,26120,KR,Korea Telecom
+119.195.155.85,18388,KR,Korea Telecom
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-59.5.53.119,14982,KR,Korea Telecom
-61.83.219.114,14491,KR,Korea Telecom
-220.87.243.193,12069,KR,Korea Telecom
-121.172.5.248,34689,KR,Korea Telecom
-220.87.229.22,29340,KR,Korea Telecom
-152.70.243.77,53033,KR,Oracle Corporation
+218.148.212.190,33739,KR,Korea Telecom
+218.148.212.190,10855,KR,Korea Telecom
+193.123.234.64,27836,KR,Oracle Corporation
+221.161.58.134,30569,KR,Korea Telecom
+119.195.155.85,27094,KR,Korea Telecom
 193.123.66.187,34501,AE,Oracle Corporation
-183.103.211.16,20207,KR,Korea Telecom
-183.103.211.16,27521,KR,Korea Telecom
-220.87.229.22,37865,KR,Korea Telecom
-193.123.236.138,27215,KR,Oracle Corporation
-211.248.229.186,27453,KR,Korea Telecom
-183.100.144.36,10482,KR,Korea Telecom
-211.248.229.186,14074,KR,Korea Telecom
-211.248.229.186,32557,KR,Korea Telecom
-221.161.58.134,22542,KR,Korea Telecom
-220.87.243.193,17056,KR,Korea Telecom
-121.172.5.248,18583,KR,Korea Telecom
+221.161.58.134,37603,KR,Korea Telecom
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+221.161.58.134,29264,KR,Korea Telecom
+158.101.154.245,47001,JP,Oracle Corporation
 221.161.58.134,36376,KR,Korea Telecom
-183.103.211.16,26782,KR,Korea Telecom
-220.87.243.193,28568,KR,Korea Telecom
-183.100.144.36,21789,KR,Korea Telecom
-59.5.53.119,23349,KR,Korea Telecom
-59.5.53.119,20315,KR,Korea Telecom
-220.87.243.193,24304,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
-139.180.215.77,57878,SG,The Constant Company, LLC
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-118.37.105.12,28827,KR,Korea Telecom
-59.5.53.119,18548,KR,Korea Telecom
-14.43.209.58,36636,KR,Korea Telecom
-59.5.53.119,10098,KR,Korea Telecom
-220.87.243.193,27270,KR,Korea Telecom
+221.161.58.134,35972,KR,Korea Telecom
