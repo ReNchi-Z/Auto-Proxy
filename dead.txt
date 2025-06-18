@@ -1,5 +1,10 @@
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-222.113.74.67,50000,KR,Korea Telecom
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-112.158.77.21,50034,KR,LG POWERCOMM
-168.138.46.67,443,JP,Oracle Corporation
+1.176.172.75,50000,KR,Lg Hellovision Corp.
+115.40.244.240,11211,KR,Lg Hellovision Corp.
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+122.128.179.36,50000,KR,Lg Hellovision Corp.
+38.180.11.201,443,AE,M Europe SRL
+211.227.114.208,50000,KR,Korea Telecom
+8.219.77.72,5027,SG,Alibaba us Technology Co., Ltd.
+112.173.70.40,50000,KR,Korea Telecom
+115.40.244.240,12696,KR,Lg Hellovision Corp.
