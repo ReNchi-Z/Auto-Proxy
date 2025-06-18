@@ -1,7 +1,5 @@
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+222.113.74.67,50000,KR,Korea Telecom
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-118.32.203.175,50000,KR,Korea Telecom
-54.169.229.188,443,SG,Amazon.com, Inc.
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-193.123.234.64,27836,KR,Oracle Corporation
-203.228.105.253,50000,KR,Korea Telecom
-101.235.121.104,50000,KR,DLIVE
+112.158.77.21,50034,KR,LG POWERCOMM
+168.138.46.67,443,JP,Oracle Corporation
