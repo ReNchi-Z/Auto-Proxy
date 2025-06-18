@@ -1,15 +1,7 @@
-218.148.212.190,26120,KR,Korea Telecom
-119.195.155.85,18388,KR,Korea Telecom
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-218.148.212.190,33739,KR,Korea Telecom
-218.148.212.190,10855,KR,Korea Telecom
-193.123.234.64,27836,KR,Oracle Corporation
-221.161.58.134,30569,KR,Korea Telecom
-119.195.155.85,27094,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-221.161.58.134,37603,KR,Korea Telecom
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-221.161.58.134,29264,KR,Korea Telecom
-158.101.154.245,47001,JP,Oracle Corporation
-221.161.58.134,36376,KR,Korea Telecom
-221.161.58.134,35972,KR,Korea Telecom
+118.32.203.175,50000,KR,Korea Telecom
+54.169.229.188,443,SG,Amazon.com, Inc.
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+193.123.234.64,27836,KR,Oracle Corporation
+203.228.105.253,50000,KR,Korea Telecom
+101.235.121.104,50000,KR,DLIVE
