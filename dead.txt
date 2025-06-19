@@ -1,3 +1,5 @@
-118.37.105.12,28827,KR,Korea Telecom
-116.47.10.236,11102,KR,LG POWERCOMM
-168.138.165.174,443,SG,Oracle Corporation
+43.218.77.16,1443,ID,Amazon.com, Inc.
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+45.76.183.217,49292,SG,The Constant Company, LLC
+14.43.209.58,36636,KR,Korea Telecom
+43.218.77.16,443,ID,Amazon.com, Inc.
