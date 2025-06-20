@@ -1,11 +1,6 @@
-121.148.224.226,50000,KR,Korea Telecom
-146.56.140.79,20309,KR,Oracle Corporation
-146.56.140.79,44699,KR,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
-152.70.100.102,58312,JP,Oracle Corporation
-193.123.247.125,50576,KR,Oracle Corporation
-192.53.113.156,587,SG,Akamai Technologies, Inc.
-45.136.238.235,24370,TH,Cat Telecom Public Company Limited
-138.2.74.219,28616,SG,Oracle Corporation
+14.43.209.58,36636,KR,Korea Telecom
+211.54.106.141,21151,KR,Korea Telecom
+43.229.149.251,8443,TH,Siamdata Communication CO.,LTD.
+168.138.184.172,443,SG,Oracle Corporation
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+45.136.238.235,24370,TH,Cat Telecom Public Company Limited
