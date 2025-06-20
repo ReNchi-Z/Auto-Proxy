@@ -1,6 +1,10 @@
-14.43.209.58,36636,KR,Korea Telecom
-211.54.106.141,21151,KR,Korea Telecom
-43.229.149.251,8443,TH,Siamdata Communication CO.,LTD.
-168.138.184.172,443,SG,Oracle Corporation
+182.231.198.88,16026,KR,LG POWERCOMM
+61.36.58.170,30051,KR,Lg Dacom Corporation
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-45.136.238.235,24370,TH,Cat Telecom Public Company Limited
+45.76.183.217,49292,SG,The Constant Company, LLC
+61.36.58.170,30047,KR,Lg Dacom Corporation
+168.138.165.174,443,SG,Oracle Corporation
+193.123.234.64,27836,KR,Oracle Corporation
+172.232.112.240,587,IN,Akamai Technologies, Inc.
+38.181.70.7,16240,SG,Eons Data Communications Limited
+182.231.198.88,29343,KR,LG POWERCOMM
