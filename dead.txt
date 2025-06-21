@@ -1,11 +1,7 @@
-14.43.209.58,36636,KR,Korea Telecom
-23.106.143.190,39027,JP,It Networks INC
-124.216.60.169,36004,KR,Ulsan Jung ang Broadcasting Network
-124.216.60.169,29850,KR,Ulsan Jung ang Broadcasting Network
-14.55.144.166,50000,KR,Korea Telecom
-124.216.60.169,10325,KR,Ulsan Jung ang Broadcasting Network
-45.12.134.197,2053,JP,PQ HOSTING PLUS S.R.L.
-54.248.121.219,443,JP,Amazon.com, Inc.
-45.76.183.217,49292,SG,The Constant Company, LLC
-168.138.184.172,443,SG,Oracle Corporation
-124.216.60.169,11804,KR,Ulsan Jung ang Broadcasting Network
+147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+203.194.112.119,2053,ID,Rumahweb
+168.138.46.67,443,JP,Oracle Corporation
+220.124.158.10,50000,KR,Korea Telecom
+222.102.84.36,50000,KR,Korea Telecom
+217.195.200.138,443,AE,G core Labs S.A.
+14.42.206.205,30039,KR,Korea Telecom
