@@ -1,15 +1,11 @@
-94.177.131.183,2053,JP,G core Labs S.A.
-59.15.182.92,30019,KR,Korea Telecom
-115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
-59.15.182.92,25962,KR,Korea Telecom
-59.15.182.92,23549,KR,Korea Telecom
-59.15.182.92,22485,KR,Korea Telecom
-14.46.110.161,50003,KR,Korea Telecom
-94.177.131.183,8443,JP,G core Labs S.A.
+14.43.209.58,36636,KR,Korea Telecom
+23.106.143.190,39027,JP,It Networks INC
+124.216.60.169,36004,KR,Ulsan Jung ang Broadcasting Network
+124.216.60.169,29850,KR,Ulsan Jung ang Broadcasting Network
+14.55.144.166,50000,KR,Korea Telecom
+124.216.60.169,10325,KR,Ulsan Jung ang Broadcasting Network
+45.12.134.197,2053,JP,PQ HOSTING PLUS S.R.L.
+54.248.121.219,443,JP,Amazon.com, Inc.
 45.76.183.217,49292,SG,The Constant Company, LLC
-49.167.62.11,24904,KR,LG POWERCOMM
-59.15.182.92,50000,KR,Korea Telecom
-14.46.110.161,30074,KR,Korea Telecom
-59.15.182.92,30017,KR,Korea Telecom
-59.15.182.92,30016,KR,Korea Telecom
-59.15.182.92,24550,KR,Korea Telecom
+168.138.184.172,443,SG,Oracle Corporation
+124.216.60.169,11804,KR,Ulsan Jung ang Broadcasting Network
