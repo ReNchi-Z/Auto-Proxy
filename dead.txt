@@ -1,4 +1,7 @@
-217.195.200.153,1,AE,G core Labs S.A.
-45.136.238.235,24370,TH,Cat Telecom Public Company Limited
-193.123.66.187,34501,AE,Oracle Corporation
-168.138.184.172,443,SG,Oracle Corporation
+59.21.223.11,50000,KR,Korea Telecom
+13.228.142.218,443,SG,Amazon.com, Inc.
+13.228.155.72,443,SG,Amazon.com, Inc.
+54.169.229.188,443,SG,Amazon.com, Inc.
+146.56.162.25,443,KR,Oracle Corporation
+154.31.113.72,443,JP,Dmit Cloud Services
+193.123.234.64,27836,KR,Oracle Corporation
