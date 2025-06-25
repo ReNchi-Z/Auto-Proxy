@@ -1,4 +1,10 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
-61.73.70.207,50000,KR,Korea Telecom
-45.76.183.217,49292,SG,The Constant Company, LLC
-38.181.70.7,16240,SG,Eons Data Communications Limited
+203.194.112.119,2053,ID,Rumahweb
+139.180.215.77,57878,SG,The Constant Company, LLC
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+106.243.1.211,34046,KR,Lg Dacom Corporation
+182.231.198.88,16026,KR,LG POWERCOMM
+146.56.162.25,443,KR,Oracle Corporation
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+192.53.113.156,587,SG,Akamai Technologies, Inc.
+45.32.100.46,13802,SG,The Constant Company, LLC
+54.169.229.188,443,SG,Amazon.com, Inc.
