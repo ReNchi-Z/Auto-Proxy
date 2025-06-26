@@ -1,3 +1,14 @@
-182.231.198.88,16026,KR,LG POWERCOMM
+219.248.62.241,30017,KR,Sk Broadband Co LTD
+175.193.18.219,50000,KR,Korea Telecom
+146.56.162.25,443,KR,Oracle Corporation
+220.80.128.180,20912,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+112.223.212.219,10543,KR,Lg Dacom Corporation
+220.80.128.180,30055,KR,Korea Telecom
+168.138.165.174,443,SG,Oracle Corporation
+220.80.128.180,10435,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
 45.76.183.217,49292,SG,The Constant Company, LLC
-112.223.212.219,19727,KR,Lg Dacom Corporation
+182.231.198.88,29343,KR,LG POWERCOMM
+220.80.128.180,30059,KR,Korea Telecom
