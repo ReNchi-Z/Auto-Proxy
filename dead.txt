@@ -1,14 +1,13 @@
-219.248.62.241,30017,KR,Sk Broadband Co LTD
-175.193.18.219,50000,KR,Korea Telecom
-146.56.162.25,443,KR,Oracle Corporation
-220.80.128.180,20912,KR,Korea Telecom
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-112.223.212.219,10543,KR,Lg Dacom Corporation
-220.80.128.180,30055,KR,Korea Telecom
-168.138.165.174,443,SG,Oracle Corporation
-220.80.128.180,10435,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
+59.2.114.243,25224,KR,Korea Telecom
+185.209.49.17,8443,AE,ITGLOBAL COM DMCC
+121.167.145.40,30079,KR,Korea Telecom
+118.39.88.64,30071,KR,Korea Telecom
+121.167.145.40,10843,KR,Korea Telecom
+139.180.215.77,57878,SG,The Constant Company, LLC
+203.194.112.119,2053,ID,Rumahweb
+103.160.100.205,29844,JP,Awesomecloud Limited
 45.76.183.217,49292,SG,The Constant Company, LLC
-182.231.198.88,29343,KR,LG POWERCOMM
-220.80.128.180,30059,KR,Korea Telecom
+59.2.114.243,22122,KR,Korea Telecom
+185.209.49.17,2053,AE,ITGLOBAL COM DMCC
+121.167.145.40,25156,KR,Korea Telecom
+138.2.12.103,14453,JP,Oracle Corporation
