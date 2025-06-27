@@ -1,7 +1,5 @@
+217.195.200.138,443,AE,G core Labs S.A.
+168.138.201.217,59217,JP,Oracle Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
 54.169.229.188,443,SG,Amazon.com, Inc.
-112.223.212.219,10543,KR,Lg Dacom Corporation
-152.69.220.136,53076,SG,Oracle Corporation
-112.223.212.219,19727,KR,Lg Dacom Corporation
-54.248.121.219,443,JP,Amazon.com, Inc.
-193.123.66.187,34501,AE,Oracle Corporation
-134.195.137.107,22473,IN,Readydedis, LLC
+121.150.141.193,50000,KR,Korea Telecom
