@@ -1,5 +1,14 @@
-217.195.200.138,443,AE,G core Labs S.A.
-168.138.201.217,59217,JP,Oracle Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-54.169.229.188,443,SG,Amazon.com, Inc.
-121.150.141.193,50000,KR,Korea Telecom
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+168.138.184.172,443,SG,Oracle Corporation
+182.231.198.88,29343,KR,LG POWERCOMM
+103.15.90.134,49678,VN,Vnpt Corp
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+206.206.76.208,8443,SG,Regxa Company for Information Technology LTD
+45.136.238.235,24370,TH,Cat Telecom Public Company Limited
+168.138.165.174,443,SG,Oracle Corporation
+193.123.66.187,34501,AE,Oracle Corporation
+13.229.159.215,443,SG,Amazon.com, Inc.
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+206.206.76.208,2053,SG,Regxa Company for Information Technology LTD
+139.180.215.77,57878,SG,The Constant Company, LLC
