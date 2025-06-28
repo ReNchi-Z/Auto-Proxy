@@ -1,13 +1,17 @@
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+168.138.165.174,443,SG,Oracle Corporation
+58.78.224.238,50000,KR,Lg Dacom Corporation
+128.134.195.17,50000,KR,Korea Telecom
 122.210.19.25,21807,JP,Ucom Corp.
-122.210.19.25,38647,JP,Ucom Corp.
-122.210.19.25,28045,JP,Ucom Corp.
-146.56.162.25,443,KR,Oracle Corporation
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-118.27.12.40,38443,JP,Gmo Internet Group, Inc.
-122.210.19.25,20873,JP,Ucom Corp.
-103.15.90.134,49678,VN,Vnpt Corp
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-122.210.19.25,20087,JP,Ucom Corp.
 14.43.209.58,36636,KR,Korea Telecom
+103.15.90.134,49678,VN,Vnpt Corp
+45.32.100.46,13802,SG,The Constant Company, LLC
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+168.138.184.172,443,SG,Oracle Corporation
+122.210.19.25,20087,JP,Ucom Corp.
+122.210.19.25,28045,JP,Ucom Corp.
+203.194.112.119,2053,ID,Rumahweb
+122.210.19.25,20873,JP,Ucom Corp.
+122.210.19.25,38647,JP,Ucom Corp.
+146.56.162.25,443,KR,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+47.245.91.197,9000,SG,Alibaba us Technology Co., Ltd.
