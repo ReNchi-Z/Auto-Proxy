@@ -1,14 +1,13 @@
 164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-168.138.184.172,443,SG,Oracle Corporation
-182.231.198.88,29343,KR,LG POWERCOMM
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+122.210.19.25,21807,JP,Ucom Corp.
+122.210.19.25,38647,JP,Ucom Corp.
+122.210.19.25,28045,JP,Ucom Corp.
+146.56.162.25,443,KR,Oracle Corporation
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
+122.210.19.25,20873,JP,Ucom Corp.
 103.15.90.134,49678,VN,Vnpt Corp
 164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-206.206.76.208,8443,SG,Regxa Company for Information Technology LTD
-45.136.238.235,24370,TH,Cat Telecom Public Company Limited
-168.138.165.174,443,SG,Oracle Corporation
-193.123.66.187,34501,AE,Oracle Corporation
-13.229.159.215,443,SG,Amazon.com, Inc.
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-206.206.76.208,2053,SG,Regxa Company for Information Technology LTD
-139.180.215.77,57878,SG,The Constant Company, LLC
+122.210.19.25,20087,JP,Ucom Corp.
+14.43.209.58,36636,KR,Korea Telecom
