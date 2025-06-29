@@ -1,6 +1,5 @@
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-112.222.49.250,50000,KR,Lg Dacom Corporation
-182.231.198.88,29343,KR,LG POWERCOMM
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-193.123.66.187,34501,AE,Oracle Corporation
+158.101.85.23,41092,JP,Oracle Corporation
+182.231.198.88,16026,KR,LG POWERCOMM
+168.138.184.172,443,SG,Oracle Corporation
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
 146.56.162.25,443,KR,Oracle Corporation
