@@ -1,13 +1,14 @@
-210.101.111.224,50000,KR,Korea Telecom
-45.12.134.197,2053,JP,PQ HOSTING PLUS S.R.L.
-220.90.241.159,30054,KR,Korea Telecom
-8.219.58.164,57373,SG,Alibaba us Technology Co., Ltd.
-220.90.241.159,50008,KR,Korea Telecom
-13.250.131.37,443,SG,Amazon.com, Inc.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-54.169.229.188,443,SG,Amazon.com, Inc.
-38.180.11.201,443,AE,M Europe SRL
-121.169.173.210,50000,KR,Korea Telecom
-121.167.15.173,50000,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-220.90.241.159,50000,KR,Korea Telecom
+13.228.142.218,443,SG,Amazon.com, Inc.
+132.145.94.80,443,KR,Oracle Corporation
+176.97.78.80,2053,AE,M Europe SRL
+124.216.60.169,29850,KR,Ulsan Jung ang Broadcasting Network
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+124.216.60.169,10325,KR,Ulsan Jung ang Broadcasting Network
+124.216.60.169,36004,KR,Ulsan Jung ang Broadcasting Network
+140.238.5.75,13644,KR,Oracle Corporation
+124.216.60.169,11804,KR,Ulsan Jung ang Broadcasting Network
+168.138.184.172,443,SG,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
+8.219.237.57,31523,SG,Alibaba us Technology Co., Ltd.
+176.97.66.175,443,AE,M Europe SRL
