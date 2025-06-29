@@ -1,5 +1,6 @@
-158.101.85.23,41092,JP,Oracle Corporation
-182.231.198.88,16026,KR,LG POWERCOMM
-168.138.184.172,443,SG,Oracle Corporation
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+38.180.11.201,443,AE,M Europe SRL
 146.56.162.25,443,KR,Oracle Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+168.138.46.67,443,JP,Oracle Corporation
+14.43.209.58,36636,KR,Korea Telecom
+54.169.229.188,443,SG,Amazon.com, Inc.
