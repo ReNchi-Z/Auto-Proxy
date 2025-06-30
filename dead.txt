@@ -1,13 +1,12 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
-138.2.12.103,14453,JP,Oracle Corporation
-45.12.134.197,8443,JP,PQ HOSTING PLUS S.R.L.
-49.166.202.100,30065,KR,LG POWERCOMM
-175.198.169.39,24944,KR,Korea Telecom
-146.56.162.25,443,KR,Oracle Corporation
-217.142.236.93,443,JP,Oracle Corporation
-49.166.202.100,30045,KR,LG POWERCOMM
-175.198.169.39,12502,KR,Korea Telecom
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-175.198.169.39,20887,KR,Korea Telecom
-54.169.229.188,443,SG,Amazon.com, Inc.
-14.55.223.70,50000,KR,Korea Telecom
+211.105.161.16,30063,KR,Korea Telecom
+112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+211.105.161.16,50003,KR,Korea Telecom
+115.20.135.212,50000,KR,Korea Telecom
+119.56.175.56,16673,KR,Saero Network Service LTD
+193.123.66.187,34501,AE,Oracle Corporation
+183.97.229.36,30007,KR,Korea Telecom
+175.203.236.33,50000,KR,Korea Telecom
+119.56.175.56,12763,KR,Saero Network Service LTD
+119.56.175.56,12406,KR,Saero Network Service LTD
+45.32.255.20,46326,JP,The Constant Company, LLC
