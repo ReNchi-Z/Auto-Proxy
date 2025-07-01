@@ -1,9 +1,7 @@
-119.199.206.40,23860,KR,Korea Telecom
-54.169.229.188,443,SG,Amazon.com, Inc.
-119.199.206.40,19729,KR,Korea Telecom
-27.100.189.152,50000,KR,KCTV JEJU BROADCASTING
-119.199.206.40,11166,KR,Korea Telecom
-59.22.88.168,50000,KR,Korea Telecom
-59.15.216.47,30025,KR,Korea Telecom
-121.167.230.98,50000,KR,Korea Telecom
-119.199.206.40,39731,KR,Korea Telecom
+45.136.238.235,24370,TH,Cat Telecom Public Company Limited
+38.181.70.7,16240,SG,Eons Data Communications Limited
+203.194.112.119,8443,ID,Rumahweb
+203.194.112.119,2053,ID,Rumahweb
+168.138.184.172,443,SG,Oracle Corporation
+64.176.40.224,3533,JP,The Constant Company, LLC
+62.72.46.14,8443,SG,Contabo Asia Private Limited
