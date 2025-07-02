@@ -1,451 +1,455 @@
+203.194.112.119,2053,ID,Rumahweb
+203.194.112.119,8443,ID,Rumahweb
 43.218.77.16,1443,ID,Amazon.com, Inc.
 43.218.77.16,443,ID,Amazon.com, Inc.
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-45.32.100.46,13802,SG,The Constant Company, LLC
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
 83.142.30.4,2096,SG,Streamline Servers Pty LTD
 83.142.30.5,2096,SG,Streamline Servers Pty LTD
-5.223.49.4,2053,SG,Hetzner Online GmbH
-139.180.215.77,57878,SG,The Constant Company, LLC
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-192.53.113.156,587,SG,Akamai Technologies, Inc.
-194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
-143.198.196.196,8443,SG,Digitalocean, LLC
-178.128.80.43,443,SG,Digitalocean, LLC
-143.198.196.196,2053,SG,Digitalocean, LLC
-213.35.100.31,47112,SG,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-31.192.238.71,8443,SG,Chelyabinsk signal LLC
-158.178.236.14,61731,SG,Oracle Corporation
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-138.2.77.179,30018,SG,Oracle Corporation
-8.219.59.132,48964,SG,Alibaba us Technology Co., Ltd.
-129.150.36.188,53435,SG,Oracle Corporation
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-47.236.119.190,51342,SG,Alibaba us Technology Co., Ltd.
-47.245.95.160,1443,SG,Alibaba us Technology Co., Ltd.
-8.219.59.132,48130,SG,Alibaba us Technology Co., Ltd.
-168.138.165.174,443,SG,Oracle Corporation
-13.228.155.72,443,SG,Amazon.com, Inc.
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-146.235.19.79,28983,SG,Oracle Corporation
-13.229.159.215,443,SG,Amazon.com, Inc.
-43.128.95.84,38091,SG,Shenzhen Tencent Computer Systems Company Limited
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-8.219.58.164,57373,SG,Alibaba us Technology Co., Ltd.
-168.138.170.211,53702,SG,Oracle Corporation
-158.178.246.142,61731,SG,Oracle Corporation
-3.1.116.161,8443,SG,Amazon.com, Inc.
-13.250.131.37,443,SG,Amazon.com, Inc.
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-8.222.243.73,26385,SG,Alibaba us Technology Co., Ltd.
-51.79.158.58,8443,SG,OVH SAS
-31.192.238.71,2053,SG,Chelyabinsk signal LLC
-13.228.142.218,443,SG,Amazon.com, Inc.
-38.54.16.95,2053,SG,Kaopu Cloud Hk Limited
-91.192.81.154,8443,SG,Melbikomas Uab
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-138.2.89.64,32962,SG,Oracle Corporation
-129.150.50.21,44009,SG,Oracle Corporation
-129.150.58.86,57621,SG,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-158.178.243.152,61731,SG,Oracle Corporation
-138.2.69.236,23334,SG,Oracle Corporation
-139.162.33.248,587,SG,Akamai Technologies, Inc.
-64.49.14.41,2053,SG,Latitude.sh
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-168.138.181.188,61731,SG,Oracle Corporation
-3.1.116.161,2053,SG,Amazon.com, Inc.
-13.250.14.76,443,SG,Amazon.com, Inc.
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-8.222.220.81,25435,SG,Alibaba us Technology Co., Ltd.
-213.35.107.73,443,SG,Oracle Corporation
-64.49.14.41,8443,SG,Latitude.sh
-138.2.81.243,45319,SG,Oracle Corporation
-91.192.81.154,2053,SG,Melbikomas Uab
-104.248.145.216,443,SG,Digitalocean, LLC
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-15.235.199.103,8443,SG,OVH SAS
-194.36.179.5,2053,SG,FIRST SERVER LIMITED
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-146.235.18.248,45137,SG,Oracle Corporation
-51.79.158.58,2053,SG,OVH SAS
-138.2.95.61,1111,SG,Oracle Corporation
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-185.81.28.95,30503,SG,AKILE LTD
-167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-51.79.158.126,443,SG,OVH SAS
-161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
-15.235.199.103,2053,SG,OVH SAS
-138.2.89.238,43254,SG,Oracle Corporation
-45.76.183.217,49292,SG,The Constant Company, LLC
-5.34.176.119,81,SG,GREEN FLOID LLC
 129.150.49.58,18650,SG,Oracle Corporation
+139.162.33.248,587,SG,Akamai Technologies, Inc.
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+13.250.131.37,443,SG,Amazon.com, Inc.
+45.32.100.46,13802,SG,The Constant Company, LLC
+104.248.145.216,443,SG,Digitalocean, LLC
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+91.192.81.154,2053,SG,Melbikomas Uab
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+31.192.238.71,2053,SG,Chelyabinsk signal LLC
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+139.180.215.77,57878,SG,The Constant Company, LLC
+168.138.165.174,443,SG,Oracle Corporation
+138.2.89.64,32962,SG,Oracle Corporation
+168.138.170.211,53702,SG,Oracle Corporation
+8.219.58.164,57373,SG,Alibaba us Technology Co., Ltd.
+213.35.100.31,47112,SG,Oracle Corporation
+3.1.116.161,8443,SG,Amazon.com, Inc.
+143.198.196.196,2053,SG,Digitalocean, LLC
+158.178.236.14,61731,SG,Oracle Corporation
+64.49.14.41,8443,SG,Latitude.sh
+129.150.58.86,57621,SG,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+158.178.246.142,61731,SG,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+51.79.158.126,443,SG,OVH SAS
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+138.2.89.238,43254,SG,Oracle Corporation
+138.2.77.179,30018,SG,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
+13.229.159.215,443,SG,Amazon.com, Inc.
+143.198.196.196,8443,SG,Digitalocean, LLC
+43.128.95.84,38091,SG,Shenzhen Tencent Computer Systems Company Limited
+47.236.119.190,51342,SG,Alibaba us Technology Co., Ltd.
+213.35.107.73,443,SG,Oracle Corporation
+91.192.81.154,8443,SG,Melbikomas Uab
+8.222.220.81,25435,SG,Alibaba us Technology Co., Ltd.
+51.79.158.58,8443,SG,OVH SAS
+129.150.50.21,44009,SG,Oracle Corporation
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+64.49.14.41,2053,SG,Latitude.sh
+13.228.142.218,443,SG,Amazon.com, Inc.
+146.235.18.248,45137,SG,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+13.250.14.76,443,SG,Amazon.com, Inc.
+15.235.199.103,8443,SG,OVH SAS
+38.181.70.7,16240,SG,Eons Data Communications Limited
+158.178.243.152,61731,SG,Oracle Corporation
+138.2.81.243,45319,SG,Oracle Corporation
+47.245.95.160,1443,SG,Alibaba us Technology Co., Ltd.
+168.138.184.172,443,SG,Oracle Corporation
+8.219.59.132,48130,SG,Alibaba us Technology Co., Ltd.
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+213.35.108.135,12596,SG,Oracle Corporation
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+45.76.183.217,49292,SG,The Constant Company, LLC
+15.235.199.103,2053,SG,OVH SAS
+31.192.238.71,8443,SG,Chelyabinsk signal LLC
+8.219.59.132,48964,SG,Alibaba us Technology Co., Ltd.
+178.128.80.43,443,SG,Digitalocean, LLC
+138.2.69.236,23334,SG,Oracle Corporation
+13.228.155.72,443,SG,Amazon.com, Inc.
 51.79.254.182,443,SG,OVH SAS
+5.223.49.4,2053,SG,Hetzner Online GmbH
+168.138.181.188,61731,SG,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+3.1.116.161,2053,SG,Amazon.com, Inc.
+168.138.171.70,23280,SG,Oracle Corporation
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+8.222.243.73,26385,SG,Alibaba us Technology Co., Ltd.
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+192.53.113.156,587,SG,Akamai Technologies, Inc.
+38.54.16.95,2053,SG,Kaopu Cloud Hk Limited
+5.34.176.119,81,SG,GREEN FLOID LLC
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
 167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE. LTD.
-45.86.228.104,443,AE,Bluevps Ou
-193.123.81.105,443,AE,Oracle Corporation
-139.185.50.5,14594,AE,Oracle Corporation
-129.151.128.105,16731,AE,Oracle Corporation
-139.185.34.131,443,AE,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+185.81.28.95,30503,SG,AKILE LTD
 193.123.90.82,12648,AE,Oracle Corporation
 139.185.39.237,48008,AE,Oracle Corporation
-129.151.128.114,34834,AE,Oracle Corporation
-84.235.245.18,34501,AE,Oracle Corporation
-217.195.200.52,80,AE,G core Labs S.A.
-217.195.200.138,443,AE,G core Labs S.A.
-109.61.42.167,6633,AE,G core Labs S.A.
 176.97.67.38,443,AE,M Europe SRL
+129.151.128.114,34834,AE,Oracle Corporation
+139.185.34.131,443,AE,Oracle Corporation
+84.235.245.18,34501,AE,Oracle Corporation
+139.185.50.5,14594,AE,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
 98.98.236.58,15608,AE,Zenlayer INC
+217.195.200.138,443,AE,G core Labs S.A.
+217.195.200.52,80,AE,G core Labs S.A.
 217.195.200.153,1,AE,G core Labs S.A.
-176.97.78.80,2053,AE,M Europe SRL
+129.151.128.105,16731,AE,Oracle Corporation
+193.123.81.105,443,AE,Oracle Corporation
 176.97.66.175,443,AE,M Europe SRL
 38.180.11.201,443,AE,M Europe SRL
-148.113.43.228,2053,IN,OVH SAS
-3.109.185.221,443,IN,Amazon.com, Inc.
-13.233.5.49,443,IN,Amazon.com, Inc.
-146.56.48.138,23010,IN,Oracle Corporation
-166.0.244.206,2053,IN,M S HARVIL MEDIA
+109.61.42.167,6633,AE,G core Labs S.A.
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+148.113.43.228,8443,IN,OVH SAS
+166.0.244.206,8443,IN,M S HARVIL MEDIA
 172.232.112.240,587,IN,Akamai Technologies, Inc.
-152.70.76.104,46000,IN,Oracle Corporation
-128.199.18.189,2053,IN,Digitalocean, LLC
+65.20.82.22,443,IN,The Constant Company, LLC
+146.56.48.138,23010,IN,Oracle Corporation
 134.195.137.107,22473,IN,Readydedis, LLC
+13.233.5.49,443,IN,Amazon.com, Inc.
+3.109.185.221,443,IN,Amazon.com, Inc.
 3.7.108.69,443,IN,Amazon.com, Inc.
 20.235.105.146,443,IN,Microsoft Corporation
-148.113.43.228,8443,IN,OVH SAS
-172.105.62.71,2443,IN,Akamai Technologies, Inc.
-65.20.82.22,443,IN,The Constant Company, LLC
-166.0.244.206,8443,IN,M S HARVIL MEDIA
-115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
-65.1.147.200,35979,IN,Amazon.com, Inc.
-152.70.75.80,15805,IN,Oracle Corporation
 65.20.76.125,8443,IN,The Constant Company, LLC
-139.59.48.26,8443,IN,Digitalocean, LLC
-64.227.184.166,8443,IN,Digitalocean, LLC
-65.20.74.136,2053,IN,The Constant Company, LLC
+152.70.76.104,46000,IN,Oracle Corporation
+65.1.147.200,35979,IN,Amazon.com, Inc.
 3.111.155.29,443,IN,Amazon.com, Inc.
+172.105.62.71,2443,IN,Akamai Technologies, Inc.
+128.199.18.189,2053,IN,Digitalocean, LLC
+139.59.48.26,8443,IN,Digitalocean, LLC
+166.0.244.206,2053,IN,M S HARVIL MEDIA
+65.20.74.136,2053,IN,The Constant Company, LLC
+115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
+64.227.184.166,8443,IN,Digitalocean, LLC
+152.70.75.80,15805,IN,Oracle Corporation
 216.10.243.159,443,IN,PDR
-45.76.198.248,443,JP,The Constant Company, LLC
+148.113.43.228,2053,IN,OVH SAS
 91.194.160.79,8443,JP,PQ HOSTING PLUS S.R.L.
-91.194.160.121,2053,JP,PQ HOSTING PLUS S.R.L.
-45.12.134.250,2053,JP,PQ HOSTING PLUS S.R.L.
+45.76.198.248,443,JP,The Constant Company, LLC
+91.194.160.45,8443,JP,PQ HOSTING PLUS S.R.L.
+45.76.192.129,24434,JP,The Constant Company, LLC
+91.194.160.45,2053,JP,PQ HOSTING PLUS S.R.L.
+45.12.134.197,8443,JP,PQ HOSTING PLUS S.R.L.
+45.12.134.197,2053,JP,PQ HOSTING PLUS S.R.L.
 149.28.21.106,443,JP,The Constant Company, LLC
-45.77.25.6,27854,JP,The Constant Company, LLC
-47.245.59.226,59215,JP,Alibaba us Technology Co., Ltd.
-154.31.113.72,443,JP,Dmit Cloud Services
-149.28.30.146,44243,JP,The Constant Company, LLC
+45.77.25.6,48828,JP,The Constant Company, LLC
 147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+141.98.197.101,11665,JP,Xtom Japan Corporation
 198.13.42.58,32954,JP,The Constant Company, LLC
-82.163.16.69,8080,JP,AKILE LTD
-212.52.0.61,1846,JP,Hosthatch, LLC
-192.243.122.226,8443,JP,It Networks INC
-141.147.144.15,13357,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+154.31.113.72,443,JP,Dmit Cloud Services
+47.245.59.226,59215,JP,Alibaba us Technology Co., Ltd.
+45.12.134.250,8443,JP,PQ HOSTING PLUS S.R.L.
+91.194.160.121,2053,JP,PQ HOSTING PLUS S.R.L.
+168.138.197.147,12345,JP,Oracle Corporation
+185.18.222.208,2053,JP,Latitude.sh
+168.138.46.115,43138,JP,Oracle Corporation
 138.2.49.197,587,JP,Oracle Corporation
+176.97.70.51,2053,JP,M Europe SRL
+212.52.0.61,1846,JP,Hosthatch, LLC
+45.77.25.6,27854,JP,The Constant Company, LLC
+138.2.10.149,45638,JP,Oracle Corporation
+91.194.160.79,2053,JP,PQ HOSTING PLUS S.R.L.
+192.243.127.224,443,JP,It Networks INC
+20.243.85.49,10443,JP,Microsoft Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+192.243.122.226,8443,JP,It Networks INC
+108.160.139.154,8443,JP,The Constant Company, LLC
+138.2.18.82,8880,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
 152.69.192.40,57005,JP,Oracle Corporation
-217.142.236.93,443,JP,Oracle Corporation
-140.83.59.158,15805,JP,Oracle Corporation
-140.83.56.110,56417,JP,Oracle Corporation
-217.142.243.98,51321,JP,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-141.147.147.180,443,JP,Oracle Corporation
-8.216.81.183,3939,JP,Alibaba us Technology Co., Ltd.
+45.12.134.250,2053,JP,PQ HOSTING PLUS S.R.L.
+158.101.152.6,2919,JP,Oracle Corporation
+149.28.30.146,44243,JP,The Constant Company, LLC
 64.176.39.147,16387,JP,The Constant Company, LLC
+217.142.250.195,587,JP,Oracle Corporation
+140.83.37.134,46478,JP,Oracle Corporation
+141.147.147.180,443,JP,Oracle Corporation
+64.110.101.90,55007,JP,Oracle Corporation
+150.230.204.21,10243,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+217.142.236.93,443,JP,Oracle Corporation
+217.142.243.226,443,JP,Oracle Corporation
+140.238.62.82,1443,JP,Oracle Corporation
+141.147.183.49,29876,JP,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+132.145.116.192,44009,JP,Oracle Corporation
+140.83.56.110,56417,JP,Oracle Corporation
+172.105.233.112,18836,JP,Akamai Technologies, Inc.
+168.138.201.35,36637,JP,Oracle Corporation
+121.85.55.59,19842,JP,Optage Inc.
+8.216.81.183,3939,JP,Alibaba us Technology Co., Ltd.
+168.138.193.174,11959,JP,Oracle Corporation
+140.83.59.158,15805,JP,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+138.2.59.96,10129,JP,Oracle Corporation
 43.133.10.236,33405,JP,Shenzhen Tencent Computer Systems Company Limited
 217.142.230.253,587,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
 132.226.8.109,43257,JP,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-3.112.21.102,443,JP,Amazon.com, Inc.
-158.101.157.75,57105,JP,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-64.110.101.90,55007,JP,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-118.27.12.40,38443,JP,Gmo Internet Group, Inc.
-172.105.233.112,18836,JP,Akamai Technologies, Inc.
-141.147.152.229,23333,JP,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-20.243.85.49,10443,JP,Microsoft Corporation
-132.145.116.192,44009,JP,Oracle Corporation
-176.97.70.51,2053,JP,M Europe SRL
-103.106.228.126,2053,JP,Brainstorm Network, INC
-140.83.57.20,13118,JP,Oracle Corporation
-38.180.28.163,8443,JP,M Europe SRL
-150.230.5.34,45681,JP,Oracle Corporation
-139.162.127.39,18836,JP,Akamai Technologies, Inc.
-103.232.213.117,8080,JP,AKILE LTD
-168.138.201.35,36637,JP,Oracle Corporation
-38.180.29.115,443,JP,M Europe SRL
-158.101.146.3,54516,JP,Oracle Corporation
-103.238.129.215,42734,JP,WAP.AC LTD
-45.12.134.197,8443,JP,PQ HOSTING PLUS S.R.L.
-139.162.127.55,18836,JP,Akamai Technologies, Inc.
-91.194.160.79,2053,JP,PQ HOSTING PLUS S.R.L.
-45.12.134.250,8443,JP,PQ HOSTING PLUS S.R.L.
-168.138.193.174,11959,JP,Oracle Corporation
-45.76.192.129,24434,JP,The Constant Company, LLC
-202.60.191.6,29192,JP,ZTV CO.,LTD
-45.12.134.197,2053,JP,PQ HOSTING PLUS S.R.L.
-202.60.191.6,17922,JP,ZTV CO.,LTD
-18.183.158.211,443,JP,Amazon.com, Inc.
-141.147.161.249,51037,JP,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-168.138.46.67,443,JP,Oracle Corporation
-108.160.139.154,8443,JP,The Constant Company, LLC
-150.230.204.21,10243,JP,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-138.2.12.103,14453,JP,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-131.186.33.175,443,JP,Oracle Corporation
-140.238.37.103,14782,JP,Oracle Corporation
-140.83.57.114,25965,JP,Oracle Corporation
-141.98.197.101,11665,JP,Xtom Japan Corporation
-121.85.55.59,19842,JP,Optage Inc.
-150.230.97.136,12502,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-168.138.192.16,54584,JP,Oracle Corporation
-219.117.2.190,48401,JP,Jcom Co., Ltd.
-103.75.118.144,2053,JP,Brainstorm Network, INC
-13.230.34.30,443,JP,Amazon.com, Inc.
-138.2.18.82,8880,JP,Oracle Corporation
-217.142.250.195,587,JP,Oracle Corporation
-45.77.25.6,48828,JP,The Constant Company, LLC
-168.138.213.1,50003,JP,Oracle Corporation
 54.248.121.219,443,JP,Amazon.com, Inc.
-168.138.46.115,43138,JP,Oracle Corporation
-152.70.82.101,18650,JP,Oracle Corporation
+150.230.97.136,12502,JP,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+18.183.158.211,443,JP,Amazon.com, Inc.
+138.2.12.103,14453,JP,Oracle Corporation
+158.101.157.75,57105,JP,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+202.60.191.6,29192,JP,ZTV CO.,LTD
+217.142.243.98,51321,JP,Oracle Corporation
 45.66.218.194,12965,JP,Xtom Japan Corporation
-140.238.62.82,1443,JP,Oracle Corporation
+141.147.161.249,51037,JP,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+140.83.57.183,22735,JP,Oracle Corporation
 139.162.84.132,18836,JP,Akamai Technologies, Inc.
-132.145.126.40,32498,JP,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-158.101.146.3,44872,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-150.230.214.172,16957,JP,Oracle Corporation
-219.117.2.190,57517,JP,Jcom Co., Ltd.
-158.101.152.6,2919,JP,Oracle Corporation
-38.180.28.163,2053,JP,M Europe SRL
-152.69.199.70,8443,JP,Oracle Corporation
-185.18.222.208,2053,JP,Latitude.sh
+103.238.129.215,42734,JP,WAP.AC LTD
+38.180.28.163,8443,JP,M Europe SRL
+168.138.213.1,50003,JP,Oracle Corporation
 103.20.199.118,12999,JP,Nearoute Limited
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+202.60.191.6,17922,JP,ZTV CO.,LTD
+131.186.63.89,11655,JP,Oracle Corporation
+139.162.127.55,18836,JP,Akamai Technologies, Inc.
+140.83.57.114,25965,JP,Oracle Corporation
+140.238.37.103,14782,JP,Oracle Corporation
+13.230.34.30,443,JP,Amazon.com, Inc.
+140.83.57.20,13118,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+158.101.146.3,54516,JP,Oracle Corporation
+219.117.2.190,48401,JP,Jcom Co., Ltd.
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
+3.112.21.102,443,JP,Amazon.com, Inc.
+141.147.144.15,13357,JP,Oracle Corporation
+219.117.2.190,57517,JP,Jcom Co., Ltd.
+131.186.33.175,443,JP,Oracle Corporation
+38.180.29.115,443,JP,M Europe SRL
+152.70.82.101,18650,JP,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+152.69.199.70,8443,JP,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
+139.162.127.39,18836,JP,Akamai Technologies, Inc.
+132.145.126.40,32498,JP,Oracle Corporation
+103.232.213.117,8080,JP,AKILE LTD
+158.101.146.3,44872,JP,Oracle Corporation
 202.144.195.204,443,JP,Techavenue International LTD
-140.83.37.134,46478,JP,Oracle Corporation
-217.142.243.226,443,JP,Oracle Corporation
-218.146.90.232,30053,KR,Korea Telecom
-183.109.161.20,16120,KR,Korea Telecom
-121.155.154.142,39595,KR,Korea Telecom
-183.101.244.245,50000,KR,Korea Telecom
-14.52.132.109,30057,KR,Korea Telecom
-175.195.223.247,50000,KR,Korea Telecom
-210.103.86.17,31279,KR,Korea Telecom
-183.106.123.243,50004,KR,Korea Telecom
-112.162.203.5,50000,KR,Korea Telecom
-146.56.182.217,54266,KR,Oracle Corporation
-121.166.174.182,50000,KR,Korea Telecom
-121.165.101.69,19413,KR,Korea Telecom
-175.195.255.42,50000,KR,Korea Telecom
-203.228.105.253,50000,KR,Korea Telecom
-121.155.154.142,24603,KR,Korea Telecom
-211.248.217.7,50000,KR,Korea Telecom
-211.34.217.86,10247,KR,Korea Telecom
-150.230.255.146,6443,KR,Oracle Corporation
-144.24.87.69,50001,KR,Oracle Corporation
-14.43.209.58,36636,KR,Korea Telecom
-183.109.161.20,21572,KR,Korea Telecom
-221.158.170.74,50000,KR,Korea Telecom
-152.69.229.175,22558,KR,Oracle Corporation
-58.65.124.83,19761,KR,Seokyung Cable Television CO.. Ltd.
-221.159.156.189,50000,KR,Korea Telecom
-121.179.114.244,30075,KR,Korea Telecom
-222.96.197.31,50000,KR,Korea Telecom
-121.158.194.32,11611,KR,Korea Telecom
-121.171.82.130,30055,KR,Korea Telecom
-119.194.117.229,50000,KR,Korea Telecom
-52.141.25.42,443,KR,Microsoft Corporation
-220.123.95.78,50000,KR,Korea Telecom
-119.194.133.136,50000,KR,Korea Telecom
-132.226.21.116,6056,KR,Oracle Corporation
-14.46.130.32,30061,KR,Korea Telecom
-121.158.194.32,11413,KR,Korea Telecom
-218.154.199.38,50000,KR,Korea Telecom
-222.103.185.193,24656,KR,Korea Telecom
-210.103.86.17,21770,KR,Korea Telecom
-14.35.29.177,15903,KR,Korea Telecom
-183.96.245.165,50001,KR,Korea Telecom
-129.154.48.176,36355,KR,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-211.219.199.21,50000,KR,Korea Telecom
-180.228.127.9,50000,KR,LG POWERCOMM
-152.67.197.197,19120,KR,Oracle Corporation
-158.179.171.53,443,KR,Oracle Corporation
-218.157.222.202,50000,KR,Korea Telecom
-222.96.105.8,50000,KR,Korea Telecom
-125.139.138.180,23105,KR,Korea Telecom
-222.97.28.213,50000,KR,Korea Telecom
-222.101.91.204,50000,KR,Korea Telecom
-121.147.229.1,50000,KR,Korea Telecom
-61.73.70.207,50000,KR,Korea Telecom
-131.186.20.178,27194,KR,Oracle Corporation
-211.222.80.156,11838,KR,Korea Telecom
-222.120.119.146,50000,KR,Korea Telecom
-152.70.89.135,587,KR,Oracle Corporation
-180.230.0.137,50000,KR,LG POWERCOMM
-221.149.11.173,35591,KR,Korea Telecom
-14.4.47.67,50001,KR,LG POWERCOMM
-175.208.202.41,20583,KR,Korea Telecom
-129.154.223.89,15800,KR,Oracle Corporation
-123.142.67.164,29461,KR,Lg Dacom Corporation
-118.39.88.64,30071,KR,Korea Telecom
-112.164.239.188,50000,KR,Korea Telecom
-64.110.70.205,23022,KR,Oracle Corporation
-131.186.18.212,28887,KR,Oracle Corporation
-182.231.198.88,16026,KR,LG POWERCOMM
-118.35.142.122,50000,KR,Korea Telecom
-58.72.194.86,50000,KR,Lg Dacom Corporation
-121.162.14.67,17298,KR,Korea Telecom
-211.222.80.156,24868,KR,Korea Telecom
-61.73.36.4,20364,KR,Korea Telecom
-61.37.230.26,31173,KR,Lg Dacom Corporation
-211.216.189.208,26565,KR,Korea Telecom
-175.212.44.200,50000,KR,Korea Telecom
-211.253.196.188,21396,KR,Korea Telecom
-193.122.126.64,53777,KR,Oracle Corporation
-175.121.137.173,50003,KR,Sk Broadband Co LTD
-61.73.36.4,25700,KR,Korea Telecom
-118.39.69.146,50000,KR,Korea Telecom
-61.73.36.4,25388,KR,Korea Telecom
-175.205.194.9,50000,KR,Korea Telecom
-211.115.146.127,31304,KR,Korea Telecom
-152.70.234.90,55588,KR,Oracle Corporation
-132.145.88.82,38066,KR,Oracle Corporation
-183.96.245.165,30060,KR,Korea Telecom
-211.216.189.208,26538,KR,Korea Telecom
-106.244.201.248,50000,KR,Lg Dacom Corporation
-125.187.120.122,11181,KR,LG POWERCOMM
-175.199.174.127,50000,KR,Korea Telecom
-217.142.138.61,37914,KR,Oracle Corporation
-121.131.180.71,50000,KR,Korea Telecom
-118.131.232.132,30063,KR,Lg Dacom Corporation
-203.243.63.166,27249,KR,Korea Telecom
-106.255.89.151,50000,KR,Lg Dacom Corporation
-106.251.70.75,50000,KR,Lg Dacom Corporation
-129.154.54.67,19567,KR,Oracle Corporation
-27.100.229.147,50000,KR,KCTV JEJU BROADCASTING
-119.65.35.44,50000,KR,LG POWERCOMM
-112.156.154.95,30067,KR,LG POWERCOMM
-115.95.176.24,30059,KR,Lg Dacom Corporation
-183.101.245.148,50000,KR,Korea Telecom
-122.252.209.48,50000,KR,CMB
-152.67.211.114,58337,KR,Oracle Corporation
-121.167.15.173,50000,KR,Korea Telecom
-146.56.99.255,56789,KR,Oracle Corporation
-123.142.67.164,50000,KR,Lg Dacom Corporation
-121.155.154.142,24251,KR,Korea Telecom
-125.128.27.185,50000,KR,Korea Telecom
-222.103.185.193,11011,KR,Korea Telecom
-222.103.185.193,50586,KR,Korea Telecom
-211.222.80.156,24172,KR,Korea Telecom
-146.56.179.20,8000,KR,Oracle Corporation
-218.150.32.152,50000,KR,Korea Telecom
-115.40.244.240,11211,KR,Lg Hellovision Corp.
-218.154.22.99,50000,KR,Korea Telecom
-112.162.27.122,50000,KR,Korea Telecom
-146.56.172.216,39001,KR,Oracle Corporation
-121.148.224.226,50000,KR,Korea Telecom
-158.180.82.203,8443,KR,Oracle Corporation
-121.154.105.47,50000,KR,Korea Telecom
-121.168.144.41,50000,KR,Korea Telecom
-124.216.60.169,10325,KR,Ulsan Jung ang Broadcasting Network
-121.171.82.130,30012,KR,Korea Telecom
-112.166.128.60,50000,KR,Korea Telecom
-125.130.15.106,27879,KR,Korea Telecom
-211.227.114.208,50000,KR,Korea Telecom
-220.90.247.28,50000,KR,Korea Telecom
-144.24.84.212,49888,KR,Oracle Corporation
-14.55.144.166,50000,KR,Korea Telecom
-121.171.82.130,30001,KR,Korea Telecom
-221.149.11.173,15679,KR,Korea Telecom
-101.235.121.104,50000,KR,DLIVE
-138.2.122.197,39863,KR,Oracle Corporation
-140.238.10.44,23253,KR,Oracle Corporation
-220.92.146.161,50000,KR,Korea Telecom
-211.216.189.208,39726,KR,Korea Telecom
-121.88.107.1,50000,KR,DLIVE
-14.52.132.109,50000,KR,Korea Telecom
-121.171.82.130,50000,KR,Korea Telecom
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-146.56.112.139,19276,KR,Oracle Corporation
-121.135.81.139,30050,KR,Korea Telecom
-124.216.60.169,29850,KR,Ulsan Jung ang Broadcasting Network
-124.216.60.169,11804,KR,Ulsan Jung ang Broadcasting Network
-122.128.179.36,50000,KR,Lg Hellovision Corp.
-116.47.199.34,50000,KR,LG POWERCOMM
-152.70.232.251,58474,KR,Oracle Corporation
-123.142.9.101,50000,KR,Lg Dacom Corporation
+82.163.16.69,8080,JP,AKILE LTD
+38.180.28.163,2053,JP,M Europe SRL
+175.199.168.199,50000,KR,Korea Telecom
 210.103.86.17,10083,KR,Korea Telecom
+183.106.123.243,50004,KR,Korea Telecom
+112.166.128.60,50000,KR,Korea Telecom
+121.155.154.142,24603,KR,Korea Telecom
+210.97.74.126,50000,KR,Korea Telecom
+144.24.84.212,49888,KR,Oracle Corporation
+183.109.161.20,16120,KR,Korea Telecom
+180.228.127.9,50000,KR,LG POWERCOMM
+152.67.201.16,11002,KR,Oracle Corporation
+121.158.194.32,11413,KR,Korea Telecom
+211.248.217.7,50000,KR,Korea Telecom
+52.141.25.42,443,KR,Microsoft Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+121.155.154.142,39595,KR,Korea Telecom
+14.52.132.109,50000,KR,Korea Telecom
+222.106.126.224,50000,KR,Korea Telecom
+152.67.211.114,58337,KR,Oracle Corporation
+221.158.170.74,50000,KR,Korea Telecom
+58.65.124.83,19761,KR,Seokyung Cable Television CO.. Ltd.
+183.109.161.20,21572,KR,Korea Telecom
+210.103.86.17,21770,KR,Korea Telecom
+125.130.15.106,20280,KR,Korea Telecom
+121.167.15.173,50000,KR,Korea Telecom
+152.70.232.251,58474,KR,Oracle Corporation
+121.165.101.69,19413,KR,Korea Telecom
+121.179.114.244,30075,KR,Korea Telecom
+175.215.25.53,50000,KR,Korea Telecom
+121.171.82.130,30055,KR,Korea Telecom
+222.97.28.213,50000,KR,Korea Telecom
+218.146.90.232,30053,KR,Korea Telecom
+121.158.194.32,11611,KR,Korea Telecom
+131.186.24.124,587,KR,Oracle Corporation
+210.103.86.17,31279,KR,Korea Telecom
+121.162.14.67,26093,KR,Korea Telecom
+61.73.36.4,20364,KR,Korea Telecom
+121.171.82.130,50000,KR,Korea Telecom
+222.101.91.204,50000,KR,Korea Telecom
+222.103.185.193,11011,KR,Korea Telecom
+175.195.223.247,50000,KR,Korea Telecom
+123.142.67.164,29461,KR,Lg Dacom Corporation
+112.162.27.122,50000,KR,Korea Telecom
+183.101.244.245,50000,KR,Korea Telecom
+183.96.245.165,30060,KR,Korea Telecom
+118.39.88.64,30071,KR,Korea Telecom
+125.139.138.180,23105,KR,Korea Telecom
+152.70.89.135,587,KR,Oracle Corporation
+175.199.174.127,50000,KR,Korea Telecom
+58.72.194.86,50000,KR,Lg Dacom Corporation
+131.186.20.178,24960,KR,Oracle Corporation
+220.93.255.130,50000,KR,Korea Telecom
+121.166.174.182,50000,KR,Korea Telecom
+218.150.32.152,50000,KR,Korea Telecom
+152.70.245.66,12693,KR,Oracle Corporation
+112.162.203.5,50000,KR,Korea Telecom
+14.52.132.109,30057,KR,Korea Telecom
+112.155.196.229,50000,KR,LG POWERCOMM
+27.100.229.147,50000,KR,KCTV JEJU BROADCASTING
+129.154.48.176,36355,KR,Oracle Corporation
+158.180.82.203,8443,KR,Oracle Corporation
+175.208.202.41,20583,KR,Korea Telecom
+59.29.59.109,30059,KR,Korea Telecom
+210.101.111.224,50000,KR,Korea Telecom
+146.56.179.20,8000,KR,Oracle Corporation
+61.73.36.4,25388,KR,Korea Telecom
+211.227.114.208,50000,KR,Korea Telecom
+121.155.154.142,24251,KR,Korea Telecom
+64.110.70.205,23022,KR,Oracle Corporation
+121.187.149.211,50000,KR,Korea Telecom
+211.222.80.156,11838,KR,Korea Telecom
+14.43.209.58,36636,KR,Korea Telecom
+112.164.239.188,50000,KR,Korea Telecom
+121.154.105.47,50000,KR,Korea Telecom
+119.194.133.136,50000,KR,Korea Telecom
+121.162.14.67,17298,KR,Korea Telecom
+150.230.255.146,6443,KR,Oracle Corporation
+183.101.245.148,50000,KR,Korea Telecom
+158.247.250.157,81,KR,The Constant Company, LLC
+138.2.122.197,39863,KR,Oracle Corporation
+222.103.185.193,50586,KR,Korea Telecom
+129.154.54.67,19567,KR,Oracle Corporation
+61.73.36.4,36863,KR,Korea Telecom
+211.42.255.79,50000,KR,Lg Dacom Corporation
+125.130.15.106,27879,KR,Korea Telecom
+119.194.117.229,50000,KR,Korea Telecom
+211.219.199.21,50000,KR,Korea Telecom
+132.145.84.148,39567,KR,Oracle Corporation
+222.103.185.193,24656,KR,Korea Telecom
+211.216.189.208,39726,KR,Korea Telecom
+124.48.225.132,50000,KR,LG POWERCOMM
+221.149.11.173,35591,KR,Korea Telecom
+152.69.229.175,22558,KR,Oracle Corporation
+140.238.10.44,23253,KR,Oracle Corporation
+122.128.179.36,50000,KR,Lg Hellovision Corp.
+220.123.95.78,50000,KR,Korea Telecom
+222.96.197.31,50000,KR,Korea Telecom
+222.120.119.146,50000,KR,Korea Telecom
+175.205.194.9,50000,KR,Korea Telecom
+140.238.5.75,13644,KR,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+121.168.144.41,50000,KR,Korea Telecom
+14.55.144.166,50000,KR,Korea Telecom
+193.122.126.64,53777,KR,Oracle Corporation
+112.156.154.95,30067,KR,LG POWERCOMM
+125.128.27.185,50000,KR,Korea Telecom
+124.5.180.192,50000,KR,DLIVE
+118.39.69.146,50000,KR,Korea Telecom
+125.187.120.122,11181,KR,LG POWERCOMM
+211.222.80.156,24172,KR,Korea Telecom
+222.103.185.193,20438,KR,Korea Telecom
+115.40.244.240,11211,KR,Lg Hellovision Corp.
+152.70.234.90,55588,KR,Oracle Corporation
+106.244.201.248,50000,KR,Lg Dacom Corporation
+146.56.172.216,39001,KR,Oracle Corporation
+121.171.82.130,30001,KR,Korea Telecom
+61.73.70.207,50000,KR,Korea Telecom
+121.147.229.1,50000,KR,Korea Telecom
+121.171.82.130,30012,KR,Korea Telecom
+131.186.18.212,28887,KR,Oracle Corporation
+106.251.70.75,50000,KR,Lg Dacom Corporation
+14.4.47.67,50001,KR,LG POWERCOMM
+218.154.22.99,50000,KR,Korea Telecom
+121.101.247.126,50000,KR,DLIVE
+211.222.80.156,24868,KR,Korea Telecom
+211.216.189.208,26565,KR,Korea Telecom
+211.253.196.188,30021,KR,Korea Telecom
+14.35.29.177,15211,KR,Korea Telecom
+221.159.156.189,50000,KR,Korea Telecom
+158.180.85.127,20721,KR,Oracle Corporation
+112.222.129.170,50000,KR,Lg Dacom Corporation
+220.90.247.28,50000,KR,Korea Telecom
+106.255.89.151,50000,KR,Lg Dacom Corporation
+183.100.192.53,50000,KR,Korea Telecom
+180.230.0.137,50000,KR,LG POWERCOMM
+61.73.36.4,25700,KR,Korea Telecom
+131.186.20.178,27194,KR,Oracle Corporation
+218.154.199.38,50000,KR,Korea Telecom
+132.226.21.116,6056,KR,Oracle Corporation
+203.228.105.253,50000,KR,Korea Telecom
+175.212.44.200,50000,KR,Korea Telecom
+115.95.176.24,30059,KR,Lg Dacom Corporation
+122.252.209.48,50000,KR,CMB
+146.56.162.25,443,KR,Oracle Corporation
+123.143.9.5,14041,KR,Lg Dacom Corporation
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+121.148.224.226,50000,KR,Korea Telecom
+61.37.230.26,31173,KR,Lg Dacom Corporation
+123.142.9.101,50000,KR,Lg Dacom Corporation
+221.149.11.173,15679,KR,Korea Telecom
+115.95.176.24,30064,KR,Lg Dacom Corporation
+175.121.137.173,50003,KR,Sk Broadband Co LTD
+217.142.138.61,37914,KR,Oracle Corporation
+132.145.88.82,38066,KR,Oracle Corporation
+124.216.60.169,29850,KR,Ulsan Jung ang Broadcasting Network
+123.143.106.99,50000,KR,Lg Dacom Corporation
+180.211.23.99,50000,KR,Ulsan Jung ang Broadcasting Network
+222.96.105.8,50000,KR,Korea Telecom
+124.216.60.169,36004,KR,Ulsan Jung ang Broadcasting Network
+101.235.121.104,50000,KR,DLIVE
+124.216.60.169,10325,KR,Ulsan Jung ang Broadcasting Network
+218.157.222.202,50000,KR,Korea Telecom
+118.131.232.132,30063,KR,Lg Dacom Corporation
+119.65.35.44,50000,KR,LG POWERCOMM
+118.35.142.122,50000,KR,Korea Telecom
+124.216.60.169,11804,KR,Ulsan Jung ang Broadcasting Network
+121.131.180.71,50000,KR,Korea Telecom
+14.35.29.177,15903,KR,Korea Telecom
 211.222.80.156,22492,KR,Korea Telecom
 146.56.151.224,29349,KR,Oracle Corporation
-112.72.203.25,50000,KR,HCN CHUNGBUK CABLE TV SYSTEMS
-132.145.84.148,39567,KR,Oracle Corporation
-211.253.196.188,30021,KR,Korea Telecom
-112.155.196.229,50000,KR,LG POWERCOMM
-59.29.59.109,30059,KR,Korea Telecom
-14.35.29.177,15211,KR,Korea Telecom
-121.187.149.211,50000,KR,Korea Telecom
-210.97.74.126,50000,KR,Korea Telecom
-124.48.225.132,50000,KR,LG POWERCOMM
-175.214.237.120,50000,KR,Korea Telecom
-222.106.126.224,50000,KR,Korea Telecom
-211.51.176.6,30059,KR,Korea Telecom
-112.222.129.170,50000,KR,Lg Dacom Corporation
-131.186.24.124,587,KR,Oracle Corporation
-180.211.23.99,50000,KR,Ulsan Jung ang Broadcasting Network
-124.216.60.169,36004,KR,Ulsan Jung ang Broadcasting Network
-158.180.85.127,20721,KR,Oracle Corporation
-211.227.43.208,30058,KR,Korea Telecom
-211.42.255.79,50000,KR,Lg Dacom Corporation
-125.130.15.106,20280,KR,Korea Telecom
-115.95.176.24,30064,KR,Lg Dacom Corporation
-1.176.172.75,50000,KR,Lg Hellovision Corp.
-124.5.180.192,50000,KR,DLIVE
-121.101.247.126,50000,KR,DLIVE
-112.187.98.56,30036,KR,Korea Telecom
-175.199.168.199,50000,KR,Korea Telecom
-158.247.250.157,81,KR,The Constant Company, LLC
-222.103.185.193,30012,KR,Korea Telecom
-220.93.255.130,50000,KR,Korea Telecom
+211.216.189.208,26538,KR,Korea Telecom
+152.67.197.197,19120,KR,Oracle Corporation
 116.35.98.234,31159,KR,LG POWERCOMM
-222.103.185.193,20438,KR,Korea Telecom
-183.100.192.53,50000,KR,Korea Telecom
-123.143.106.99,50000,KR,Lg Dacom Corporation
-112.170.112.178,36702,KR,Korea Telecom
-61.73.36.4,36863,KR,Korea Telecom
-152.70.245.66,12693,KR,Oracle Corporation
+211.51.176.6,30059,KR,Korea Telecom
+112.72.203.25,50000,KR,HCN CHUNGBUK CABLE TV SYSTEMS
+121.180.99.17,39536,KR,Korea Telecom
+121.88.107.1,50000,KR,DLIVE
+158.179.171.53,443,KR,Oracle Corporation
+183.96.245.165,50001,KR,Korea Telecom
 39.126.15.253,50000,KR,PUSAN CABLE TV SYSTEM CO., LTD.
-123.143.9.5,14041,KR,Lg Dacom Corporation
-121.155.154.142,14807,KR,Korea Telecom
+211.253.196.188,21396,KR,Korea Telecom
+116.47.199.34,50000,KR,LG POWERCOMM
+123.142.67.164,50000,KR,Lg Dacom Corporation
+220.92.146.161,50000,KR,Korea Telecom
+222.103.185.193,30012,KR,Korea Telecom
+175.214.237.120,50000,KR,Korea Telecom
+1.176.172.75,50000,KR,Lg Hellovision Corp.
+175.195.255.42,50000,KR,Korea Telecom
 1.214.208.5,50000,KR,Lg Dacom Corporation
-211.219.198.180,12811,KR,Korea Telecom
-222.103.185.193,16656,KR,Korea Telecom
+211.227.43.208,30058,KR,Korea Telecom
+112.187.98.56,30036,KR,Korea Telecom
 220.119.170.222,26883,KR,Korea Telecom
-112.170.112.178,27621,KR,Korea Telecom
+203.243.63.166,27249,KR,Korea Telecom
+112.170.112.178,28154,KR,Korea Telecom
+222.103.185.193,16656,KR,Korea Telecom
+121.155.154.142,14807,KR,Korea Telecom
+14.46.130.32,30061,KR,Korea Telecom
+112.170.112.178,15846,KR,Korea Telecom
+112.170.112.178,36702,KR,Korea Telecom
 121.162.14.67,22480,KR,Korea Telecom
-112.170.112.178,27023,KR,Korea Telecom
 38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
 61.245.11.69,2053,PH,R r Managed Telecom Services
+45.136.238.235,24370,TH,Cat Telecom Public Company Limited
 171.103.13.77,25645,TH,TRUE INTERNET CORPORATION CO. LTD.
-171.103.232.58,20475,TH,TRUE INTERNET CORPORATION CO. LTD.
-212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
-43.229.149.251,2053,TH,Siamdata Communication CO.,LTD.
-43.229.149.251,8443,TH,Siamdata Communication CO.,LTD.
-171.103.13.77,30157,TH,TRUE INTERNET CORPORATION CO. LTD.
 45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
+171.103.232.58,20475,TH,TRUE INTERNET CORPORATION CO. LTD.
+171.103.13.77,30157,TH,TRUE INTERNET CORPORATION CO. LTD.
 171.103.164.62,30921,TH,TRUE INTERNET CORPORATION CO. LTD.
+212.80.213.45,31244,TH,Siamdata Communication CO.,LTD.
+43.229.149.251,8443,TH,Siamdata Communication CO.,LTD.
+43.229.149.251,2053,TH,Siamdata Communication CO.,LTD.
 192.3.113.4,19318,US,HostPapa
-152.32.255.24,587,VN,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 103.15.90.134,49678,VN,Vnpt Corp
+152.32.255.24,587,VN,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
