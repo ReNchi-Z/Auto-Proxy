@@ -1,11 +1,8 @@
-202.60.191.6,29192,JP,ZTV CO.,LTD
-20.235.105.146,443,IN,Microsoft Corporation
-54.169.229.188,443,SG,Amazon.com, Inc.
-13.229.159.215,443,SG,Amazon.com, Inc.
-13.228.155.72,443,SG,Amazon.com, Inc.
-192.53.113.156,587,SG,Akamai Technologies, Inc.
-3.1.116.161,2053,SG,Amazon.com, Inc.
-202.60.191.6,17922,JP,ZTV CO.,LTD
-139.162.33.248,587,SG,Akamai Technologies, Inc.
+203.194.112.119,8443,ID,Rumahweb
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-183.100.192.53,50000,KR,Korea Telecom
+121.180.99.17,39536,KR,Korea Telecom
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
+45.32.100.46,13802,SG,The Constant Company, LLC
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+168.138.184.172,443,SG,Oracle Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
