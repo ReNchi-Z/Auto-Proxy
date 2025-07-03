@@ -1,11 +1,4 @@
-54.169.229.188,443,SG,Amazon.com, Inc.
-13.228.155.72,443,SG,Amazon.com, Inc.
-182.231.198.88,29343,KR,LG POWERCOMM
-54.248.121.219,443,JP,Amazon.com, Inc.
-152.70.234.90,55588,KR,Oracle Corporation
-193.123.66.187,34501,AE,Oracle Corporation
-43.229.149.251,2053,TH,Siamdata Communication CO.,LTD.
-112.170.53.108,50000,KR,Korea Telecom
-112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
-20.243.85.49,10443,JP,Microsoft Corporation
-175.199.168.199,50000,KR,Korea Telecom
+138.2.89.64,32962,SG,Oracle Corporation
+121.101.247.126,50000,KR,DLIVE
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+139.180.215.77,57878,SG,The Constant Company, LLC
