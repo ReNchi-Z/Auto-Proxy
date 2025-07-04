@@ -1,4 +1,10 @@
-5.223.49.4,2053,SG,Hetzner Online GmbH
-115.40.244.240,11211,KR,Lg Hellovision Corp.
-115.40.244.240,12696,KR,Lg Hellovision Corp.
-168.138.184.172,443,SG,Oracle Corporation
+38.180.11.201,443,AE,M Europe SRL
+14.43.209.58,36636,KR,Korea Telecom
+203.194.112.119,8443,ID,Rumahweb
+152.70.89.135,587,KR,Oracle Corporation
+118.46.29.202,30052,KR,Korea Telecom
+193.123.66.187,34501,AE,Oracle Corporation
+125.128.27.185,50000,KR,Korea Telecom
+43.229.149.251,8443,TH,Siamdata Communication CO.,LTD.
+43.218.77.16,1443,ID,Amazon.com, Inc.
+139.180.215.77,57878,SG,The Constant Company, LLC
