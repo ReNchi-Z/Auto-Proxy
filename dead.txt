@@ -1,7 +1,5 @@
-192.243.122.226,8443,JP,It Networks INC
-45.76.183.217,49292,SG,The Constant Company, LLC
-124.5.180.192,50000,KR,DLIVE
-168.138.165.174,443,SG,Oracle Corporation
-138.2.89.64,32962,SG,Oracle Corporation
-61.73.70.207,50000,KR,Korea Telecom
-168.138.184.172,443,SG,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+121.147.229.1,30027,KR,Korea Telecom
+128.134.195.17,50000,KR,Korea Telecom
+139.180.215.77,57878,SG,The Constant Company, LLC
+182.231.198.88,16026,KR,LG POWERCOMM
