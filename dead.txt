@@ -1,1 +1,5 @@
-54.248.121.219,443,JP,Amazon.com, Inc.
+139.180.215.77,57878,SG,The Constant Company, LLC
+193.123.66.187,34501,AE,Oracle Corporation
+168.138.184.172,443,SG,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+211.34.217.86,10247,KR,Korea Telecom
