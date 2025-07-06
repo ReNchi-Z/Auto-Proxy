@@ -1,5 +1,5 @@
-139.180.215.77,57878,SG,The Constant Company, LLC
-193.123.66.187,34501,AE,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
 168.138.184.172,443,SG,Oracle Corporation
-168.138.165.174,443,SG,Oracle Corporation
-211.34.217.86,10247,KR,Korea Telecom
+54.169.229.188,443,SG,Amazon.com, Inc.
+64.110.104.30,443,JP,Oracle Corporation
