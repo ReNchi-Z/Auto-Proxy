@@ -1,12 +1,10 @@
-43.229.149.251,8443,TH,Siamdata Communication CO.,LTD.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-139.180.215.77,57878,SG,The Constant Company, LLC
-38.54.16.95,2053,SG,Kaopu Cloud Hk Limited
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+3.111.155.29,443,IN,Amazon.com, Inc.
+217.142.243.226,443,JP,Oracle Corporation
+168.138.184.172,443,SG,Oracle Corporation
 54.248.121.219,443,JP,Amazon.com, Inc.
+168.138.165.174,443,SG,Oracle Corporation
+148.113.43.228,2053,IN,OVH SAS
 45.12.134.197,2053,JP,PQ HOSTING PLUS S.R.L.
-43.229.149.251,2053,TH,Siamdata Communication CO.,LTD.
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-182.231.198.88,29343,KR,LG POWERCOMM
-38.181.70.7,16240,SG,Eons Data Communications Limited
-167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
-13.229.159.215,443,SG,Amazon.com, Inc.
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
