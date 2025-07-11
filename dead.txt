@@ -1,10 +1,11 @@
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-168.138.184.172,443,SG,Oracle Corporation
-112.166.128.60,50000,KR,Korea Telecom
-39.126.15.253,50000,KR,PUSAN CABLE TV SYSTEM CO., LTD.
-121.155.240.168,50000,KR,Korea Telecom
-121.187.149.211,50000,KR,Korea Telecom
-193.123.66.187,34501,AE,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-13.228.155.72,443,SG,Amazon.com, Inc.
+124.216.60.169,11804,KR,Ulsan Jung ang Broadcasting Network
+124.216.60.169,36004,KR,Ulsan Jung ang Broadcasting Network
+217.195.200.138,443,AE,G core Labs S.A.
+112.170.53.108,50000,KR,Korea Telecom
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+124.216.60.169,29850,KR,Ulsan Jung ang Broadcasting Network
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+217.195.200.153,1,AE,G core Labs S.A.
+124.216.60.169,10325,KR,Ulsan Jung ang Broadcasting Network
+98.98.236.58,15608,AE,Zenlayer INC
