@@ -1,11 +1,8 @@
-13.228.155.72,443,SG,Amazon.com, Inc.
-45.76.183.217,49292,SG,The Constant Company, LLC
-176.97.67.38,443,AE,M Europe SRL
-8.216.81.183,3939,JP,Alibaba us Technology Co., Ltd.
-146.56.162.25,443,KR,Oracle Corporation
-112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
-183.96.245.165,50001,KR,Korea Telecom
-123.143.106.99,50000,KR,Lg Dacom Corporation
-183.96.245.165,30060,KR,Korea Telecom
-62.72.46.14,8443,SG,Contabo Asia Private Limited
+45.32.100.46,13802,SG,The Constant Company, LLC
+14.39.172.147,30069,KR,Korea Telecom
+20.235.105.146,443,IN,Microsoft Corporation
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
 182.231.198.88,16026,KR,LG POWERCOMM
+193.123.66.187,34501,AE,Oracle Corporation
+38.180.11.201,443,AE,M Europe SRL
+148.113.43.228,2053,IN,OVH SAS
