@@ -1,6 +1,8 @@
-3.111.155.29,443,IN,Amazon.com, Inc.
-8.219.59.132,48130,SG,Alibaba us Technology Co., Ltd.
-168.138.184.172,443,SG,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-220.90.247.28,50000,KR,Korea Telecom
-13.229.159.215,443,SG,Amazon.com, Inc.
+185.81.28.95,30503,SG,AKILE LTD
+112.166.47.132,50000,KR,Korea Telecom
+115.40.244.240,12696,KR,Lg Hellovision Corp.
+121.155.240.168,50000,KR,Korea Telecom
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+132.145.116.192,44009,JP,Oracle Corporation
+211.219.198.180,12811,KR,Korea Telecom
+175.205.194.9,50000,KR,Korea Telecom
