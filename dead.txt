@@ -1,6 +1,6 @@
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-148.113.43.228,8443,IN,OVH SAS
-148.113.43.228,2053,IN,OVH SAS
-45.76.183.217,49292,SG,The Constant Company, LLC
+3.111.155.29,443,IN,Amazon.com, Inc.
+8.219.59.132,48130,SG,Alibaba us Technology Co., Ltd.
+168.138.184.172,443,SG,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+220.90.247.28,50000,KR,Korea Telecom
+13.229.159.215,443,SG,Amazon.com, Inc.
