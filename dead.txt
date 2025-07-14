@@ -1,3 +1,6 @@
-148.113.43.228,2053,IN,OVH SAS
-168.138.184.172,443,SG,Oracle Corporation
-183.101.245.148,50000,KR,Korea Telecom
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+180.211.23.99,50000,KR,Ulsan Jung ang Broadcasting Network
+13.229.159.215,443,SG,Amazon.com, Inc.
+211.115.146.127,31304,KR,Korea Telecom
+13.228.155.72,443,SG,Amazon.com, Inc.
+182.231.198.88,16026,KR,LG POWERCOMM
