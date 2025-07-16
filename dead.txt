@@ -1,8 +1,2 @@
-217.195.200.52,80,AE,G core Labs S.A.
-13.230.34.30,443,JP,Amazon.com, Inc.
-119.194.133.136,50000,KR,Korea Telecom
-38.180.11.201,443,AE,M Europe SRL
-211.219.199.21,50000,KR,Korea Telecom
-13.228.155.72,443,SG,Amazon.com, Inc.
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-13.250.131.37,443,SG,Amazon.com, Inc.
+168.138.184.172,443,SG,Oracle Corporation
+148.113.43.228,2053,IN,OVH SAS
