@@ -1,7 +1,6 @@
-148.113.43.228,8443,IN,OVH SAS
-13.233.5.49,443,IN,Amazon.com, Inc.
-222.120.119.146,50000,KR,Korea Telecom
-138.2.89.64,32962,SG,Oracle Corporation
-3.7.108.69,443,IN,Amazon.com, Inc.
-3.111.155.29,443,IN,Amazon.com, Inc.
-148.113.43.228,2053,IN,OVH SAS
+121.166.174.182,50000,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+54.248.121.219,443,JP,Amazon.com, Inc.
+121.158.27.207,50000,KR,Korea Telecom
+13.250.131.37,443,SG,Amazon.com, Inc.
+220.93.255.130,50000,KR,Korea Telecom
