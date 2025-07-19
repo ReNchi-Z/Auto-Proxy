@@ -1,4 +1,5 @@
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-210.97.74.126,50000,KR,Korea Telecom
-168.138.46.115,43138,JP,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
+38.180.28.163,2053,JP,M Europe SRL
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+38.180.28.163,8443,JP,M Europe SRL
+112.109.58.49,50000,KR,Ulsan Jung ang Broadcasting Network
+59.15.182.92,50000,KR,Korea Telecom
