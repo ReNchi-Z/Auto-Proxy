@@ -1,3 +1,4 @@
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-182.231.198.88,16026,KR,LG POWERCOMM
-38.181.70.7,16240,SG,Eons Data Communications Limited
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+210.97.74.126,50000,KR,Korea Telecom
+168.138.46.115,43138,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
