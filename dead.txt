@@ -1,3 +1,5 @@
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-221.158.170.74,50000,KR,Korea Telecom
-119.194.117.229,50000,KR,Korea Telecom
+111.118.114.47,24915,KR,Gyeongbuk Cable TV
+111.118.114.47,36769,KR,Gyeongbuk Cable TV
+182.231.198.88,16026,KR,LG POWERCOMM
+111.118.114.47,24092,KR,Gyeongbuk Cable TV
+20.235.105.146,443,IN,Microsoft Corporation
