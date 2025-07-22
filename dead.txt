@@ -1,5 +1,11 @@
-111.118.114.47,24915,KR,Gyeongbuk Cable TV
-111.118.114.47,36769,KR,Gyeongbuk Cable TV
-182.231.198.88,16026,KR,LG POWERCOMM
-111.118.114.47,24092,KR,Gyeongbuk Cable TV
-20.235.105.146,443,IN,Microsoft Corporation
+123.143.106.99,50000,KR,Lg Dacom Corporation
+121.162.14.67,22480,KR,Korea Telecom
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+61.83.79.155,30002,KR,Korea Telecom
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+121.162.14.67,26093,KR,Korea Telecom
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+168.138.184.172,443,SG,Oracle Corporation
+210.107.19.125,50000,KR,Lg Dacom Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+121.162.14.67,17298,KR,Korea Telecom
