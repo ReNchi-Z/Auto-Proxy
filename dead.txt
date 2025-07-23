@@ -1,7 +1,8 @@
-59.21.223.11,50000,KR,Korea Telecom
-112.185.95.169,50004,KR,Korea Telecom
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-182.231.198.88,29343,KR,LG POWERCOMM
-62.72.46.14,8443,SG,Contabo Asia Private Limited
 8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-146.56.162.25,443,KR,Oracle Corporation
+168.138.184.172,443,SG,Oracle Corporation
+152.70.245.66,12693,KR,Oracle Corporation
+220.124.158.10,50000,KR,Korea Telecom
+146.56.182.217,54266,KR,Oracle Corporation
+146.56.151.224,29349,KR,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
