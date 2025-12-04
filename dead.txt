@@ -1,174 +1,175 @@
-18.183.158.211,443,JP,Amazon.com, Inc.
-123.143.9.5,14041,N/A,N/A
-158.101.152.6,2919,JP,Oracle Corporation
-140.83.57.20,13118,JP,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-168.138.213.1,50003,JP,Oracle Corporation
-172.105.62.71,2443,IN,Akamai Technologies, Inc.
-150.230.5.34,45681,JP,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-168.138.184.172,443,N/A,N/A
-194.36.179.5,2053,SG,FIRST SERVER LIMITED
-193.122.126.64,53777,KR,Oracle Corporation
-166.0.244.206,8443,IN,M S HARVIL MEDIA
 176.97.67.38,443,AE,M Europe SRL
-43.218.77.16,1443,ID,Amazon.com, Inc.
-158.101.146.3,44872,JP,Oracle Corporation
-152.69.229.175,22558,KR,Oracle Corporation
-43.128.95.84,38091,SG,Shenzhen Tencent Computer Systems Company Limited
-144.24.87.69,50001,KR,Oracle Corporation
-103.106.228.126,2053,N/A,N/A
-168.138.46.67,443,N/A,N/A
-168.138.198.7,27560,N/A,N/A
-47.236.119.190,51342,SG,Alibaba us Technology Co., Ltd.
-132.145.88.82,38066,N/A,N/A
-45.32.100.46,13802,N/A,N/A
-43.156.116.194,443,N/A,N/A
 158.247.250.157,81,KR,The Constant Company, LLC
-213.35.107.73,443,SG,Oracle Corporation
-172.232.112.240,587,IN,Akamai Technologies, Inc.
-178.128.80.43,443,N/A,N/A
-139.185.34.131,443,AE,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
-194.127.193.124,24467,N/A,N/A
-3.112.21.102,443,JP,Amazon.com, Inc.
-141.98.197.101,11665,JP,Xtom Japan Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-129.154.48.176,36355,KR,Oracle Corporation
-38.180.28.163,2053,JP,M Europe SRL
-213.35.108.135,12596,SG,Oracle Corporation
-146.56.182.217,54266,N/A,N/A
-139.185.50.5,14594,AE,Oracle Corporation
-51.79.158.58,8443,N/A,N/A
-194.36.178.36,8443,N/A,N/A
-168.138.165.174,443,SG,Oracle Corporation
-194.36.178.36,2053,N/A,N/A
-45.144.167.46,19816,N/A,N/A
-118.27.12.40,38443,JP,Gmo Internet Group, Inc.
 64.110.70.205,23022,KR,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-43.218.77.16,443,N/A,N/A
-138.2.89.238,43254,SG,Oracle Corporation
-131.186.18.212,28887,KR,Oracle Corporation
-152.70.82.101,18650,N/A,N/A
-146.56.99.255,56789,KR,Oracle Corporation
-129.150.58.86,57621,SG,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-8.222.220.81,25435,SG,Alibaba us Technology Co., Ltd.
-31.192.238.71,8443,SG,Chelyabinsk signal LLC
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-51.79.158.58,2053,SG,OVH SAS
-5.34.176.119,81,SG,GREEN FLOID LLC
-168.138.170.211,53702,SG,Oracle Corporation
-64.176.40.224,3533,JP,The Constant Company, LLC
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-45.76.198.248,443,JP,The Constant Company, LLC
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-38.180.28.163,8443,N/A,N/A
-132.226.21.116,6056,KR,Oracle Corporation
-83.142.30.129,2096,SG,Streamline Servers Pty LTD
-171.103.232.58,20475,TH,TRUE INTERNET CORPORATION CO. LTD.
-152.32.255.24,587,N/A,N/A
-213.35.100.31,47112,SG,Oracle Corporation
-185.81.28.95,30503,SG,AKILE LTD
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-193.123.81.105,443,AE,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-52.141.25.42,443,KR,Microsoft Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-217.195.200.138,443,N/A,N/A
-131.186.63.89,11655,N/A,N/A
-140.83.59.158,15805,N/A,N/A
-45.77.25.6,27854,JP,The Constant Company, LLC
-121.165.101.69,19413,KR,Korea Telecom
-8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
-45.77.25.6,48828,JP,The Constant Company, LLC
-217.142.250.195,587,N/A,N/A
-146.235.18.248,45137,SG,Oracle Corporation
-134.195.137.107,22473,N/A,N/A
-146.56.140.79,20309,KR,Oracle Corporation
-36.95.152.58,12137,N/A,N/A
-158.101.146.3,54516,JP,Oracle Corporation
-103.75.118.144,2053,N/A,N/A
-140.238.62.82,1443,JP,Oracle Corporation
-141.147.147.180,443,N/A,N/A
-140.238.37.103,14782,JP,Oracle Corporation
-152.32.181.246,44070,N/A,N/A
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-131.186.24.124,587,N/A,N/A
-217.142.236.93,443,JP,Oracle Corporation
-152.70.89.135,587,KR,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-141.147.161.249,51037,JP,Oracle Corporation
-45.76.192.129,24434,JP,The Constant Company, LLC
-150.230.204.21,10243,JP,Oracle Corporation
-43.133.10.236,33405,N/A,N/A
-146.235.19.79,28983,SG,Oracle Corporation
-140.83.57.114,25965,JP,Oracle Corporation
-31.192.238.71,2053,SG,Chelyabinsk signal LLC
-141.147.144.15,13357,N/A,N/A
-146.56.140.79,44699,N/A,N/A
-138.2.12.103,14453,JP,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-115.40.240.254,37594,KR,Lg Hellovision Corp.
-152.70.75.80,15805,IN,Oracle Corporation
-168.138.171.70,23280,N/A,N/A
-84.235.245.18,34501,N/A,N/A
-138.2.69.236,23334,SG,Oracle Corporation
-158.101.154.245,47001,N/A,N/A
-91.192.81.154,2053,SG,Melbikomas Uab
-138.2.18.82,8880,N/A,N/A
-13.230.34.30,443,N/A,N/A
-138.2.48.109,26412,JP,Oracle Corporation
-168.138.197.147,12345,N/A,N/A
-146.56.162.25,443,N/A,N/A
-144.24.84.212,49888,KR,Oracle Corporation
-138.2.122.197,39863,KR,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-129.150.36.188,53435,N/A,N/A
-148.113.43.228,2053,IN,OVH SAS
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-8.219.58.164,57373,N/A,N/A
-192.243.127.224,443,JP,It Networks INC
-104.248.145.216,443,SG,Digitalocean, LLC
-141.147.178.249,37043,JP,Oracle Corporation
-168.138.192.16,54584,N/A,N/A
-132.145.84.148,39567,KR,Oracle Corporation
-45.76.183.217,49292,SG,The Constant Company, LLC
-138.2.49.197,587,JP,Oracle Corporation
-217.142.138.61,37914,N/A,N/A
-138.2.59.96,10129,N/A,N/A
-152.67.211.114,58337,N/A,N/A
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-193.123.90.82,12648,AE,Oracle Corporation
-152.67.197.197,19120,KR,Oracle Corporation
-171.103.164.62,30921,TH,TRUE INTERNET CORPORATION CO. LTD.
-129.154.54.67,19567,KR,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-212.52.0.61,1846,N/A,N/A
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-138.2.10.149,45638,N/A,N/A
-141.147.152.229,23333,JP,Oracle Corporation
-103.15.90.134,49678,VN,Vnpt Corp
-141.147.183.49,29876,JP,Oracle Corporation
-166.0.244.206,2053,IN,M S HARVIL MEDIA
+140.83.57.20,13118,JP,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-148.113.43.228,8443,N/A,N/A
-43.156.181.203,443,N/A,N/A
-176.97.66.175,443,AE,M Europe SRL
-152.70.76.104,46000,IN,Oracle Corporation
-150.230.214.172,16957,N/A,N/A
-152.69.192.40,57005,N/A,N/A
-103.238.129.215,42734,N/A,N/A
-147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-129.150.49.58,18650,N/A,N/A
-168.138.46.115,43138,N/A,N/A
-152.69.199.70,8443,JP,Oracle Corporation
-160.16.123.65,443,JP,Sakura Internet Inc.
-146.56.48.138,23010,N/A,N/A
+152.69.192.40,57005,JP,Oracle Corporation
+45.76.192.129,24434,JP,The Constant Company, LLC
+132.145.88.82,38066,KR,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
+138.2.48.109,26412,JP,Oracle Corporation
+129.150.49.58,18650,SG,Oracle Corporation
+134.195.137.107,22473,IN,Readydedis, LLC
+83.142.30.129,2096,SG,Streamline Servers Pty LTD
+171.103.164.62,30921,TH,TRUE INTERNET CORPORATION CO. LTD.
+150.230.5.34,45681,JP,Oracle Corporation
 83.142.30.4,2096,SG,Streamline Servers Pty LTD
+148.113.43.228,2053,IN,OVH SAS
+150.230.204.21,10243,JP,Oracle Corporation
+217.195.200.138,443,AE,G core Labs S.A.
+31.192.238.71,2053,SG,Chelyabinsk signal LLC
+45.77.25.6,27854,JP,The Constant Company, LLC
+103.15.90.134,49678,VN,Vnpt Corp
+43.133.10.236,33405,JP,Shenzhen Tencent Computer Systems Company Limited
+132.226.21.116,6056,KR,Oracle Corporation
+47.236.119.190,51342,SG,Alibaba us Technology Co., Ltd.
+38.180.28.163,8443,JP,M Europe SRL
+8.219.1.169,443,SG,Alibaba us Technology Co., Ltd.
+140.83.57.183,22735,JP,Oracle Corporation
+152.70.75.80,15805,IN,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+176.97.66.175,443,AE,M Europe SRL
+152.67.197.197,19120,KR,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+91.192.81.154,2053,SG,Melbikomas Uab
+140.83.59.158,15805,JP,Oracle Corporation
+140.238.62.82,1443,JP,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+146.56.140.79,22561,KR,Oracle Corporation
 185.18.222.208,2053,JP,Latitude.sh
+138.2.122.197,39863,KR,Oracle Corporation
+103.238.129.215,42734,JP,WAP.AC LTD
+140.238.37.103,14782,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Corporation
+171.103.232.58,20475,TH,TRUE INTERNET CORPORATION CO. LTD.
+138.2.89.238,43254,SG,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+141.147.144.15,13357,JP,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
+168.138.197.147,12345,JP,Oracle Corporation
+91.192.81.154,8443,SG,Melbikomas Uab
+138.2.18.82,8880,JP,Oracle Corporation
+64.176.40.224,3533,JP,The Constant Company, LLC
+139.185.34.131,443,AE,Oracle Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+192.243.127.224,443,JP,It Networks INC
+146.235.19.79,28983,SG,Oracle Corporation
+152.32.255.24,587,VN,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+150.230.214.172,16957,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+141.147.183.49,29876,JP,Oracle Corporation
+148.113.43.228,8443,IN,OVH SAS
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+158.101.154.245,47001,JP,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+45.76.183.217,49292,SG,The Constant Company, LLC
+152.70.76.104,46000,IN,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+140.83.57.114,25965,JP,Oracle Corporation
+160.16.123.65,443,JP,Sakura Internet Inc.
+129.150.36.188,53435,SG,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+146.56.99.255,56789,KR,Oracle Corporation
+146.56.140.79,20309,KR,Oracle Corporation
+152.67.211.114,58337,KR,Oracle Corporation
+8.219.58.164,57373,SG,Alibaba us Technology Co., Ltd.
+84.235.245.18,34501,AE,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+38.180.28.163,2053,JP,M Europe SRL
+149.28.21.106,443,JP,The Constant Company, LLC
+132.145.84.148,39567,KR,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+43.218.77.16,1443,ID,Amazon.com, Inc.
+168.138.170.211,53702,SG,Oracle Corporation
+147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+8.222.220.81,25435,SG,Alibaba us Technology Co., Ltd.
+178.128.80.43,443,SG,Digitalocean, LLC
+172.232.112.240,587,IN,Akamai Technologies, Inc.
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+123.143.9.5,14041,KR,Lg Dacom Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+52.141.25.42,443,KR,Microsoft Corporation
+193.123.81.105,443,AE,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+168.138.192.16,54584,JP,Oracle Corporation
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+213.35.100.31,47112,SG,Oracle Corporation
+43.128.95.84,38091,SG,Shenzhen Tencent Computer Systems Company Limited
+138.2.69.236,23334,SG,Oracle Corporation
+212.52.0.61,1846,JP,Hosthatch, LLC
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+141.98.197.101,11665,JP,Xtom Japan Corporation
+185.81.28.95,30503,SG,AKILE LTD
+131.186.18.212,28887,KR,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
+138.2.12.103,14453,JP,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+138.2.10.217,27446,JP,Oracle Corporation
+141.147.147.180,443,JP,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
+129.154.54.67,19567,KR,Oracle Corporation
+193.123.90.82,12648,AE,Oracle Corporation
+172.105.62.71,2443,IN,Akamai Technologies, Inc.
+141.147.161.249,51037,JP,Oracle Corporation
+51.79.158.58,8443,SG,OVH SAS
+121.165.101.69,19413,KR,Korea Telecom
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+152.70.82.101,18650,JP,Oracle Corporation
+168.138.184.172,443,SG,Oracle Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+146.56.48.138,23010,IN,Oracle Corporation
+217.142.236.93,443,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+166.0.244.206,8443,IN,M S HARVIL MEDIA
+115.40.240.254,37594,KR,Lg Hellovision Corp.
+129.150.58.86,57621,SG,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+129.154.48.176,36355,KR,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+138.2.49.197,587,JP,Oracle Corporation
+3.112.21.102,443,JP,Amazon.com, Inc.
+144.24.84.212,49888,KR,Oracle Corporation
+139.185.50.5,14594,AE,Oracle Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+216.10.243.159,443,IN,PDR
+18.183.158.211,443,JP,Amazon.com, Inc.
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+217.142.250.195,587,JP,Oracle Corporation
+152.69.199.70,8443,JP,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+168.138.46.115,43138,JP,Oracle Corporation
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+168.138.213.1,50003,JP,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+166.0.244.206,2053,IN,M S HARVIL MEDIA
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+131.186.24.124,587,KR,Oracle Corporation
+152.70.89.135,587,KR,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
+144.24.87.69,50001,KR,Oracle Corporation
+213.35.107.73,443,SG,Oracle Corporation
+141.147.178.249,37043,JP,Oracle Corporation
+13.230.34.30,443,JP,Amazon.com, Inc.
+31.192.238.71,8443,SG,Chelyabinsk signal LLC
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
+217.142.138.61,37914,KR,Oracle Corporation
