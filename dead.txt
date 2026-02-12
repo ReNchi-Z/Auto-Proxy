@@ -1,9 +1,0 @@
-3.112.21.102,443,JP,Amazon.com, Inc.
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-217.142.230.253,587,JP,Oracle Corporation
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-51.79.158.58,8443,SG,OVH SAS
-43.133.10.236,33405,JP,Shenzhen Tencent Computer Systems Company Limited
-217.142.138.61,37914,KR,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-146.56.48.138,23010,IN,Oracle Corporation
