@@ -1,0 +1,23 @@
+193.123.90.82,12648,AE,Oracle Corporation
+152.69.199.70,8443,JP,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+152.69.192.40,57005,JP,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+8.222.220.81,25435,SG,Alibaba us Technology Co., Ltd.
+144.24.87.69,50001,KR,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
+176.97.66.175,443,AE,M Europe SRL
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
+141.98.197.101,11665,JP,Xtom Japan Corporation
+132.145.88.82,38066,KR,Oracle Corporation
+140.83.57.183,22735,JP,Oracle Corporation
+152.69.227.97,587,KR,Oracle Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+131.186.24.124,587,KR,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+149.28.21.106,443,JP,The Constant Company, LLC
+103.75.118.144,2053,JP,Brainstorm Network, INC
+45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
+138.2.12.103,14453,JP,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
+138.2.10.217,27446,JP,Oracle Corporation
