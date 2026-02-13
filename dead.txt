@@ -1,0 +1,32 @@
+146.235.19.79,28983,SG,Oracle Corporation
+84.235.245.18,34501,AE,Oracle Corporation
+141.147.183.49,29876,JP,Oracle Corporation
+129.150.58.86,57621,SG,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+217.142.250.195,587,JP,Oracle Corporation
+156.230.12.71,443,HK,Global Communications Limited
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+43.218.77.16,443,ID,Amazon.com, Inc.
+64.110.70.205,23022,KR,Oracle Corporation
+38.180.28.163,8443,JP,M Europe SRL
+138.2.69.236,23334,SG,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+152.70.75.80,15805,IN,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+141.98.197.101,11665,JP,Xtom Japan Corporation
+31.192.238.71,8443,SG,Chelyabinsk signal LLC
+138.2.18.82,8880,JP,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+152.69.199.70,8443,JP,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
+217.142.236.93,443,JP,Oracle Corporation
