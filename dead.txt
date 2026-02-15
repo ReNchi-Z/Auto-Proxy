@@ -1,0 +1,20 @@
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+144.24.84.212,49888,KR,Oracle Corporation
+152.70.82.101,18650,JP,Oracle Corporation
+140.83.57.114,25965,JP,Oracle Corporation
+138.2.69.236,23334,SG,Oracle Corporation
+91.192.81.154,2053,SG,Melbikomas Uab
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+65.20.74.136,2053,IN,The Constant Company, LLC
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+138.2.122.197,39863,KR,Oracle Corporation
+115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
+20.235.105.146,443,IN,Microsoft Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+140.238.37.103,14782,JP,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
+132.145.88.82,38066,KR,Oracle Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+152.69.229.175,22558,KR,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
