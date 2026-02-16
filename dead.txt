@@ -1,20 +1,18 @@
-91.192.81.154,8443,SG,Melbikomas Uab
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-31.192.238.71,8443,SG,Chelyabinsk signal LLC
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-103.106.228.126,2053,JP,Brainstorm Network, INC
+217.142.250.195,587,JP,Oracle Corporation
 172.232.112.240,587,IN,Akamai Technologies, Inc.
-152.69.227.97,587,KR,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-178.128.80.43,443,SG,Digitalocean, LLC
-150.230.204.21,10243,JP,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-193.123.81.105,443,AE,Oracle Corporation
-45.76.192.129,24434,JP,The Constant Company, LLC
-13.250.131.37,443,SG,Amazon.com, Inc.
+138.2.49.197,587,JP,Oracle Corporation
+45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
 5.34.176.119,81,SG,GREEN FLOID LLC
-115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
-138.2.89.238,43254,SG,Oracle Corporation
-45.76.183.217,49292,SG,The Constant Company, LLC
-91.192.81.154,2053,SG,Melbikomas Uab
+13.250.131.37,443,SG,Amazon.com, Inc.
+152.70.82.101,18650,JP,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+129.150.58.86,57621,SG,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+168.138.165.174,443,SG,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+149.28.21.106,443,JP,The Constant Company, LLC
+3.112.21.102,443,JP,Amazon.com, Inc.
+152.70.75.80,15805,IN,Oracle Corporation
