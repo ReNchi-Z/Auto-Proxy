@@ -1,20 +1,42 @@
-45.11.1.118,44004,JP,Datacamp Limited
-45.76.192.129,24434,JP,The Constant Company, LLC
-129.150.58.86,57621,SG,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-132.145.88.82,38066,KR,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
-138.2.69.236,23334,SG,Oracle Corporation
-146.56.140.79,44699,KR,Oracle Corporation
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-217.142.236.93,443,JP,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-103.106.228.126,2053,JP,Brainstorm Network, INC
-217.142.138.61,37914,KR,Oracle Corporation
-129.154.54.67,19567,KR,Oracle Corporation
-51.79.158.58,2053,SG,OVH SAS
-18.183.158.211,443,JP,Amazon.com, Inc.
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+193.122.126.64,53777,KR,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+176.97.66.175,443,AE,M Europe SRL
+115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
+152.69.199.70,8443,JP,Oracle Corporation
 141.147.152.229,23333,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+5.34.176.119,81,SG,GREEN FLOID LLC
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+217.142.138.61,37914,KR,Oracle Corporation
+138.2.122.197,39863,KR,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+216.10.243.159,443,IN,PDR
+91.192.81.154,2053,SG,Melbikomas Uab
+146.56.182.217,54266,KR,Oracle Corporation
+3.112.21.102,443,JP,Amazon.com, Inc.
+185.81.28.95,30503,SG,AKILE LTD
+193.123.90.82,12648,AE,Oracle Corporation
+146.56.140.79,20309,KR,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
+148.113.43.228,2053,IN,OVH SAS
+138.2.48.109,26412,JP,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+131.186.24.124,587,KR,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+150.230.204.21,10243,JP,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+51.79.158.58,8443,SG,OVH SAS
+8.222.220.81,25435,SG,Alibaba us Technology Co., Ltd.
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+18.183.158.211,443,JP,Amazon.com, Inc.
+178.128.80.43,443,SG,Digitalocean, LLC
+45.76.192.129,24434,JP,The Constant Company, LLC
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+144.24.84.212,49888,KR,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
+45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
+64.110.104.30,443,JP,Oracle Corporation
