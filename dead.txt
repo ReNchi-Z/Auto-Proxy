@@ -1,0 +1,20 @@
+132.226.21.116,6056,KR,Oracle Corporation
+18.183.158.211,443,JP,Amazon.com, Inc.
+158.101.152.6,2919,JP,Oracle Corporation
+103.238.129.215,42734,JP,WAP.AC LLC
+138.2.69.236,23334,SG,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+138.2.12.103,14453,JP,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+146.56.48.138,23010,IN,Oracle Corporation
+13.230.34.30,443,JP,Amazon.com, Inc.
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+141.98.197.101,11665,JP,Xtom Japan Corporation
+91.192.81.154,2053,SG,Melbikomas Uab
+168.138.165.174,443,SG,Oracle Corporation
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+152.70.82.101,18650,JP,Oracle Corporation
+65.20.74.136,2053,IN,The Constant Company, LLC
+172.232.112.240,587,IN,Akamai Technologies, Inc.
+171.103.164.62,30921,TH,TRUE INTERNET CORPORATION CO. LTD.
+168.138.192.16,54584,JP,Oracle Corporation
