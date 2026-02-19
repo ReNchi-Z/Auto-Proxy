@@ -1,39 +1,18 @@
-91.192.81.154,2053,SG,Melbikomas Uab
-140.83.57.183,22735,JP,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-91.192.81.154,8443,SG,Melbikomas Uab
-152.70.82.101,18650,JP,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-52.141.25.42,443,KR,Microsoft Corporation
-146.235.18.248,45137,SG,Oracle Corporation
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-146.56.99.255,56789,KR,Oracle Corporation
-168.138.46.67,443,JP,Oracle Corporation
-168.138.192.16,54584,JP,Oracle Corporation
-193.122.126.64,53777,KR,Oracle Corporation
-45.86.228.104,443,AE,Bluevps Ou
-178.128.80.43,443,SG,Digitalocean, LLC
-141.98.197.101,11665,JP,Xtom Japan Corporation
-64.110.70.205,23022,KR,Oracle Corporation
-13.230.34.30,443,JP,Amazon.com, Inc.
-103.238.129.215,42734,JP,WAP.AC LLC
-176.97.66.175,443,AE,M Europe SRL
-134.195.137.107,22473,IN,Readydedis, LLC
-146.235.19.79,28983,SG,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-158.247.250.157,81,KR,The Constant Company, LLC
-103.75.118.144,2053,JP,Brainstorm Network, INC
-103.15.90.134,49678,VN,Vnpt Corp
-168.138.198.7,27560,JP,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-146.56.140.79,20309,KR,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+185.81.28.95,30503,SG,AKILE LTD
 65.20.74.136,2053,IN,The Constant Company, LLC
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+152.69.192.40,57005,JP,Oracle Corporation
+144.24.84.212,49888,KR,Oracle Corporation
+38.180.28.163,8443,JP,M Europe SRL
 194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-146.56.182.217,54266,KR,Oracle Corporation
-146.56.140.79,44699,KR,Oracle Corporation
-3.112.21.102,443,JP,Amazon.com, Inc.
+134.195.137.107,22473,IN,Readydedis, LLC
+168.138.198.7,27560,JP,Oracle Corporation
+146.56.140.79,20309,KR,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+140.238.5.75,13644,KR,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+168.138.171.70,23280,SG,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+141.147.183.49,29876,JP,Oracle Corporation
