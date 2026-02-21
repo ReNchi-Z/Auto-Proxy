@@ -1,20 +1,20 @@
-45.76.198.248,443,JP,The Constant Company, LLC
-45.76.192.129,24434,JP,The Constant Company, LLC
-168.138.198.7,27560,JP,Oracle Corporation
-168.138.192.16,54584,JP,Oracle Corporation
-129.154.48.176,36355,KR,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-146.56.140.79,20309,KR,Oracle Corporation
-132.145.88.82,38066,KR,Oracle Corporation
-64.110.70.205,23022,KR,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
+43.218.77.16,443,ID,Amazon.com, Inc.
 178.128.80.43,443,SG,Digitalocean, LLC
-45.11.1.118,44004,JP,Datacamp Limited
-152.70.76.104,46000,IN,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-146.235.19.79,28983,SG,Oracle Corporation
-152.69.229.175,22558,KR,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+31.192.238.71,8443,SG,Chelyabinsk signal LLC
+141.147.183.49,29876,JP,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+158.101.146.3,54516,JP,Oracle Corporation
+148.113.43.228,2053,IN,OVH SAS
 217.142.138.61,37914,KR,Oracle Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-138.2.32.76,15821,JP,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+18.183.158.211,443,JP,Amazon.com, Inc.
+146.56.99.255,56789,KR,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+146.56.48.138,23010,IN,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
