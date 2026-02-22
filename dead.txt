@@ -1,20 +1,20 @@
-141.147.152.229,23333,JP,Oracle Corporation
-31.192.238.71,8443,SG,Chelyabinsk signal LLC
-194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
-144.24.87.69,50001,KR,Oracle Corporation
-18.183.158.211,443,JP,Amazon.com, Inc.
-45.77.25.6,48828,JP,The Constant Company, LLC
-183.252.205.37,11101,CN,China Mobile
-152.69.227.97,587,KR,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-152.69.192.40,57005,JP,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+45.77.25.6,27854,JP,The Constant Company, LLC
 103.75.118.144,2053,JP,Brainstorm Network, INC
-131.186.63.89,11655,JP,Oracle Corporation
-146.235.18.248,45137,SG,Oracle Corporation
-148.113.43.228,8443,IN,OVH SAS
-103.238.129.215,42734,JP,WAP.AC LLC
-64.110.104.30,443,JP,Oracle Corporation
+138.2.69.236,23334,SG,Oracle Corporation
+144.24.84.212,49888,KR,Oracle Corporation
+129.150.58.86,57621,SG,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+18.183.158.211,443,JP,Amazon.com, Inc.
+52.141.25.42,443,KR,Microsoft Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+140.83.57.114,25965,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
+138.2.32.76,15821,JP,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+65.20.74.136,2053,IN,The Constant Company, LLC
+129.154.54.67,19567,KR,Oracle Corporation
