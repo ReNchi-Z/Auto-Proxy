@@ -1,0 +1,20 @@
+140.83.59.158,15805,JP,Oracle Corporation
+146.56.182.217,54266,KR,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+146.56.140.79,20309,KR,Oracle Corporation
+152.70.82.101,18650,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+138.2.12.103,14453,JP,Oracle Corporation
+51.79.158.58,8443,SG,OVH SAS
+172.232.112.240,587,IN,Akamai Technologies, Inc.
+129.154.223.89,15800,KR,Oracle Corporation
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+138.2.59.96,10129,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+138.2.10.149,45638,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+217.142.230.253,587,JP,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
