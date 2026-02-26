@@ -1,21 +1,21 @@
-152.70.75.80,15805,IN,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+129.154.54.67,19567,KR,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+138.2.122.197,39863,KR,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+158.101.154.245,47001,JP,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
+141.147.152.229,23333,JP,Oracle Corporation
+103.238.129.215,42734,JP,WAP.AC LLC
 152.67.211.114,58337,KR,Oracle Corporation
-193.123.90.82,12648,AE,Oracle Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+150.230.204.21,10243,JP,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
 152.69.229.175,22558,KR,Oracle Corporation
-115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-158.101.152.6,2919,JP,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+150.230.254.21,1443,KR,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-138.2.69.236,23334,SG,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-146.235.19.79,28983,SG,Oracle Corporation
-152.70.76.104,46000,IN,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-65.20.74.136,2053,IN,The Constant Company, LLC
-140.83.59.158,15805,JP,Oracle Corporation
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-146.56.182.217,54266,KR,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-104.248.145.216,443,SG,Digitalocean, LLC
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+185.81.28.95,30503,SG,AKILE LTD
+193.122.126.64,53777,KR,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
