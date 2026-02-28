@@ -1,20 +1,12 @@
-138.2.10.217,27446,JP,Oracle Corporation
-103.15.90.134,49678,VN,Vnpt Corp
-65.20.74.136,2053,IN,The Constant Company, LLC
-43.218.77.16,1443,ID,Amazon.com, Inc.
-158.101.152.6,2919,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-31.192.238.71,8443,SG,Chelyabinsk signal LLC
-18.183.158.211,443,JP,Amazon.com, Inc.
-213.35.100.31,47112,SG,Oracle Corporation
-213.35.107.73,443,SG,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-217.142.236.93,443,JP,Oracle Corporation
-152.32.255.24,587,VN,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-168.138.171.70,23280,SG,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-217.142.250.195,587,JP,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-146.56.140.79,20309,KR,Oracle Corporation
+52.141.25.42,443,KR,Microsoft Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+168.138.165.174,443,SG,Oracle Corporation
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
+140.83.57.20,13118,JP,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
+45.76.192.129,24434,JP,The Constant Company, LLC
+138.2.48.109,26412,JP,Oracle Corporation
