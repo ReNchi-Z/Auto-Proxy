@@ -1,20 +1,20 @@
-158.101.154.245,47001,JP,Oracle Corporation
-5.34.176.119,81,SG,GREEN FLOID LLC
-138.2.10.217,27446,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-152.70.75.80,15805,IN,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-152.70.76.104,46000,IN,Oracle Corporation
-45.32.100.46,13802,SG,The Constant Company, LLC
-104.248.145.216,443,SG,Digitalocean, LLC
-103.238.129.215,42734,JP,WAP.AC LLC
-43.218.77.16,443,ID,Amazon.com, Inc.
-65.20.74.136,2053,IN,The Constant Company, LLC
-152.70.82.101,18650,JP,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-138.2.49.197,587,JP,Oracle Corporation
+192.243.127.224,443,JP,It Networks INC
+134.195.137.107,22473,IN,Readydedis, LLC
+138.2.12.103,14453,JP,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+129.150.36.188,53435,SG,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
 38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-138.2.69.236,23334,SG,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-131.186.63.89,11655,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+150.230.204.21,10243,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
+132.145.88.82,38066,KR,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+152.67.211.114,58337,KR,Oracle Corporation
+148.113.43.228,2053,IN,OVH SAS
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+144.24.84.212,49888,KR,Oracle Corporation
