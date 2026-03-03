@@ -1,0 +1,20 @@
+1.177.81.20,10647,KR,Lg Hellovision Corp.
+138.2.32.76,15821,JP,Oracle Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+193.122.126.64,53777,KR,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+103.15.90.134,49678,VN,Vnpt Corp
+152.69.199.70,8443,JP,Oracle Corporation
+176.97.66.175,443,AE,M Europe SRL
+158.101.146.3,44872,JP,Oracle Corporation
+141.98.197.101,11665,JP,Xtom Japan Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+91.192.81.154,2053,SG,Melbikomas Uab
+140.83.57.20,13118,JP,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+140.83.59.158,15805,JP,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+18.183.158.211,443,JP,Amazon.com, Inc.
+158.101.152.6,2919,JP,Oracle Corporation
