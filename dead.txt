@@ -1,40 +1,19 @@
-140.238.5.75,13644,KR,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
-146.56.48.138,23010,IN,Oracle Corporation
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-43.218.77.16,443,ID,Amazon.com, Inc.
-152.69.192.40,57005,JP,Oracle Corporation
-152.70.76.104,46000,IN,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-103.75.118.144,2053,JP,Brainstorm Network, INC
-140.83.57.114,25965,JP,Oracle Corporation
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-168.138.198.7,27560,JP,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-138.2.69.236,23334,SG,Oracle Corporation
+115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
 152.67.211.114,58337,KR,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-152.69.227.97,587,KR,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-43.218.77.16,1443,ID,Amazon.com, Inc.
-213.35.100.31,47112,SG,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-138.2.59.96,10129,JP,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-138.2.49.197,587,JP,Oracle Corporation
-45.76.198.248,443,JP,The Constant Company, LLC
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-144.24.87.69,50001,KR,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-104.248.145.216,443,SG,Digitalocean, LLC
-131.186.24.124,587,KR,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+13.250.131.37,443,SG,Amazon.com, Inc.
 194.36.179.5,2053,SG,FIRST SERVER LIMITED
-129.154.54.67,19567,KR,Oracle Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-146.56.140.79,44699,KR,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
+45.76.192.129,24434,JP,The Constant Company, LLC
+158.101.146.3,44872,JP,Oracle Corporation
+141.147.183.49,29876,JP,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+152.69.227.97,587,KR,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+193.122.126.64,53777,KR,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+51.79.158.58,8443,SG,OVH SAS
+64.110.104.30,443,JP,Oracle Corporation
+138.2.122.197,39863,KR,Oracle Corporation
+140.238.37.103,14782,JP,Oracle Corporation
