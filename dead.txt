@@ -1,20 +1,19 @@
-141.98.197.101,11665,JP,Xtom Japan Corporation
-1.177.81.20,10647,KR,Lg Hellovision Corp.
-138.2.89.238,43254,SG,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
-150.230.214.172,16957,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-152.70.75.80,15805,IN,Oracle Corporation
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+13.250.131.37,443,SG,Amazon.com, Inc.
+64.110.70.205,23022,KR,Oracle Corporation
 178.128.80.43,443,SG,Digitalocean, LLC
-150.230.204.21,10243,JP,Oracle Corporation
-103.238.129.215,42734,JP,WAP.AC LLC
-168.138.46.67,443,JP,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-140.238.37.103,14782,JP,Oracle Corporation
-91.192.81.154,2053,SG,Melbikomas Uab
-158.101.146.3,44872,JP,Oracle Corporation
+52.141.25.42,443,KR,Microsoft Corporation
+65.20.74.136,2053,IN,The Constant Company, LLC
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+129.154.54.67,19567,KR,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+131.186.63.89,11655,JP,Oracle Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
 31.192.238.71,8443,SG,Chelyabinsk signal LLC
+138.2.122.197,39863,KR,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
