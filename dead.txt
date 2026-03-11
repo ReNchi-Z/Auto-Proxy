@@ -1,20 +1,20 @@
-104.248.145.216,443,SG,Digitalocean, LLC
-168.138.192.16,54584,JP,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+45.77.25.6,48828,JP,The Constant Company, LLC
+150.230.214.172,16957,JP,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+1.177.81.20,10647,KR,Lg Hellovision Corp.
+217.142.230.253,587,JP,Oracle Corporation
 103.106.228.126,2053,JP,Brainstorm Network, INC
-158.247.250.157,81,KR,The Constant Company, LLC
-168.138.46.67,443,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-18.183.158.211,443,JP,Amazon.com, Inc.
-138.2.32.76,15821,JP,Oracle Corporation
-146.235.18.248,45137,SG,Oracle Corporation
 158.101.152.6,2919,JP,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-51.79.158.58,8443,SG,OVH SAS
 138.2.48.109,26412,JP,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+103.75.118.144,2053,JP,Brainstorm Network, INC
+64.110.104.30,443,JP,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+213.35.107.73,443,SG,Oracle Corporation
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+146.56.140.79,22561,KR,Oracle Corporation
+172.232.112.240,587,IN,Akamai Technologies, Inc.
+131.186.63.89,11655,JP,Oracle Corporation
