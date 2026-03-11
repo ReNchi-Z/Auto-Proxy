@@ -1,20 +1,40 @@
-140.83.57.114,25965,JP,Oracle Corporation
-217.142.138.61,37914,KR,Oracle Corporation
-150.230.254.21,1443,KR,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
+138.2.10.149,45638,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+146.56.48.138,23010,IN,Oracle Corporation
 213.35.108.135,12596,SG,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+132.145.84.148,39567,KR,Oracle Corporation
+129.154.54.67,19567,KR,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+143.42.66.91,443,SG,Akamai Technologies, Inc.
 140.83.57.20,13118,JP,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-138.2.48.109,26412,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.218.77.16,1443,ID,Amazon.com, Inc.
-193.122.126.64,53777,KR,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+45.32.100.46,13802,SG,The Constant Company, LLC
+158.101.146.3,54516,JP,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
 164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-213.35.100.31,47112,SG,Oracle Corporation
-132.145.88.82,38066,KR,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+52.141.25.42,443,KR,Microsoft Corporation
 103.15.90.134,49678,VN,Vnpt Corp
-213.35.107.73,443,SG,Oracle Corporation
-138.2.12.103,14453,JP,Oracle Corporation
+152.67.211.114,58337,KR,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+152.70.82.101,18650,JP,Oracle Corporation
+132.145.88.82,38066,KR,Oracle Corporation
+140.83.59.158,15805,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+141.147.152.229,23333,JP,Oracle Corporation
+185.81.28.95,30503,SG,AKILE LTD
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+168.138.197.147,12345,JP,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+138.3.222.124,46209,JP,Oracle Corporation
+43.218.77.16,1443,ID,Amazon.com, Inc.
+146.235.19.79,28983,SG,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
+5.34.176.119,81,SG,GREEN FLOID LLC
+129.150.36.188,53435,SG,Oracle Corporation
+150.230.254.21,1443,KR,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+103.238.129.215,42734,JP,WAP.AC LLC
+64.110.104.30,443,JP,Oracle Corporation
+18.183.158.211,443,JP,Amazon.com, Inc.
