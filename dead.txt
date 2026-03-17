@@ -1,20 +1,20 @@
-138.2.18.82,8880,JP,Oracle Corporation
-161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
-13.250.131.37,443,SG,Amazon.com, Inc.
-141.147.183.49,29876,JP,Oracle Corporation
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-152.67.211.114,58337,KR,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-1.177.81.20,10647,KR,Lg Hellovision Corp.
-138.2.32.76,15821,JP,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-138.2.95.61,1111,SG,Oracle Corporation
-140.83.57.114,25965,JP,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-158.101.154.245,47001,JP,Oracle Corporation
-140.238.37.103,14782,JP,Oracle Corporation
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-138.3.222.124,46209,JP,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
 129.154.54.67,19567,KR,Oracle Corporation
-150.230.204.21,10243,JP,Oracle Corporation
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
+64.110.70.205,23022,KR,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
+103.238.129.215,42734,JP,WAP.AC LLC
+146.56.140.79,20309,KR,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
+52.141.25.42,443,KR,Microsoft Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+18.183.158.211,443,JP,Amazon.com, Inc.
+217.142.250.195,587,JP,Oracle Corporation
+152.69.227.97,587,KR,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
