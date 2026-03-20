@@ -1,38 +1,18 @@
-141.147.152.229,23333,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
-150.230.204.21,10243,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-103.15.90.134,49678,VN,Vnpt Corp
-140.238.5.75,13644,KR,Oracle Corporation
-152.70.82.101,18650,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-152.69.229.175,22558,KR,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-138.2.122.197,39863,KR,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-45.77.25.6,48828,JP,The Constant Company, LLC
-141.147.183.49,29876,JP,Oracle Corporation
-194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
-146.56.48.138,23010,IN,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
 138.2.10.217,27446,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-129.154.48.176,36355,KR,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-51.79.158.58,8443,SG,OVH SAS
-45.144.167.46,19816,TH,Siamdata Communication CO.,LTD.
-138.2.18.82,8880,JP,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-217.142.138.61,37914,KR,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-3.112.21.102,443,JP,Amazon.com, Inc.
-45.76.183.217,49292,SG,The Constant Company, LLC
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+132.145.88.82,38066,KR,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+185.81.28.95,30503,SG,AKILE LTD
+150.230.214.172,16957,JP,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+129.154.223.89,15800,KR,Oracle Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+176.97.66.175,443,AE,M Europe SRL
+20.235.105.146,443,IN,Microsoft Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+103.106.228.126,2053,JP,Brainstorm Network, INC
+141.98.197.101,11665,JP,Xtom Japan Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+152.70.76.104,46000,IN,Oracle Corporation
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
