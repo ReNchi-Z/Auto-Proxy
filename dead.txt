@@ -1,20 +1,20 @@
-134.195.137.107,22473,IN,Readydedis, LLC
+213.35.100.31,47112,SG,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+168.138.165.174,443,SG,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+158.101.154.245,47001,JP,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
 45.76.198.248,443,JP,The Constant Company, LLC
-45.32.100.46,13802,SG,The Constant Company, LLC
-185.81.28.95,30503,SG,AKILE LTD
-138.2.49.197,587,JP,Oracle Corporation
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-129.150.58.86,57621,SG,Oracle Corporation
-103.106.228.126,2053,JP,Brainstorm Network, INC
-132.145.84.148,39567,KR,Oracle Corporation
-132.226.21.116,6056,KR,Oracle Corporation
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-146.235.18.248,45137,SG,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-140.83.57.20,13118,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-18.183.158.211,443,JP,Amazon.com, Inc.
-146.56.48.138,23010,IN,Oracle Corporation
+138.2.122.197,39863,KR,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+3.112.21.102,443,JP,Amazon.com, Inc.
+152.69.227.97,587,KR,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+51.79.158.58,8443,SG,OVH SAS
+91.192.81.154,2053,SG,Melbikomas Uab
+150.230.204.21,10243,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+152.67.211.114,58337,KR,Oracle Corporation
