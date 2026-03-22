@@ -1,20 +1,19 @@
-138.2.49.197,587,JP,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-146.235.18.248,45137,SG,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-141.98.197.101,11665,JP,Xtom Japan Corporation
-176.97.66.175,443,AE,M Europe SRL
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-150.230.204.21,10243,JP,Oracle Corporation
-138.2.122.197,39863,KR,Oracle Corporation
-194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
-158.101.146.3,44872,JP,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
-132.145.88.82,38066,KR,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
+43.218.77.16,1443,ID,Amazon.com, Inc.
+149.28.21.106,443,JP,The Constant Company, LLC
+168.138.198.7,27560,JP,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+152.69.229.175,22558,KR,Oracle Corporation
 103.106.228.126,2053,JP,Brainstorm Network, INC
+140.238.5.75,13644,KR,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+152.67.211.114,58337,KR,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+134.195.137.107,22473,IN,Readydedis, LLC
+138.2.59.96,10129,JP,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+216.10.243.159,443,IN,PDR
+138.2.122.197,39863,KR,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
