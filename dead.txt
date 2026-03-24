@@ -1,20 +1,19 @@
-161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
-45.11.1.118,44004,JP,Datacamp Limited
-193.122.126.64,53777,KR,Oracle Corporation
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-20.235.105.146,443,IN,Microsoft Corporation
-140.238.37.103,14782,JP,Oracle Corporation
-152.70.75.80,15805,IN,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-45.76.198.248,443,JP,The Constant Company, LLC
-138.2.12.103,14453,JP,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+138.2.48.109,26412,JP,Oracle Corporation
 138.2.122.197,39863,KR,Oracle Corporation
-132.145.88.82,38066,KR,Oracle Corporation
-168.138.165.174,443,SG,Oracle Corporation
-146.235.18.248,45137,SG,Oracle Corporation
+216.10.243.159,443,IN,PDR
+158.101.152.6,2919,JP,Oracle Corporation
+1.177.81.20,10647,KR,Lg Hellovision Corp.
+168.138.171.70,23280,SG,Oracle Corporation
+18.183.158.211,443,JP,Amazon.com, Inc.
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+213.35.107.73,443,SG,Oracle Corporation
 176.97.66.175,443,AE,M Europe SRL
-91.192.81.154,2053,SG,Melbikomas Uab
+141.147.152.229,23333,JP,Oracle Corporation
+129.154.54.67,19567,KR,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+217.142.230.253,587,JP,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+138.2.10.217,27446,JP,Oracle Corporation
