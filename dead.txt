@@ -1,19 +1,21 @@
 138.2.48.109,26412,JP,Oracle Corporation
-138.2.122.197,39863,KR,Oracle Corporation
-216.10.243.159,443,IN,PDR
-158.101.152.6,2919,JP,Oracle Corporation
-1.177.81.20,10647,KR,Lg Hellovision Corp.
-168.138.171.70,23280,SG,Oracle Corporation
-18.183.158.211,443,JP,Amazon.com, Inc.
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-213.35.107.73,443,SG,Oracle Corporation
-176.97.66.175,443,AE,M Europe SRL
-141.147.152.229,23333,JP,Oracle Corporation
-129.154.54.67,19567,KR,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-217.142.230.253,587,JP,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
 194.36.178.36,8443,SG,FIRST SERVER LIMITED
-138.2.10.217,27446,JP,Oracle Corporation
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+138.2.89.238,43254,SG,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+158.101.152.6,2919,JP,Oracle Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+146.235.19.79,28983,SG,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+51.79.158.58,2053,SG,OVH SAS
+129.150.58.86,57621,SG,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+140.238.37.103,14782,JP,Oracle Corporation
+138.2.122.197,39863,KR,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
