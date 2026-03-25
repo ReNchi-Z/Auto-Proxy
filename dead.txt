@@ -1,18 +1,20 @@
-45.32.100.46,13802,SG,The Constant Company, LLC
-158.101.154.245,47001,JP,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-51.79.158.58,8443,SG,OVH SAS
-213.35.100.31,47112,SG,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-178.128.80.43,443,SG,Digitalocean, LLC
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-43.218.77.16,1443,ID,Amazon.com, Inc.
-168.138.46.67,443,JP,Oracle Corporation
+152.70.75.80,15805,IN,Oracle Corporation
 150.230.5.34,45681,JP,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-45.76.183.217,49292,SG,The Constant Company, LLC
-185.81.28.95,30503,SG,AKILE LTD
-143.42.66.91,443,SG,Akamai Technologies, Inc.
+152.69.229.175,22558,KR,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+131.186.24.124,587,KR,Oracle Corporation
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+131.186.63.89,11655,JP,Oracle Corporation
+138.2.12.103,14453,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+51.79.158.58,8443,SG,OVH SAS
+176.97.66.175,443,AE,M Europe SRL
+140.83.57.114,25965,JP,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+141.98.197.101,11665,JP,Xtom Japan Corporation
+168.138.46.67,443,JP,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
