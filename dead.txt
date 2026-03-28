@@ -1,0 +1,19 @@
+176.97.66.175,443,AE,M Europe SRL
+168.138.198.7,27560,JP,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+129.154.48.176,36355,KR,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+45.76.192.129,24434,JP,The Constant Company, LLC
+131.186.63.89,11655,JP,Oracle Corporation
+152.70.75.80,15805,IN,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+152.69.229.175,22558,KR,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+138.2.89.238,43254,SG,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
+138.2.10.149,45638,JP,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+51.79.158.58,8443,SG,OVH SAS
