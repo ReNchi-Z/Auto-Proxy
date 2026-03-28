@@ -1,19 +1,20 @@
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-129.154.223.89,15800,KR,Oracle Corporation
-138.2.122.197,39863,KR,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-141.98.197.101,11665,JP,Xtom Japan Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-51.79.158.58,8443,SG,OVH SAS
-146.235.18.248,45137,SG,Oracle Corporation
-103.15.90.134,49678,VN,Vnpt Corp
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-138.2.48.109,26412,JP,Oracle Corporation
-146.56.48.138,23010,IN,Oracle Corporation
-176.97.66.175,443,AE,M Europe SRL
+140.238.5.75,13644,KR,Oracle Corporation
+134.195.137.107,22473,IN,Readydedis, LLC
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
 146.56.99.255,56789,KR,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-152.70.82.101,18650,JP,Oracle Corporation
-178.128.80.43,443,SG,Digitalocean, LLC
-141.147.152.229,23333,JP,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+146.56.140.79,20309,KR,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+103.15.90.134,49678,VN,Vnpt Corp
+45.32.100.46,13802,SG,The Constant Company, LLC
+141.147.183.49,29876,JP,Oracle Corporation
+213.35.107.73,443,SG,Oracle Corporation
+129.154.48.176,36355,KR,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+144.24.87.69,50001,KR,Oracle Corporation
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+158.101.146.3,44872,JP,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
