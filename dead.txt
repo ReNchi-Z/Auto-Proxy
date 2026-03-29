@@ -1,40 +1,19 @@
-140.83.57.20,13118,JP,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+45.76.183.217,49292,SG,The Constant Company, LLC
+3.112.21.102,443,JP,Amazon.com, Inc.
+150.230.214.172,16957,JP,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
 176.97.66.175,443,AE,M Europe SRL
-168.138.198.7,27560,JP,Oracle Corporation
-103.75.118.144,2053,JP,Brainstorm Network, INC
-217.142.138.61,37914,KR,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
 158.101.154.245,47001,JP,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-152.67.211.114,58337,KR,Oracle Corporation
-43.218.77.16,1443,ID,Amazon.com, Inc.
-129.154.223.89,15800,KR,Oracle Corporation
-5.34.176.119,81,SG,GREEN FLOID LLC
-152.70.76.104,46000,IN,Oracle Corporation
-158.101.146.3,44872,JP,Oracle Corporation
-150.230.5.34,45681,JP,Oracle Corporation
+140.238.37.103,14782,JP,Oracle Corporation
+216.10.243.159,443,IN,PDR
 138.2.59.96,10129,JP,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-134.195.137.107,22473,IN,Readydedis, LLC
-146.56.140.79,44699,KR,Oracle Corporation
-185.81.28.95,30503,SG,AKILE LTD
-51.79.158.58,8443,SG,OVH SAS
-217.142.230.253,587,JP,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-146.56.48.138,23010,IN,Oracle Corporation
 168.138.197.147,12345,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-168.138.46.67,443,JP,Oracle Corporation
-193.122.126.64,53777,KR,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
 194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-129.154.54.67,19567,KR,Oracle Corporation
-140.83.59.158,15805,JP,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+152.69.227.97,587,KR,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
