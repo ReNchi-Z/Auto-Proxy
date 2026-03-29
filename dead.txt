@@ -1,19 +1,20 @@
-45.77.25.6,27854,JP,The Constant Company, LLC
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
 45.76.183.217,49292,SG,The Constant Company, LLC
-3.112.21.102,443,JP,Amazon.com, Inc.
-150.230.214.172,16957,JP,Oracle Corporation
-146.235.19.79,28983,SG,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-176.97.66.175,443,AE,M Europe SRL
-158.101.154.245,47001,JP,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+141.147.183.49,29876,JP,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+138.2.49.197,587,JP,Oracle Corporation
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+150.230.204.21,10243,JP,Oracle Corporation
+138.2.12.103,14453,JP,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
 140.238.37.103,14782,JP,Oracle Corporation
-216.10.243.159,443,IN,PDR
-138.2.59.96,10129,JP,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-152.69.192.40,57005,JP,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+129.154.54.67,19567,KR,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+152.70.75.80,15805,IN,Oracle Corporation
+176.97.66.175,443,AE,M Europe SRL
+140.238.5.75,13644,KR,Oracle Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
