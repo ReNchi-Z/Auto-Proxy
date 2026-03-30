@@ -1,20 +1,20 @@
-138.2.10.149,45638,JP,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-13.230.34.30,443,JP,Amazon.com, Inc.
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-143.244.130.180,443,IN,Digitalocean, LLC
-5.34.176.119,81,SG,GREEN FLOID LLC
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-146.56.140.79,44699,KR,Oracle Corporation
-45.76.192.129,24434,JP,The Constant Company, LLC
-138.2.49.197,587,JP,Oracle Corporation
-140.83.57.114,25965,JP,Oracle Corporation
-146.235.19.79,28983,SG,Oracle Corporation
-138.2.12.103,14453,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
 18.183.158.211,443,JP,Amazon.com, Inc.
-129.154.223.89,15800,KR,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-1.177.81.20,10647,KR,Lg Hellovision Corp.
-146.56.140.79,22561,KR,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+138.3.222.124,46209,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+146.56.99.255,56789,KR,Oracle Corporation
+152.67.211.114,58337,KR,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+150.230.214.172,16957,JP,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+146.56.140.79,44699,KR,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+217.142.230.253,587,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+158.247.250.157,81,KR,The Constant Company, LLC
