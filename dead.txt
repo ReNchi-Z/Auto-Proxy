@@ -1,21 +1,21 @@
-64.110.104.30,443,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+217.142.138.61,37914,KR,Oracle Corporation
+132.145.88.82,38066,KR,Oracle Corporation
 152.69.192.40,57005,JP,Oracle Corporation
-45.76.192.129,24434,JP,The Constant Company, LLC
-146.56.140.79,22561,KR,Oracle Corporation
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-146.235.18.248,45137,SG,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-51.79.158.58,2053,SG,OVH SAS
-193.123.90.82,12648,AE,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-141.98.197.101,11665,JP,Xtom Japan Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
+45.11.1.118,44004,JP,Datacamp Limited
+150.230.214.172,16957,JP,Oracle Corporation
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
 158.101.146.3,44872,JP,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-18.183.158.211,443,JP,Amazon.com, Inc.
-43.218.77.16,1443,ID,Amazon.com, Inc.
-193.123.81.105,443,AE,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-144.24.87.69,50001,KR,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+158.101.152.6,2919,JP,Oracle Corporation
+176.97.66.175,443,AE,M Europe SRL
+168.138.171.70,23280,SG,Oracle Corporation
+152.69.227.97,587,KR,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
