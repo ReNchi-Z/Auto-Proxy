@@ -1,19 +1,18 @@
-158.101.154.245,47001,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-152.70.75.80,15805,IN,Oracle Corporation
-193.123.81.105,443,AE,Oracle Corporation
-43.218.77.16,443,ID,Amazon.com, Inc.
-146.56.99.255,56789,KR,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-3.112.21.102,443,JP,Amazon.com, Inc.
-168.138.46.67,443,JP,Oracle Corporation
-139.185.34.131,443,AE,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
+185.81.28.95,30503,SG,AKILE LTD
+176.97.66.175,443,AE,M Europe SRL
+152.67.211.114,58337,KR,Oracle Corporation
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+158.247.250.157,81,KR,The Constant Company, LLC
+143.244.130.180,443,IN,Digitalocean, LLC
 138.2.48.109,26412,JP,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
 138.2.122.197,39863,KR,Oracle Corporation
-52.141.25.42,443,KR,Microsoft Corporation
-45.76.183.217,49292,SG,The Constant Company, LLC
-193.123.90.82,12648,AE,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-152.69.229.175,22558,KR,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
+5.34.176.119,81,SG,GREEN FLOID LLC
+161.117.249.114,2025,SG,Alibaba us Technology Co., Ltd.
+146.56.99.255,56789,KR,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+217.142.250.195,587,JP,Oracle Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+129.154.48.176,36355,KR,Oracle Corporation
