@@ -1,20 +1,19 @@
-138.2.18.82,8880,JP,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+51.79.158.58,8443,SG,OVH SAS
+129.154.54.67,19567,KR,Oracle Corporation
+139.185.34.131,443,AE,Oracle Corporation
 164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-146.56.140.79,44699,KR,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-138.2.10.149,45638,JP,Oracle Corporation
-193.123.81.105,443,AE,Oracle Corporation
-45.77.25.6,48828,JP,The Constant Company, LLC
-51.79.158.58,2053,SG,OVH SAS
-1.177.81.20,10647,KR,Lg Hellovision Corp.
-52.141.25.42,443,KR,Microsoft Corporation
-152.70.76.104,46000,IN,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-149.28.21.106,443,JP,The Constant Company, LLC
-138.2.48.109,26412,JP,Oracle Corporation
-150.230.204.21,10243,JP,Oracle Corporation
 13.250.131.37,443,SG,Amazon.com, Inc.
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+138.3.222.124,46209,JP,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+138.2.18.82,8880,JP,Oracle Corporation
+52.141.25.42,443,KR,Microsoft Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+3.112.21.102,443,JP,Amazon.com, Inc.
+43.218.77.16,1443,ID,Amazon.com, Inc.
+131.186.63.89,11655,JP,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+43.218.77.16,443,ID,Amazon.com, Inc.
