@@ -1,20 +1,19 @@
-45.11.1.118,44004,JP,Datacamp Limited
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-103.106.228.126,2053,JP,Brainstorm Network, INC
-20.235.105.146,443,IN,Microsoft Corporation
-132.145.88.82,38066,KR,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-138.2.18.82,8880,JP,Oracle Corporation
-103.15.90.134,49678,VN,Vnpt Corp
-152.70.75.80,15805,IN,Oracle Corporation
+149.28.21.106,443,JP,The Constant Company, LLC
+43.218.77.16,1443,ID,Amazon.com, Inc.
+138.2.10.217,27446,JP,Oracle Corporation
+138.2.12.103,14453,JP,Oracle Corporation
 47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-168.138.197.147,12345,JP,Oracle Corporation
-146.56.140.79,44699,KR,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-146.56.48.138,23010,IN,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+138.2.49.197,587,JP,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+140.238.37.103,14782,JP,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
+51.79.158.58,2053,SG,OVH SAS
+45.32.100.46,13802,SG,The Constant Company, LLC
+138.2.10.149,45638,JP,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+132.145.88.82,38066,KR,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
