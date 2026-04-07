@@ -1,20 +1,18 @@
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-138.2.59.96,10129,JP,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-152.67.211.114,58337,KR,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-152.69.229.175,22558,KR,Oracle Corporation
+129.154.54.67,19567,KR,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
 8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+129.150.36.188,53435,SG,Oracle Corporation
+91.192.81.154,8443,SG,Melbikomas Uab
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+168.138.171.70,23280,SG,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+146.56.48.138,23010,IN,Oracle Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+149.28.21.106,443,JP,The Constant Company, LLC
+158.101.154.245,47001,JP,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+216.10.243.159,443,IN,PDR
+52.141.25.42,443,KR,Microsoft Corporation
+140.238.37.103,14782,JP,Oracle Corporation
 168.138.192.16,54584,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-64.110.70.205,23022,KR,Oracle Corporation
-193.123.90.82,12648,AE,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-138.2.12.103,14453,JP,Oracle Corporation
-5.34.176.119,81,SG,GREEN FLOID LLC
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-217.142.138.61,37914,KR,Oracle Corporation
