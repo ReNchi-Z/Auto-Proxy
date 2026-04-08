@@ -1,22 +1,19 @@
-146.56.140.79,20309,KR,Oracle Corporation
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-146.235.19.79,28983,SG,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-193.122.126.64,53777,KR,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
+139.185.34.131,443,AE,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
 52.141.25.42,443,KR,Microsoft Corporation
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
+91.192.81.154,8443,SG,Melbikomas Uab
+103.106.228.126,2053,JP,Brainstorm Network, INC
+193.123.90.82,12648,AE,Oracle Corporation
+216.10.243.159,443,IN,PDR
+131.186.63.89,11655,JP,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+168.138.198.7,27560,JP,Oracle Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
 164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-141.147.152.229,23333,JP,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-45.76.192.129,24434,JP,The Constant Company, LLC
-176.97.66.175,443,AE,M Europe SRL
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-185.81.28.95,30503,SG,AKILE LTD
-140.83.59.158,15805,JP,Oracle Corporation
-45.32.100.46,13802,SG,The Constant Company, LLC
-158.101.146.3,54516,JP,Oracle Corporation
-138.2.12.103,14453,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
