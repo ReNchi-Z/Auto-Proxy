@@ -1,19 +1,20 @@
-168.138.46.67,443,JP,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-13.250.131.37,443,SG,Amazon.com, Inc.
-138.2.89.238,43254,SG,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-141.147.152.229,23333,JP,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+129.150.36.188,53435,SG,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+129.154.48.176,36355,KR,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
 138.2.12.103,14453,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-150.230.204.21,10243,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-152.69.227.97,587,KR,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-140.83.57.183,22735,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+20.235.105.146,443,IN,Microsoft Corporation
+146.235.18.248,45137,SG,Oracle Corporation
 43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-158.247.250.157,81,KR,The Constant Company, LLC
+152.67.211.114,58337,KR,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 213.35.100.31,47112,SG,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+43.218.77.16,443,ID,Amazon.com, Inc.
