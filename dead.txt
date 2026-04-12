@@ -1,19 +1,20 @@
+52.141.25.42,443,KR,Microsoft Corporation
+168.138.171.70,23280,SG,Oracle Corporation
 141.147.183.49,29876,JP,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
-139.185.50.5,14594,AE,Oracle Corporation
-45.76.192.129,24434,JP,The Constant Company, LLC
-152.70.75.80,15805,IN,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-132.226.21.116,6056,KR,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-168.138.46.67,443,JP,Oracle Corporation
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+140.238.5.75,13644,KR,Oracle Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
 217.142.250.195,587,JP,Oracle Corporation
-104.248.145.216,443,SG,Digitalocean, LLC
-176.97.66.175,443,AE,M Europe SRL
-138.2.59.96,10129,JP,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-152.69.229.175,22558,KR,Oracle Corporation
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+149.28.21.106,443,JP,The Constant Company, LLC
+138.2.10.217,27446,JP,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
+152.69.227.97,587,KR,Oracle Corporation
+158.247.250.157,81,KR,The Constant Company, LLC
+103.106.228.126,2053,JP,Brainstorm Network, INC
+146.56.48.138,23010,IN,Oracle Corporation
+216.10.243.159,443,IN,PDR
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+138.2.95.61,1111,SG,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+138.2.122.197,39863,KR,Oracle Corporation
