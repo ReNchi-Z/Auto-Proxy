@@ -1,18 +1,21 @@
-150.230.204.21,10243,JP,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-129.154.54.67,19567,KR,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-141.147.183.49,29876,JP,Oracle Corporation
-140.83.57.20,13118,JP,Oracle Corporation
 103.75.118.144,2053,JP,Brainstorm Network, INC
-140.83.59.158,15805,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
+129.154.54.67,19567,KR,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+193.122.126.64,53777,KR,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+104.248.145.216,443,SG,Digitalocean, LLC
+140.238.37.103,14782,JP,Oracle Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+103.106.228.126,2053,JP,Brainstorm Network, INC
 143.244.130.180,443,IN,Digitalocean, LLC
-43.218.77.16,443,ID,Amazon.com, Inc.
-158.101.154.245,47001,JP,Oracle Corporation
-168.138.165.174,443,SG,Oracle Corporation
+45.76.192.129,24434,JP,The Constant Company, LLC
+217.142.138.61,37914,KR,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+139.185.50.5,14594,AE,Oracle Corporation
