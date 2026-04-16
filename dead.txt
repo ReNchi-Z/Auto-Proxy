@@ -1,32 +1,42 @@
-103.106.228.126,2053,JP,Brainstorm Network, INC
-45.76.192.129,24434,JP,The Constant Company, LLC
-158.101.154.245,47001,JP,Oracle Corporation
-139.185.50.5,14594,AE,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
-91.192.81.154,2053,SG,Melbikomas Uab
-45.76.198.248,443,JP,The Constant Company, LLC
-51.79.158.58,8443,SG,OVH SAS
-138.2.122.197,39863,KR,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-138.2.32.76,15821,JP,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
 138.2.12.103,14453,JP,Oracle Corporation
-150.230.204.21,10243,JP,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-146.56.140.79,20309,KR,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-103.15.90.134,49678,VN,Vnpt Corp
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-129.154.54.67,19567,KR,Oracle Corporation
-43.218.77.16,1443,ID,Amazon.com, Inc.
-129.154.48.176,36355,KR,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
+138.2.48.109,26412,JP,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
 132.145.84.148,39567,KR,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+146.56.140.79,22561,KR,Oracle Corporation
+139.185.50.5,14594,AE,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+91.192.81.154,8443,SG,Melbikomas Uab
+158.101.152.6,2919,JP,Oracle Corporation
+129.154.223.89,15800,KR,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+45.32.100.46,13802,SG,The Constant Company, LLC
+158.101.146.3,44872,JP,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+129.154.54.67,19567,KR,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+43.218.77.16,1443,ID,Amazon.com, Inc.
+103.106.228.126,2053,JP,Brainstorm Network, INC
+193.122.126.64,53777,KR,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+152.69.192.40,57005,JP,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+217.142.250.195,587,JP,Oracle Corporation
+129.154.48.176,36355,KR,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+138.2.122.197,39863,KR,Oracle Corporation
+141.98.197.101,11665,JP,Xtom Japan Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+141.147.152.229,23333,JP,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+144.24.87.69,50001,KR,Oracle Corporation
 158.247.250.157,81,KR,The Constant Company, LLC
+140.83.57.20,13118,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+45.76.192.129,24434,JP,The Constant Company, LLC
+91.192.81.154,2053,SG,Melbikomas Uab
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
