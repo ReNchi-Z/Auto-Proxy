@@ -1,18 +1,19 @@
-8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
-103.75.118.144,2053,JP,Brainstorm Network, INC
-129.154.223.89,15800,KR,Oracle Corporation
-64.110.70.205,23022,KR,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-138.2.10.217,27446,JP,Oracle Corporation
-144.24.87.69,50001,KR,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-178.128.80.43,443,SG,Digitalocean, LLC
-146.235.19.79,28983,SG,Oracle Corporation
-103.106.228.126,2053,JP,Brainstorm Network, INC
-52.141.25.42,443,KR,Microsoft Corporation
 158.101.146.3,44872,JP,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+52.141.25.42,443,KR,Microsoft Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+185.81.28.95,30503,SG,AKILE LTD
+119.65.35.44,30021,KR,LG POWERCOMM
+138.2.89.238,43254,SG,Oracle Corporation
+216.10.243.159,443,IN,PDR
+140.238.5.75,13644,KR,Oracle Corporation
+45.77.130.245,443,JP,The Constant Company, LLC
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+45.32.100.46,13802,SG,The Constant Company, LLC
+131.186.24.124,587,KR,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+45.76.183.217,49292,SG,The Constant Company, LLC
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+168.138.197.147,12345,JP,Oracle Corporation
