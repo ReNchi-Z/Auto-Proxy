@@ -1,19 +1,18 @@
-51.79.158.58,8443,SG,OVH SAS
-141.147.183.49,29876,JP,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-152.69.229.175,22558,KR,Oracle Corporation
+139.185.50.5,14594,AE,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+1.177.81.20,16349,KR,Lg Hellovision Corp.
+158.101.146.3,44872,JP,Oracle Corporation
 158.247.250.157,81,KR,The Constant Company, LLC
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-138.2.49.197,587,JP,Oracle Corporation
-168.138.192.16,54584,JP,Oracle Corporation
-129.154.54.67,19567,KR,Oracle Corporation
-104.248.145.216,443,SG,Digitalocean, LLC
-140.238.37.103,14782,JP,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+64.110.104.30,443,JP,Oracle Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+140.83.57.20,13118,JP,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+152.69.227.97,587,KR,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+138.2.32.76,15821,JP,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+91.192.81.154,2053,SG,Melbikomas Uab
+52.141.25.42,443,KR,Microsoft Corporation
 150.230.204.21,10243,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-213.35.100.31,47112,SG,Oracle Corporation
-45.77.25.6,48828,JP,The Constant Company, LLC
-185.81.28.95,30503,SG,AKILE LTD
-168.138.198.7,27560,JP,Oracle Corporation
