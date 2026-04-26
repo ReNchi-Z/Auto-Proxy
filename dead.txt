@@ -1,20 +1,19 @@
-168.138.197.147,12345,JP,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+216.10.243.159,443,IN,PDR
+217.142.230.253,587,JP,Oracle Corporation
 168.138.46.67,443,JP,Oracle Corporation
-140.83.57.20,13118,JP,Oracle Corporation
-193.122.126.64,53777,KR,Oracle Corporation
-104.248.145.216,443,SG,Digitalocean, LLC
-146.56.140.79,20309,KR,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-152.70.85.165,19089,JP,Oracle Corporation
-144.24.87.69,50001,KR,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-140.238.37.103,14782,JP,Oracle Corporation
-45.76.183.217,49292,SG,The Constant Company, LLC
-146.56.140.79,44699,KR,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-213.35.100.31,47112,SG,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-138.2.122.197,39863,KR,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+103.106.228.126,2053,JP,Brainstorm Network, INC
+152.69.229.175,22558,KR,Oracle Corporation
+140.83.57.183,22735,JP,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba us Technology Co., Ltd.
+146.56.140.79,22561,KR,Oracle Corporation
+176.97.66.175,443,AE,M Europe SRL
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+129.154.48.176,36355,KR,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+140.238.5.75,13644,KR,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+138.2.49.197,587,JP,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
