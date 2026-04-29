@@ -1,19 +1,21 @@
-43.218.77.16,443,ID,Amazon.com, Inc.
-146.235.18.248,45137,SG,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.218.77.16,1443,ID,Amazon.com, Inc.
-129.154.223.89,15800,KR,Oracle Corporation
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-146.56.140.79,22561,KR,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-152.70.76.104,46000,IN,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
-138.2.95.61,1111,SG,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-178.128.80.43,443,SG,Digitalocean, LLC
-103.75.118.144,2053,JP,Brainstorm Network, INC
-138.2.48.109,26412,JP,Oracle Corporation
+1.177.81.20,16349,KR,Lg Hellovision Corp.
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 146.235.19.79,28983,SG,Oracle Corporation
-158.101.146.3,44872,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+140.238.5.75,13644,KR,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+45.77.25.6,48828,JP,The Constant Company, LLC
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+146.56.140.79,20309,KR,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
+121.139.174.91,30023,KR,Korea Telecom
+52.141.25.42,443,KR,Microsoft Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+152.70.85.165,19089,JP,Oracle Corporation
+150.230.204.21,10243,JP,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
