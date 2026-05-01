@@ -1,0 +1,20 @@
+20.235.105.146,443,IN,Microsoft Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+51.79.158.58,2053,SG,OVH SAS
+141.147.183.49,29876,JP,Oracle Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+217.142.250.195,587,JP,Oracle Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+45.76.198.248,443,JP,The Constant Company, LLC
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+140.83.57.20,13118,JP,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
+146.235.19.79,28983,SG,Oracle Corporation
+193.123.90.82,12648,AE,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+51.79.158.58,8443,SG,OVH SAS
+217.142.138.61,37914,KR,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
