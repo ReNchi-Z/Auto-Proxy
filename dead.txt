@@ -1,38 +1,18 @@
-131.186.63.89,11655,JP,Oracle Corporation
-129.154.223.89,15800,KR,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-52.141.25.42,443,KR,Microsoft Corporation
-217.142.250.195,587,JP,Oracle Corporation
-150.230.5.34,45681,JP,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-178.128.80.43,443,SG,Digitalocean, LLC
+185.81.28.95,30503,SG,AKILE LTD
+20.235.105.146,443,IN,Microsoft Corporation
 64.110.70.205,23022,KR,Oracle Corporation
-158.101.146.3,44872,JP,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 139.162.102.152,7002,JP,Akamai Technologies, Inc.
-132.226.21.116,6056,KR,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-3.1.116.161,2053,SG,Amazon.com, Inc.
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-138.2.95.61,1111,SG,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-91.192.81.154,8443,SG,Melbikomas Uab
-150.230.214.172,16957,JP,Oracle Corporation
-176.97.66.175,443,AE,M Europe SRL
-138.3.222.124,46209,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-139.185.50.5,14594,AE,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
+140.83.57.183,22735,JP,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
 140.238.37.103,14782,JP,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
 217.142.138.61,37914,KR,Oracle Corporation
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
+158.247.250.157,81,KR,The Constant Company, LLC
 146.56.140.79,20309,KR,Oracle Corporation
-43.218.77.16,443,ID,Amazon.com, Inc.
-45.76.198.248,443,JP,The Constant Company, LLC
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+131.186.63.89,11655,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
