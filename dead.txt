@@ -1,0 +1,21 @@
+193.123.90.82,12648,AE,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
+140.238.37.103,14782,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+20.235.105.146,443,IN,Microsoft Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+64.110.104.30,443,JP,Oracle Corporation
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+64.110.70.205,23022,KR,Oracle Corporation
+104.248.145.216,443,SG,Digitalocean, LLC
+45.77.25.6,48828,JP,The Constant Company, LLC
+146.56.140.79,44699,KR,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+146.56.140.79,20309,KR,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+146.235.19.79,28983,SG,Oracle Corporation
+216.10.243.159,443,IN,PDR
+138.2.89.238,43254,SG,Oracle Corporation
