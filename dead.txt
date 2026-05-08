@@ -1,17 +1,16 @@
-192.243.127.224,443,JP,It Networks INC
 91.192.81.154,2053,SG,Melbikomas Uab
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-146.235.18.248,45137,SG,Oracle Corporation
-178.128.80.43,443,SG,Digitalocean, LLC
-138.2.32.76,15821,JP,Oracle Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+131.186.63.89,11655,JP,Oracle Corporation
+3.1.116.161,8443,SG,Amazon.com, Inc.
 149.28.21.106,443,JP,The Constant Company, LLC
-146.56.140.79,44699,KR,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-158.101.154.245,47001,JP,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
 168.138.197.147,12345,JP,Oracle Corporation
 158.101.146.3,54516,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-45.86.228.104,443,AE,Bluevps Ou
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
 146.235.19.79,28983,SG,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+141.147.183.49,29876,JP,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
+52.141.25.42,443,KR,Microsoft Corporation
+158.101.152.6,2919,JP,Oracle Corporation
