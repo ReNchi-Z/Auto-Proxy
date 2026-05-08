@@ -1,12 +1,17 @@
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-140.83.57.20,13118,JP,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-129.150.58.86,57621,SG,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-152.69.229.175,22558,KR,Oracle Corporation
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-129.154.48.176,36355,KR,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-129.154.223.89,15800,KR,Oracle Corporation
+192.243.127.224,443,JP,It Networks INC
+91.192.81.154,2053,SG,Melbikomas Uab
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+146.235.18.248,45137,SG,Oracle Corporation
+178.128.80.43,443,SG,Digitalocean, LLC
+138.2.32.76,15821,JP,Oracle Corporation
+149.28.21.106,443,JP,The Constant Company, LLC
+146.56.140.79,44699,KR,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+158.101.154.245,47001,JP,Oracle Corporation
+168.138.197.147,12345,JP,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+146.235.19.79,28983,SG,Oracle Corporation
