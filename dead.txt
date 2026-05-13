@@ -1,19 +1,20 @@
+152.70.76.104,46000,IN,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+149.28.21.106,443,JP,The Constant Company, LLC
+138.3.222.124,46209,JP,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
 168.138.197.147,12345,JP,Oracle Corporation
-52.141.25.42,443,KR,Microsoft Corporation
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-139.185.50.5,14594,AE,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
-64.110.70.205,23022,KR,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-152.69.229.175,22558,KR,Oracle Corporation
-45.76.198.248,443,JP,The Constant Company, LLC
-152.67.211.114,58337,KR,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-185.81.28.95,30503,SG,AKILE LTD
-141.147.183.49,29876,JP,Oracle Corporation
-45.86.228.104,443,AE,Bluevps Ou
+45.11.1.118,44004,JP,Datacamp Limited
+146.235.19.79,28983,SG,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+138.2.59.96,10129,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+158.247.250.157,81,KR,The Constant Company, LLC
+150.230.5.34,45681,JP,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+176.97.66.175,443,AE,M Europe SRL
+129.154.48.176,36355,KR,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
