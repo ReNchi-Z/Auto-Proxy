@@ -1,18 +1,19 @@
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
-129.154.223.89,15800,KR,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-91.192.81.154,8443,SG,Melbikomas Uab
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-158.101.146.3,44872,JP,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-168.138.197.147,12345,JP,Oracle Corporation
-168.138.192.16,54584,JP,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-158.101.154.245,47001,JP,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-150.230.5.34,45681,JP,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+217.142.230.253,587,JP,Oracle Corporation
+146.56.99.255,56789,KR,Oracle Corporation
+149.28.21.106,443,JP,The Constant Company, LLC
+152.69.192.40,57005,JP,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+45.86.228.104,443,AE,Bluevps Ou
 5.34.176.119,81,SG,GREEN FLOID LLC
-150.230.204.21,10243,JP,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
+146.56.140.79,20309,KR,Oracle Corporation
+168.138.165.174,443,SG,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
