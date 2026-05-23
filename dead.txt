@@ -1,19 +1,18 @@
-146.56.140.79,20309,KR,Oracle Corporation
+164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+3.1.116.161,8443,SG,Amazon.com, Inc.
+45.11.1.118,44004,JP,Datacamp Limited
 138.2.59.96,10129,JP,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-91.192.81.154,8443,SG,Melbikomas Uab
-168.138.46.67,443,JP,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-216.10.243.159,443,IN,PDR
-158.101.152.6,2919,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-149.28.21.106,443,JP,The Constant Company, LLC
-118.27.12.40,38443,JP,Gmo Internet Group, Inc.
-168.138.171.70,23280,SG,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
 150.230.204.21,10243,JP,Oracle Corporation
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+129.154.48.176,36355,KR,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+152.67.211.114,58337,KR,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+3.1.116.161,2053,SG,Amazon.com, Inc.
+132.226.21.116,6056,KR,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
+158.101.154.245,47001,JP,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
