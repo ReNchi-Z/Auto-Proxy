@@ -1,0 +1,19 @@
+168.138.165.174,443,SG,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+45.76.198.248,443,JP,The Constant Company, LLC
+45.76.183.217,49292,SG,The Constant Company, LLC
+140.83.57.183,22735,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+118.27.12.40,38443,JP,Gmo Internet Group, Inc.
+149.28.21.106,443,JP,The Constant Company, LLC
+104.248.145.216,443,SG,Digitalocean, LLC
+138.2.49.197,587,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+168.138.197.147,12345,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+140.238.37.103,14782,JP,Oracle Corporation
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+103.15.90.134,49678,VN,Vnpt Corp
+138.2.48.109,26412,JP,Oracle Corporation
