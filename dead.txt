@@ -1,17 +1,20 @@
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
-158.101.146.3,44872,JP,Oracle Corporation
-91.192.81.154,2053,SG,Melbikomas Uab
-45.77.25.6,27854,JP,The Constant Company, LLC
-217.142.250.195,587,JP,Oracle Corporation
-176.97.66.175,443,AE,M Europe SRL
-118.27.12.40,38443,JP,Gmo Internet Group, Inc.
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-5.34.176.119,81,SG,GREEN FLOID LLC
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-131.186.24.124,587,KR,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-64.110.104.30,443,JP,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-140.238.5.75,13644,KR,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+138.2.10.217,27446,JP,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+43.218.77.16,443,ID,Amazon.com, Inc.
+3.1.116.161,2053,SG,Amazon.com, Inc.
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+45.76.198.248,443,JP,The Constant Company, LLC
+149.28.21.106,443,JP,The Constant Company, LLC
+132.145.84.148,39567,KR,Oracle Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+45.86.228.104,443,AE,Bluevps Ou
+138.2.74.219,28616,SG,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
 213.35.108.135,12596,SG,Oracle Corporation
