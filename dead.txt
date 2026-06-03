@@ -1,20 +1,20 @@
-138.2.74.219,28616,SG,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
-103.75.118.144,2053,JP,Brainstorm Network, INC
-168.138.198.7,27560,JP,Oracle Corporation
-45.76.198.248,443,JP,The Constant Company, LLC
-213.35.108.135,12596,SG,Oracle Corporation
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-138.2.95.61,1111,SG,Oracle Corporation
-132.226.21.116,6056,KR,Oracle Corporation
-143.42.66.91,443,SG,Akamai Technologies, Inc.
+146.56.140.79,44699,KR,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
 141.147.183.49,29876,JP,Oracle Corporation
-217.142.138.61,37914,KR,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+20.235.105.146,443,IN,Microsoft Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+3.1.116.161,8443,SG,Amazon.com, Inc.
+217.142.250.195,587,JP,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+146.56.140.79,22561,KR,Oracle Corporation
 158.101.146.3,44872,JP,Oracle Corporation
-176.97.66.175,443,AE,M Europe SRL
-168.138.46.67,443,JP,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+138.2.18.82,8880,JP,Oracle Corporation
+138.2.10.149,45638,JP,Oracle Corporation
