@@ -1,18 +1,16 @@
-164.52.2.98,443,SG,Cds Global Cloud Co., LTD
-168.138.165.174,443,SG,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-152.70.76.104,46000,IN,Oracle Corporation
-103.106.228.126,2053,JP,Brainstorm Network, INC
-217.142.138.61,37914,KR,Oracle Corporation
-118.27.12.40,38443,JP,Gmo Internet, Inc.
-138.2.59.96,10129,JP,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-138.2.74.219,28616,SG,Oracle Corporation
-91.192.81.154,2053,SG,Melbikomas Uab
-217.142.230.253,587,JP,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-45.77.25.6,48828,JP,The Constant Company, LLC
+150.230.214.172,16957,JP,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
 5.34.176.119,81,SG,GREEN FLOID LLC
+140.238.37.103,14782,JP,Oracle Corporation
+140.83.57.183,22735,JP,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+118.27.12.40,38443,JP,Gmo Internet, Inc.
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+91.192.81.154,2053,SG,Melbikomas Uab
+103.75.118.144,2053,JP,Brainstorm Network, INC
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+146.56.140.79,22561,KR,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
