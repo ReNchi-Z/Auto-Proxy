@@ -1,20 +1,20 @@
-47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
-158.101.146.3,44872,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
-140.83.57.183,22735,JP,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-140.238.5.75,13644,KR,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-158.101.154.245,47001,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-213.35.100.31,47112,SG,Oracle Corporation
 149.28.21.106,443,JP,The Constant Company, LLC
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+140.83.57.20,13118,JP,Oracle Corporation
+168.138.197.147,12345,JP,Oracle Corporation
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+152.70.76.104,46000,IN,Oracle Corporation
+140.83.57.183,22735,JP,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+138.2.18.82,8880,JP,Oracle Corporation
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+140.238.37.103,14782,JP,Oracle Corporation
+146.56.140.79,20309,KR,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+168.138.198.7,27560,JP,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+138.2.59.96,10129,JP,Oracle Corporation
 152.69.192.40,57005,JP,Oracle Corporation
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-138.2.32.76,15821,JP,Oracle Corporation
-146.56.140.79,44699,KR,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-146.235.18.248,45137,SG,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
