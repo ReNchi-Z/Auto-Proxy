@@ -1,20 +1,17 @@
-144.24.87.69,50001,KR,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
-146.56.140.79,20309,KR,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-152.70.76.104,46000,IN,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-217.142.250.195,587,JP,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+176.97.66.175,443,AE,M Europe SRL
+138.2.48.109,26412,JP,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
 149.28.21.106,443,JP,The Constant Company, LLC
-140.238.37.103,14782,JP,Oracle Corporation
-146.56.99.255,56789,KR,Oracle Corporation
-138.2.74.219,28616,SG,Oracle Corporation
-132.226.21.116,6056,KR,Oracle Corporation
-152.69.229.175,22558,KR,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
+141.147.183.49,29876,JP,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+158.101.146.3,54516,JP,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
