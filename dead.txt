@@ -1,19 +1,18 @@
-64.110.70.205,23022,KR,Oracle Corporation
-141.147.183.49,29876,JP,Oracle Corporation
-164.52.2.100,443,SG,Cds Global Cloud Co., LTD
-139.162.102.152,7002,JP,Akamai Technologies, Inc.
-45.77.25.6,48828,JP,The Constant Company, LLC
-45.11.1.118,44004,JP,Datacamp Limited
-138.2.74.219,28616,SG,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-149.28.21.106,443,JP,The Constant Company, LLC
-103.75.118.144,2053,JP,Brainstorm Network, INC
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+47.74.254.191,8900,SG,Alibaba us Technology Co., Ltd.
+168.138.197.147,12345,JP,Oracle Corporation
+216.10.243.159,443,IN,PDR
 118.27.12.40,38443,JP,Gmo Internet, Inc.
-158.101.146.3,54516,JP,Oracle Corporation
-132.226.21.116,6056,KR,Oracle Corporation
-152.69.229.175,22558,KR,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
+45.76.183.217,49292,SG,The Constant Company, LLC
+103.106.228.126,2053,JP,Brainstorm Network, INC
+146.56.99.255,56789,KR,Oracle Corporation
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+176.97.66.175,443,AE,M Europe SRL
+45.11.1.118,44004,JP,Datacamp Limited
 168.138.46.67,443,JP,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-217.142.250.195,587,JP,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+45.77.25.6,48828,JP,The Constant Company, LLC
+141.147.183.49,29876,JP,Oracle Corporation
+138.2.49.197,587,JP,Oracle Corporation
+91.192.81.154,2053,SG,Melbikomas Uab
+213.35.108.135,12596,SG,Oracle Corporation
