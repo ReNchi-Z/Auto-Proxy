@@ -1,0 +1,20 @@
+138.2.10.149,45638,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+43.218.77.16,443,ID,Amazon.com, Inc.
+158.247.250.157,81,KR,The Constant Company, LLC
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+164.52.2.98,443,SG,Cds Global Cloud Co., LTD
+20.235.105.146,443,IN,Microsoft Corporation
+36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
+158.101.154.245,47001,JP,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+45.11.1.118,44004,JP,Datacamp Limited
+103.75.118.144,2053,JP,Brainstorm Network, INC
+146.56.140.79,44699,KR,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+146.56.140.79,20309,KR,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
+176.97.66.175,443,AE,M247 Europe SRL
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+146.56.99.255,56789,KR,Oracle Corporation
