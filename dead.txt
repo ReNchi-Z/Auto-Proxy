@@ -1,20 +1,20 @@
-146.56.99.255,56789,KR,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-168.138.46.67,443,JP,Oracle Corporation
-176.97.66.175,443,AE,M247 Europe SRL
-152.69.192.40,57005,JP,Oracle Corporation
-43.218.77.16,443,ID,Amazon.com, Inc.
 168.138.165.174,443,SG,Oracle Corporation
-164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+36.95.152.58,12137,ID,Telekomunikasi Indonesia (pt)
 140.238.5.75,13644,KR,Oracle Corporation
-138.2.18.82,8880,JP,Oracle Corporation
-144.24.87.69,50001,KR,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-140.83.57.20,13118,JP,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+103.106.228.126,2053,JP,Brainstorm Network, INC
+150.230.214.172,16957,JP,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+129.150.36.188,53435,SG,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
+140.238.37.103,14782,JP,Oracle Corporation
+138.2.95.61,1111,SG,Oracle Corporation
+43.133.10.236,33405,JP,Shenzhen Tencent Computer Systems Company Limited
 138.2.59.96,10129,JP,Oracle Corporation
 217.142.250.195,587,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-152.67.211.114,58337,KR,Oracle Corporation
-146.56.140.79,20309,KR,Oracle Corporation
+146.235.18.248,45137,SG,Oracle Corporation
+176.97.66.175,443,AE,M247 Europe SRL
