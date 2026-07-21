@@ -1,0 +1,19 @@
+118.27.12.40,38443,JP,Gmo Internet, Inc.
+141.147.152.229,23333,JP,Oracle Corporation
+146.56.140.79,44699,KR,Oracle Corporation
+164.52.2.100,443,SG,Cds Global Cloud Co., LTD
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+146.56.140.79,22561,KR,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+91.192.81.154,8443,SG,Melbikomas Uab
+45.76.183.217,49292,SG,The Constant Company, LLC
+45.77.25.6,27854,JP,The Constant Company, LLC
+158.101.154.245,47001,JP,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
