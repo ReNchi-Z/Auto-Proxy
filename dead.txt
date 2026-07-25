@@ -1,0 +1,17 @@
+138.2.10.149,45638,JP,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+45.11.1.118,44004,JP,Datacamp Limited
+103.106.228.126,2053,JP,Brainstorm Network, INC
+91.192.81.154,2053,SG,Melbikomas Uab
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+146.235.18.248,45137,SG,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+158.247.250.157,81,KR,The Constant Company, LLC
+146.56.140.79,20309,KR,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
