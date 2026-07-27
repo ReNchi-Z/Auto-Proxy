@@ -1,17 +1,19 @@
-103.75.118.144,2053,JP,Brainstorm Network, INC
-131.186.24.124,587,KR,Oracle Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-152.69.229.175,22558,KR,Oracle Corporation
-138.2.74.219,28616,SG,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-168.138.197.147,12345,JP,Oracle Corporation
-91.192.81.154,2053,SG,Melbikomas Uab
+20.235.105.146,443,IN,Microsoft Corporation
 216.10.243.159,443,IN,PDR
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-150.230.204.21,10243,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
 140.83.57.20,13118,JP,Oracle Corporation
-217.142.138.61,37914,KR,Oracle Corporation
+150.230.204.21,10243,JP,Oracle Corporation
+91.192.81.154,2053,SG,Melbikomas Uab
+150.230.5.34,45681,JP,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+211.43.3.98,29008,KR,Korea Telecom
+47.74.254.191,8900,SG,Alibaba (US) Technology Co., Ltd.
+152.70.76.104,46000,IN,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
 164.52.2.99,443,SG,Cds Global Cloud Co., LTD
+152.69.229.175,22558,KR,Oracle Corporation
+103.75.118.144,2053,JP,Brainstorm Network, INC
 138.2.10.217,27446,JP,Oracle Corporation
