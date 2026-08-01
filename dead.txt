@@ -1,4 +1,4 @@
-152.69.192.40,57005,JP,Oracle Corporation
-43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-138.2.59.96,10129,JP,Oracle Corporation
-36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+146.235.18.248,45137,SG,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+168.138.197.147,12345,JP,Oracle Corporation
