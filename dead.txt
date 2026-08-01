@@ -1,4 +1,0 @@
-146.235.18.248,45137,SG,Oracle Corporation
-217.142.250.195,587,JP,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
