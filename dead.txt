@@ -1,2 +1,4 @@
-45.77.25.6,48828,JP,The Constant Company, LLC
-211.43.3.98,29008,KR,Korea Telecom
+152.69.192.40,57005,JP,Oracle Corporation
+43.156.181.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
+138.2.59.96,10129,JP,Oracle Corporation
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
