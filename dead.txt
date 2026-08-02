@@ -1,0 +1,5 @@
+45.77.25.6,27854,JP,The Constant Company, LLC
+152.67.211.114,58337,KR,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+152.70.89.135,587,KR,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
