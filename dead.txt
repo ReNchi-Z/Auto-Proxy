@@ -1,0 +1,5 @@
+103.75.118.144,2053,JP,BrainStorm Network, Inc
+158.101.154.245,47001,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+118.27.12.40,38443,JP,GMO Internet, Inc.
