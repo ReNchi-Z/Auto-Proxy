@@ -1,0 +1,5 @@
+64.110.70.205,23022,KR,Oracle Corporation
+43.156.181.203,443,SG,Tencent Building, Kejizhongyi Avenue
+139.162.102.152,7002,JP,Akamai Connected Cloud
+158.101.154.245,47001,JP,Oracle Corporation
+216.10.243.159,443,IN,PUBLIC-DOMAIN-REGISTRY - PDR
