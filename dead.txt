@@ -1,5 +1,4 @@
-103.75.118.144,2053,JP,BrainStorm Network, Inc
-158.101.154.245,47001,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-118.27.12.40,38443,JP,GMO Internet, Inc.
+158.247.250.157,81,KR,The Constant Company, LLC
+149.28.21.106,443,JP,The Constant Company, LLC
+140.83.57.20,13118,JP,Oracle Corporation
+64.110.70.205,23022,KR,Oracle Corporation
