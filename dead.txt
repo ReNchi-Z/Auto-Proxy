@@ -1,0 +1,6 @@
+213.35.108.135,12596,SG,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
+43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
+152.32.181.246,44070,AE,UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+36.95.152.58,12137,ID,telkomnet-as-ap - PT Telekomunikasi Indonesia
+168.138.171.70,23280,SG,Oracle Corporation
