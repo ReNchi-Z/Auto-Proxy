@@ -1,4 +1,0 @@
-141.147.152.229,23333,JP,Oracle Corporation
-217.142.138.61,37914,KR,Oracle Corporation
-43.156.181.203,443,SG,Tencent Building, Kejizhongyi Avenue
-103.75.118.144,2053,JP,BrainStorm Network, Inc
