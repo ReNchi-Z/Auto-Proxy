@@ -1,4 +1,0 @@
-213.35.100.31,47112,SG,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Connected Cloud
