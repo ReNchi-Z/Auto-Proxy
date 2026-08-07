@@ -1,5 +1,0 @@
-138.2.95.61,1111,SG,Oracle Corporation
-143.42.66.91,443,SG,Akamai Connected Cloud
-164.52.2.98,443,SG,CDS Global Cloud Co., Ltd
-45.76.198.248,443,JP,The Constant Company, LLC
-158.101.154.245,47001,JP,Oracle Corporation
