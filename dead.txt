@@ -1,3 +1,0 @@
-152.67.211.114,58337,KR,Oracle Corporation
-146.235.18.248,45137,SG,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
