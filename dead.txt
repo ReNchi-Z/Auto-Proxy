@@ -1,0 +1,4 @@
+217.142.230.253,587,JP,Oracle Corporation
+149.28.21.106,443,JP,The Constant Company, LLC
+138.2.10.217,27446,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
