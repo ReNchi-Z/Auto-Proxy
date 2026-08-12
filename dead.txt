@@ -1,5 +1,0 @@
-216.10.243.159,443,IN,PUBLIC-DOMAIN-REGISTRY - PDR
-158.101.152.6,2919,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-158.247.250.157,81,KR,The Constant Company, LLC
