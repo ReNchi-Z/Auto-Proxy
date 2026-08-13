@@ -1,5 +1,0 @@
-152.70.76.104,46000,IN,Oracle Corporation
-138.2.10.149,45638,JP,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba US Technology Co., Ltd.
-138.2.59.96,10129,JP,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
