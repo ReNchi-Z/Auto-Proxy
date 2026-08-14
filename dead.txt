@@ -1,5 +1,0 @@
-43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
-158.101.152.6,2919,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-164.52.2.98,443,SG,CDS Global Cloud Co., Ltd
