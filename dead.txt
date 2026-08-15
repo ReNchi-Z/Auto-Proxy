@@ -1,4 +1,0 @@
-45.11.1.118,44004,JP,Datacamp Limited
-45.77.25.6,27854,JP,The Constant Company, LLC
-158.247.250.157,81,KR,The Constant Company, LLC
-168.138.171.70,23280,SG,Oracle Corporation
