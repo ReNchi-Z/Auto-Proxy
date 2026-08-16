@@ -1,0 +1,5 @@
+47.74.254.191,8900,SG,Alibaba US Technology Co., Ltd.
+131.186.63.89,11655,JP,Oracle Corporation
+164.52.2.98,443,SG,CDS Global Cloud Co., Ltd
+20.235.105.146,443,IN,Microsoft Corporation
+168.138.197.147,12345,JP,Oracle Corporation
