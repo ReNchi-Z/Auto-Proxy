@@ -1,5 +1,0 @@
-152.70.89.135,587,KR,Oracle Corporation
-131.186.24.124,587,KR,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
-217.142.230.253,587,JP,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
