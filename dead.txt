@@ -1,5 +1,0 @@
-158.247.250.157,81,KR,The Constant Company, LLC
-141.147.152.229,23333,JP,Oracle Corporation
-176.97.66.175,443,AE,M247 Europe SRL
-45.86.228.104,443,AE,BlueVPS OU
-217.142.230.253,587,JP,Oracle Corporation
