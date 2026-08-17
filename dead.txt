@@ -1,5 +1,0 @@
-146.56.140.79,20309,KR,Oracle Corporation
-164.52.2.99,443,SG,CDS Global Cloud Co., Ltd
-216.10.243.159,443,IN,PUBLIC-DOMAIN-REGISTRY - PDR
-138.2.74.219,28616,SG,Oracle Corporation
-20.235.105.146,443,IN,Microsoft Corporation
