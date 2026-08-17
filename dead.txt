@@ -1,0 +1,4 @@
+217.142.138.61,37914,KR,Oracle Corporation
+152.67.211.114,58337,KR,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+146.56.140.79,22561,KR,Oracle Corporation
