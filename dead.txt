@@ -1,4 +1,5 @@
-217.142.138.61,37914,KR,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-213.35.100.31,47112,SG,Oracle Corporation
-146.56.140.79,22561,KR,Oracle Corporation
+158.247.250.157,81,KR,The Constant Company, LLC
+141.147.152.229,23333,JP,Oracle Corporation
+176.97.66.175,443,AE,M247 Europe SRL
+45.86.228.104,443,AE,BlueVPS OU
+217.142.230.253,587,JP,Oracle Corporation
