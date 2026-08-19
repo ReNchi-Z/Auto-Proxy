@@ -1,4 +1,0 @@
-158.247.250.157,81,KR,The Constant Company, LLC
-140.238.37.103,14782,JP,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-146.56.140.79,44699,KR,Oracle Corporation
