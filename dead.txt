@@ -1,2 +1,0 @@
-217.142.138.61,37914,KR,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
