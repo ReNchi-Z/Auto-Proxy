@@ -1,0 +1,4 @@
+45.77.25.6,48828,JP,The Constant Company, LLC
+36.95.152.58,12137,ID,telkomnet-as-ap - PT Telekomunikasi Indonesia
+138.2.74.219,28616,SG,Oracle Corporation
+164.52.2.100,443,SG,CDS Global Cloud Co., Ltd
