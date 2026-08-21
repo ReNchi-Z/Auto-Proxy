@@ -1,0 +1,5 @@
+131.186.63.89,11655,JP,Oracle Corporation
+13.250.131.37,443,SG,Amazon.com, Inc.
+152.69.229.175,22558,KR,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+45.77.25.6,48828,JP,The Constant Company, LLC
