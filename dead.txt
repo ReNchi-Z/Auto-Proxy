@@ -1,5 +1,0 @@
-45.77.25.6,48828,JP,The Constant Company, LLC
-132.226.21.116,6056,KR,Oracle Corporation
-152.67.211.114,58337,KR,Oracle Corporation
-168.138.197.147,12345,JP,Oracle Corporation
-5.34.176.119,81,SG,ROUTE 95 LLC
