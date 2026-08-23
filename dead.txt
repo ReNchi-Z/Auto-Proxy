@@ -1,5 +1,5 @@
-220.84.186.17,12568,KR,Korea Telecom
-45.76.198.248,443,JP,The Constant Company, LLC
-164.52.2.98,443,SG,CDS Global Cloud Co., Ltd
-131.186.63.89,11655,JP,Oracle Corporation
-43.156.181.203,443,SG,Tencent Building, Kejizhongyi Avenue
+176.97.66.175,443,AE,M247 Europe SRL
+141.147.152.229,23333,JP,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
+138.2.48.109,26412,JP,Oracle Corporation
