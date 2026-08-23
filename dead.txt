@@ -1,5 +1,0 @@
-176.97.66.175,443,AE,M247 Europe SRL
-141.147.152.229,23333,JP,Oracle Corporation
-217.142.250.195,587,JP,Oracle Corporation
-43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
-138.2.48.109,26412,JP,Oracle Corporation
