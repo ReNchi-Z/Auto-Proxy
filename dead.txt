@@ -1,0 +1,16 @@
+164.52.2.100,443,SG,CDS Global Cloud Co., Ltd
+140.238.37.103,14782,JP,Oracle Corporation
+103.106.228.126,2053,JP,BrainStorm Network, Inc
+132.226.21.116,6056,KR,Oracle Corporation
+118.27.12.40,38443,JP,GMO Internet, Inc.
+45.77.25.6,27854,JP,The Constant Company, LLC
+45.77.25.6,48828,JP,The Constant Company, LLC
+149.28.21.106,443,JP,The Constant Company, LLC
+141.147.152.229,23333,JP,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+152.32.181.246,44070,AE,UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+168.138.197.147,12345,JP,Oracle Corporation
+131.186.63.89,11655,JP,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+140.238.5.75,13644,KR,Oracle Corporation
+220.84.186.17,12568,KR,Korea Telecom
