@@ -1,19 +1,19 @@
+213.35.100.31,47112,SG,Oracle Corporation
+168.138.197.147,12345,JP,Oracle Corporation
 138.2.48.109,26412,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD-HK-AS-AP - UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+131.186.63.89,11655,JP,Oracle Corporation
+131.186.24.124,587,KR,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
 103.75.118.144,2053,JP,BrainStorm Network, Inc
 47.74.254.191,8900,SG,Alibaba US Technology Co., Ltd.
-45.77.25.6,27854,JP,The Constant Company, LLC
-13.250.131.37,443,SG,Amazon.com, Inc.
-43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
-118.27.12.40,38443,JP,GMO Internet, Inc.
-138.2.49.197,587,JP,Oracle Corporation
+144.24.87.69,50001,KR,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
+176.97.66.175,443,AE,M247 Europe SRL
 132.145.84.148,39567,KR,Oracle Corporation
-220.84.186.17,12568,KR,Korea Telecom
-152.70.76.104,46000,IN,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-216.10.243.159,443,IN,PUBLIC-DOMAIN-REGISTRY - PDR
-129.150.36.188,53435,SG,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Connected Cloud
+43.156.181.203,443,SG,Tencent Building, Kejizhongyi Avenue
+5.34.176.119,81,SG,ROUTE 95 LLC
+118.27.12.40,38443,JP,GMO Internet, Inc.
+103.106.228.126,2053,JP,BrainStorm Network, Inc
+140.83.57.20,13118,JP,Oracle Corporation
