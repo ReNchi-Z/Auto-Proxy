@@ -1,18 +1,20 @@
-143.42.66.91,443,SG,Akamai Technologies, Inc.
-138.2.48.109,26412,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
 138.2.32.76,15821,JP,Oracle Corporation
-45.77.25.6,48828,JP,The Constant Company, LLC
-5.34.176.119,81,SG,ROUTE 95 LLC
-138.2.59.96,10129,JP,Oracle Corporation
-13.250.131.37,443,SG,Amazon.com, Inc.
-20.235.105.146,443,IN,Microsoft Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-36.95.152.58,12137,ID,Telekomunikasi Indonesia PT
-144.24.87.69,50001,KR,Oracle Corporation
-132.145.84.148,39567,KR,Oracle Corporation
+217.142.138.61,37914,KR,Oracle Corporation
+138.2.74.219,28616,SG,Oracle Corporation
+43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
 220.84.186.17,12568,KR,Korea Telecom
+103.106.228.126,2053,JP,BrainStorm Network, Inc
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+168.138.165.174,443,SG,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+216.10.243.159,443,IN,PDR
+168.138.46.67,443,JP,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
-152.70.76.104,46000,IN,Oracle Corporation
+132.226.21.116,6056,KR,Oracle Corporation
 150.230.214.172,16957,JP,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-140.238.37.103,14782,JP,Oracle Corporation
+152.69.229.175,22558,KR,Oracle Corporation
+36.95.152.58,12137,ID,Telekomunikasi Indonesia PT
+138.2.18.82,8880,JP,Oracle Corporation
