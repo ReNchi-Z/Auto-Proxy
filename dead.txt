@@ -1,20 +1,21 @@
-132.226.21.116,6056,KR,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-149.28.21.106,443,JP,The Constant Company, LLC
-138.2.74.219,28616,SG,Oracle Corporation
-150.230.5.34,45681,JP,Oracle Corporation
-164.52.2.99,443,SG,CDS Global Cloud Co., Ltd
-45.77.25.6,48828,JP,The Constant Company, LLC
-43.156.116.194,443,SG,Shenzhen Tencent Computer Systems Company Limited
-131.186.24.124,587,KR,Oracle Corporation
-45.86.228.104,443,AE,BlueVPS OU
-176.97.66.175,443,AE,M247 Europe SRL
-216.10.243.159,443,IN,PDR
-140.83.57.20,13118,JP,Oracle Corporation
-131.186.63.89,11655,JP,Oracle Corporation
-47.74.254.191,8900,SG,Alibaba US Technology Co., Ltd.
-141.147.152.229,23333,JP,Oracle Corporation
-152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
-146.235.18.248,45137,SG,Oracle Corporation
 64.110.104.30,443,JP,Oracle Corporation
-5.34.176.119,81,SG,ROUTE 95 LLC
+140.238.37.103,14782,JP,Oracle Corporation
+152.70.76.104,46000,IN,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+45.76.198.248,443,JP,The Constant Company, LLC
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+150.230.214.172,16957,JP,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+36.95.152.58,12137,ID,Telekomunikasi Indonesia PT
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+144.24.87.69,50001,KR,Oracle Corporation
+164.52.2.99,443,SG,CDS Global Cloud Co., Ltd
+152.32.181.246,44070,AE,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+118.27.12.40,38443,JP,GMO Internet, Inc.
+152.69.229.175,22558,KR,Oracle Corporation
+45.86.228.104,443,AE,BlueVPS OU
+146.235.18.248,45137,SG,Oracle Corporation
