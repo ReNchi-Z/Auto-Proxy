@@ -1,0 +1,20 @@
+143.42.66.91,443,SG,Akamai Technologies, Inc.
+139.162.102.152,7002,JP,Akamai Technologies, Inc.
+138.2.74.219,28616,SG,Oracle Corporation
+138.2.18.82,8880,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+103.75.118.144,2053,JP,BrainStorm Network, Inc
+140.238.5.75,13644,KR,Oracle Corporation
+5.34.176.119,81,SG,ROUTE 95 LLC
+152.70.76.104,46000,IN,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+213.35.100.31,47112,SG,Oracle Corporation
+217.142.250.195,587,JP,Oracle Corporation
+132.145.84.148,39567,KR,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+152.70.89.135,587,KR,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+176.97.66.175,443,AE,M247 Europe SRL
+138.2.59.96,10129,JP,Oracle Corporation
+158.247.250.157,81,KR,The Constant Company, LLC
+131.186.24.124,587,KR,Oracle Corporation
